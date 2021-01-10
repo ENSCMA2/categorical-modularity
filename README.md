@@ -1,1 +1,1 @@
-# categorical-modularity
+# Categorical Modularity
