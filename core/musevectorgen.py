@@ -2,9 +2,11 @@
 Generate MUSE embeddings of a list of words. Feel free to use custom input
 file names, output file names, and model names, or try our defaults.
 To use our defaults, download the English MUSE model from the table at
-https://github.com/facebookresearch/MUSE#download.
+https://github.com/facebookresearch/MUSE#download and place it into a directory
+called 'models' within this directory.
 '''
 
+# imports
 import io
 import numpy as np
 import nltk

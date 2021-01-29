@@ -1,67 +1,56 @@
-import io
+'''
+For a list of n words, generate an n x n matrix, where row i, column j takes on
+value k if word j is the kth nearest neighbor of word i in the given
+FastText-compatible model (FastText or subs2vec). Feel free to use your
+own word files, models, and out files, or try our defaults. To try our defaults,
+download the English FastText bin file from
+https://fasttext.cc/docs/en/crawl-vectors.html and place it into a directory
+called 'models' within this directory.
+'''
+
+# imports
 import numpy as np
-import nltk
-from nltk.stem.porter import *
-from nltk.stem.snowball import SnowballStemmer
 import string
-from nltk.stem import WordNetLemmatizer
-import math
-from nltk.corpus import stopwords
 import fasttext
-import fasttext.util
-import sys
+import argparse
 
-lemmatizer = WordNetLemmatizer()
-stemmer = PorterStemmer()
-snowball = SnowballStemmer("porter")
-sl = ['arabic', 'english', 'dutch', 'portuguese', 'spanish', 'danish', 'finnish',
-'french', 'german', 'hungarian', 'italian', 'norwegian', 'romanian', 'russian',
-'swedish']
-
-path_root = '/Users/karinahalevy/Code/MUSE/data/wiki.multi.'
-path_suffix = '.vec'
-language_paths = ['ar', 'bg', 'ca', 'hr', 'cs', 'da', 'nl', 'en', 'et', 'fi',
-                  'fr', 'de', 'el', 'he', 'hu', 'id', 'it', 'mk', 'no', 'pl',
-                  'pt', 'ro', 'ru', 'sk', 'sl', 'es', 'sv', 'tr', 'uk', 'vi']
-languages = ['arabic', 'bulgarian', 'catalan', 'croatian', 'czech', 'danish',
-              'dutch', 'english', 'estonian', 'finnish', 'french', 'german',
-              'greek', 'hebrew', 'hungarian', 'indonesian', 'italian',
-              'macedonian', 'norwegian', 'polish', 'portuguese', 'romanian',
-              'russian', 'slovak', 'slovenian', 'spanish', 'swedish',
-              'turkish', 'ukrainian', 'vietnamese']
-word_files = [i + '.txt' for i in languages]
+# process command-line arguments
+parser = argparse.ArgumentParser()
+parser.add_argument("--word_file",
+    help = "name of file with word list, 1 column no headers",
+    default = "words/english.txt")
+parser.add_argument("--model_file",
+    help = "name of FastText-compatible model file to load,"
+            + "should be a .bin file",
+    default = "models/wiki.en.bin")
+parser.add_argument("--out_file",
+    help = "name of file to write vectors to",
+    default = "english_ft_matrix.txt")
+args = parser.parse_args()
 
 
+# get nearest neighbors of a word given a model, using fasttext.cc API
 def get_nn_words(word, model):
   nns = []
   m = list(model.get_nearest_neighbors(word, k = 1000000))
-  print(len(m))
   for s, w in m:
     nns.append(w)
   return nns
 
-i = int(sys.argv[1])
-print(languages[i])
 mat = []
-model = fasttext.load_model('wiki.' + language_paths[i] + '.bin')
-with open(word_files[i], "r") as words:
+model = fasttext.load_model(args.model_file)
+with open(args.word_file, "r") as words:
   wds = [line.lower().strip("\n") for line in words]
-  print(len(wds))
-for j in range(1):
+for j in range(len(wds)):
   neighbs = get_nn_words(wds[j], model)
-  '''
   vals = []
-  for n in range(1):
+  for n in range(len(wds)):
     try:
       k = neighbs.index(wds[n])
     except:
       k = -1
     vals.append(k)
   mat.append(vals)
-  '''
-'''
-with open(languages[i] + "matrixft500.txt", "w") as o:
+with open(args.out_file, "w") as o:
   for q in range(len(wds)):
     o.write(str(mat[q]) + "\n")
-print("done with" + languages[i])
-'''
