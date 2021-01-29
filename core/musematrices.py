@@ -30,7 +30,7 @@ parser.add_argument("--model_file",
     default = "models/wiki.multi.en.vec")
 parser.add_argument("--out_file",
     help = "name of file to write vectors to",
-    default = "english_muse_matrix.txt")
+    default = "english_muse_matrix.csv")
 parser.add_argument("--language",
     help = "language of model, needed for word stemming",
     default = "english")
@@ -161,6 +161,6 @@ for j in range(len(wds)):
     mat.append(vals)
 with open(args.out_file, "w") as o:
     for q in range(len(wds)):
-        o.write(str(mat[q]) + "\n")
+        o.write(str(mat[q]).strip("[]") + "\n")
 
 

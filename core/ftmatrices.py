@@ -25,7 +25,7 @@ parser.add_argument("--model_file",
     default = "models/wiki.en.bin")
 parser.add_argument("--out_file",
     help = "name of file to write vectors to",
-    default = "english_ft_matrix.txt")
+    default = "english_ft_matrix.csv")
 args = parser.parse_args()
 
 
@@ -53,4 +53,4 @@ for j in range(len(wds)):
   mat.append(vals)
 with open(args.out_file, "w") as o:
   for q in range(len(wds)):
-    o.write(str(mat[q]) + "\n")
+    o.write(str(mat[q]).strip("[]") + "\n")
