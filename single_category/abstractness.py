@@ -1,6 +1,9 @@
 '''
-Calculate single-category modularity correlations with
+Calculate single-category modularity correlations with a given performance
+metric. You can enter your own files or try our defaults! Note that
+we recommend using csv files, as this script reads data using csv.
 '''
+
 # imports
 import csv
 import argparse
