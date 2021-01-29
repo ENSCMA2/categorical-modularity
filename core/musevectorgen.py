@@ -1,3 +1,10 @@
+'''
+Generate MUSE embeddings of a list of words. Feel free to use custom input
+file names, output file names, and model names, or try our defaults.
+To use our defaults, download the English MUSE model from the table at
+https://github.com/facebookresearch/MUSE#download.
+'''
+
 import io
 import numpy as np
 import nltk
@@ -5,14 +12,35 @@ from nltk.stem.porter import *
 from nltk.stem.snowball import SnowballStemmer
 import string
 from nltk.stem import WordNetLemmatizer
-import math
 from nltk.corpus import stopwords
+import argparse
 
+# process command-line arguments
+parser = argparse.ArgumentParser()
+parser.add_argument("--word_file",
+    help = "name of file with word list, 1 column, no headers,"
+            + "1st row = column headers, no row headers",
+    default = "words/english.txt")
+parser.add_argument("--model_file",
+    help = "name of MUSE-compatible model file to load,"
+            + "should be a .vec file",
+    default = "models/wiki.multi.en.vec")
+parser.add_argument("--out_file",
+    help = "name of file to write vectors to",
+    default = "english_muse_vecs.txt")
+parser.add_argument("--language",
+    help = "language of model, needed for word stemming",
+    default = "english")
+args = parser.parse_args()
+
+# initialize some preprocessors and constants
 lemmatizer = WordNetLemmatizer()
 stemmer = PorterStemmer()
-snowball = SnowballStemmer("porter")
-sl = ['arabic', 'english', 'dutch', 'portuguese', 'spanish']
-def load_vec(emb_path, nmax=50000):
+nmax = 200000  # maximum number of word embeddings to load
+
+# loads embedding model from model_file path
+# source: https://github.com/facebookresearch/MUSE/blob/master/demo.ipynb
+def load_vec(emb_path, nmax = 200000):
     vectors = []
     word2id = {}
     with io.open(emb_path, 'r', encoding='utf-8', newline='\n', errors='ignore') as f:
@@ -29,25 +57,10 @@ def load_vec(emb_path, nmax=50000):
     embeddings = np.vstack(vectors)
     return embeddings, id2word, word2id
 
-path_root = '/Users/karinahalevy/Code/MUSE/data/wiki.multi.'
-path_suffix = '.vec'
-languages = ['arabic', 'bulgarian', 'catalan', 'croatian', 'czech', 'danish',
-              'dutch', 'english', 'estonian', 'finnish', 'french',
-              'greek', 'hebrew', 'hungarian', 'indonesian', 'italian',
-              'macedonian', 'norwegian', 'polish', 'portuguese', 'romanian',
-              'russian', 'slovak', 'slovenian', 'spanish', 'swedish',
-              'turkish', 'ukrainian', 'vietnamese']
+# load the MUSE model
+loaded = load_vec(args.model_file, nmax)
 
-language_paths = ['ar', 'bg', 'ca', 'hr', 'cs', 'da', 'nl', 'en', 'et', 'fi',
-                  'fr', 'el', 'he', 'hu', 'id', 'it', 'mk', 'no', 'pl',
-                  'pt', 'ro', 'ru', 'sk', 'sl', 'es', 'sv', 'tr', 'uk', 'vi']
-word_files = [i + '.txt' for i in languages]
-vecs = [path_root + i + path_suffix for i in language_paths]
-nmax = 50000  # maximum number of word embeddings to load
-print("on line 31")
-loaded = [(load_vec(p, nmax)) for p in vecs]
-print("loaded all vectors")
-
+# calculate sentence embedding by taking mean of component words
 def average(embeddings):
     num_embeddings = len(embeddings)
     new_embedding = []
@@ -58,10 +71,15 @@ def average(embeddings):
         new_embedding.append(rs / num_embeddings)
     return np.array(new_embedding)
 
-def get_emb(word, src_emb, src_id2word, tgt_emb, tgt_id2word, lang, K=30):
+# get embedding of a word given a source and target space and a language
+# source: code modified from
+    # https://github.com/facebookresearch/MUSE/blob/master/demo.ipynb
+def get_emb(word, src_emb, src_id2word, tgt_emb, tgt_id2word, lang):
     word2id = {v: k for k, v in src_id2word.items()}
     tok = word.split()
     embs = []
+    # try all possible lemmatizations and stems of a word before returning
+        # a zero vector in case the word is out-of-vocabulary
     for i in tok:
         try:
             e = src_emb[word2id[i]]
@@ -73,12 +91,9 @@ def get_emb(word, src_emb, src_id2word, tgt_emb, tgt_id2word, lang, K=30):
                     e = src_emb[word2id[lemmatizer.lemmatize(i)]]
                 except:
                     try:
-                        e = src_emb[word2id[snowball.stem(i)]]
+                        e = src_emb[word2id[SnowballStemmer(lang).stem(i)]]
                     except:
-                        try:
-                            e = src_emb[word2id[SnowballStemmer(lang).stem(i)]]
-                        except:
-                            e = []
+                        e = []
         if len(list(e)) > 0:
           embs.append(e)
     if len(embs) == 0:
@@ -87,49 +102,11 @@ def get_emb(word, src_emb, src_id2word, tgt_emb, tgt_id2word, lang, K=30):
         word_emb = average(embs)
     return word_emb
 
-def get_nn(word, src_emb, src_id2word, tgt_emb, tgt_id2word, lang, K=30):
-    word2id = {v: k for k, v in src_id2word.items()}
-    tok = word.split()
-    embs = []
-    for i in tok:
-        try:
-            e = src_emb[word2id[i]]
-        except:
-            try:
-                e = src_emb[word2id[stemmer.stem(i)]]
-            except:
-                try:
-                    e = src_emb[word2id[lemmatizer.lemmatize(i)]]
-                except:
-                    try:
-                        e = src_emb[word2id[snowball.stem(i)]]
-                    except:
-                        try:
-                            e = src_emb[word2id[SnowballStemmer(lang).stem(i)]]
-                        except:
-                            e = []
-        if len(list(e)) > 0:
-          embs.append(e)
-    if len(embs) == 0:
-        word_emb = np.array([0] * 300)
-    else:
-        word_emb = average(embs)
-    # print("Nearest neighbors of \"%s\":" % word)
-    scores = (tgt_emb / np.linalg.norm(tgt_emb, 2, 1)[:, None]).dot(word_emb / np.linalg.norm(word_emb))
-    k_best = scores.argsort()[-K:][::-1]
-    nns = []
-    for i, idx in enumerate(k_best):
-        nns.append((scores[idx], tgt_id2word[idx]))
-    return nns
-
-for i in range(len(languages)):
-  print(languages[i])
-  with open(word_files[i], "r") as words:
+# read words, convert to embeddings, write to out file
+with open(args.word_file, "r") as words:
     wds = [line.lower() for line in words]
-  wv = [get_emb(wds[j], loaded[i][0], loaded[i][1], loaded[i][0], loaded[i][1], languages[i])
-        for j in range(len(wds))]
-  print("generated wv")
-  print("generated cosines and angles")
-  with open(languages[i] + "musevecs.txt", "w") as o:
-    for v in wv:
-      o.write(str(list(v)) + "\n")
+    wv = [get_emb(wds[j], loaded[0], loaded[1], loaded[0], loaded[1], args.language)
+          for j in range(len(wds))]
+    with open(args.out_file, "w") as o:
+        for v in wv:
+            o.write(str(list(v)) + "\n")

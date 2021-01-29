@@ -30,32 +30,7 @@ languages = ['arabic', 'bulgarian', 'catalan', 'croatian', 'czech', 'danish',
               'russian', 'slovak', 'slovenian', 'spanish', 'swedish',
               'turkish', 'ukrainian', 'vietnamese']
 word_files = [i + '.txt' for i in languages]
-stops = {'hebrew': ['אני', 'אני', 'שלי', 'את עצמי', 'אנחנו', 'שלנו', 'שלנו',
-'את עצמנו', 'אתם', 'אתם', 'אתם', 'אתם', 'אתם', 'הייתם', 'שלכם', 'שלכם', 'עצמכם',
-'עצמכם', 'הוא', 'הוא', 'שלו', 'עצמו', 'היא', 'היא', 'היא', 'שלה', 'עצמה', 'זה',
-'זה', 'זה', 'זה', 'עצמו', 'הם', 'הם', 'שלהם', 'שלהם', 'שלהם', 'עצמם', 'מה',
-'איזה', 'מי', 'מי', 'זה', 'זה', 'זה', 'זה', 'אלה', 'אלה', 'אני', 'הוא', 'היה', 'היה',
-'עשה','א', 'ה', 'ו', 'אבל', 'אם', 'או', 'כי', 'כמו', 'עד',
-'בעוד', 'של', 'ב', 'על ידי', 'עבור', 'עם', 'בערך', 'נגד', 'בין', 'אל', 'דרך', 'במהלך',
-'לפני', 'אחרי', 'מעל', 'מתחת', 'עד', 'מ', 'למעלה', 'למטה', 'פנימה', 'על', 'כבוי',
-'מעל', 'מעל', 'תחת', 'שוב', 'עוד יותר', 'ואז', 'פעם', 'כאן', 'שם', 'מתי', 'איפה',
-'למה', 'איך', 'כולם', 'כל אחד', 'שניהם', 'כל אחד', 'כמה', 'יותר', 'יותר', 'אחר',
-'כמה', 'כזה', 'לא', 'וגם', 'לא', 'רק', 'בבעלותו', 'אותו דבר', 'כך', 'מאשר יותר מדי',
-'יכול', 'יכול', 'פשוט', 'לא', 'צריך', 'צריך', 'צריך', 'עכשיו', 'לא', 'לא יכול', 'לא',
-'לא', 'לא', 'לא', 'לא', 'לא', 'לא', 'לא יכול', 'אסור', 'לא צריך', 'לא צריך', 'לא צריך',
-'לא', 'לא', 'לא', 'לא', 'לא'],
-'estonian': ['mina', 'minu', 'meie', 'ise', 'sina', 'sina ise', 'tema',
-'tema ise', 'ta', 'ta on', 'tema', 'ta ise', 'see', 'see iseenesest', 'nemad',
-'nende', 'oma', 'ise', 'mis', 'kes', 'see', 'need', 'need olen on', 'on', 'oli',
-'olid', 'tuleb', 'on', 'mida', 'oli', 'millel teha', 'ei', 'tehes A-sse', 'on ja',
-'aga kui või', 'sest kuna', 'kuni', 'samas', 'kus', 'juures', 'poolt', 'umbes',
-'vastu', 'sisse', 'läbi', 'ajal', 'enne', 'pärast', 'üle', 'all', 'üles', 'alla',
-'välja', 'üle', 'jälle', 'edasi', 'siis üks kord', 'siin', 'seal', 'millal',
-'kus', 'miks', 'kuidas', 'kõiki', 'mõlemat', 'mõnd', 'vähe', 'enamikku', 'kõige',
-'muud', 'mõnda', 'sellist', 'ei', 'ega', 'mitte', 'ainult', 'oma', 'sama', 'seega',
-'ka', 'väga', 'saab', 'lihtsalt', 'ei peaks', 'peaks', 'oleks pidanud',
-'nüüd ei peaks', 'ei saanud', 'ei', 'ei olnud', 'pole', 'ei ole', 'ei tohi',
-'ei pea', 'pole', 'ei tohiks', 'polnud', 'ei olnud', 'ei oleks']}
+
 
 def get_nn_words(word, model):
   nns = []
