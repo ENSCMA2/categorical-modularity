@@ -68,6 +68,12 @@ parser.add_argument("--target_test_from_file",
 parser.add_argument("--english_test_from_file",
     help = "name of file with English test vectors for given language from English",
     default = "data/spanish_from_english_spanish_translation_ft_vecs_test.txt")
+parser.add_argument("--train_size",
+    help = "number of entries in training data",
+    default = "5000")
+parser.add_argument("--test_size",
+    help = "number of entries in testing data",
+    default = "1500")
 parser.add_argument("--language",
     help = "name of language that the model/words correspond to, "
     + "will be used to name output files",
@@ -79,15 +85,15 @@ parser.add_argument("--model_name",
 args = parser.parse_args()
 
 # load data files
-from_train_x = load(args.english_train_from_file, 5000)
-from_train_y = load(args.target_train_from_file, 5000)
-from_test_x = load(args.english_test_from_file, 1500)
-from_test_y = load(args.target_test_from_file, 1500)
+from_train_x = load(args.english_train_from_file, int(args.train_size))
+from_train_y = load(args.target_train_from_file, int(args.train_size))
+from_test_x = load(args.english_test_from_file, int(args.test_size))
+from_test_y = load(args.target_test_from_file, int(args.test_size))
 
-to_train_x = load(args.target_train_to_file, 5000)
-to_train_y = load(args.english_train_to_file, 5000)
-to_test_x = load(args.target_test_to_file, 1500)
-to_test_y = load(args.english_test_to_file, 1500)
+to_train_x = load(args.target_train_to_file, int(args.train_size))
+to_train_y = load(args.english_train_to_file, int(args.train_size))
+to_test_x = load(args.target_test_to_file, int(args.test_size))
+to_test_y = load(args.english_test_to_file, int(args.test_size))
 
 # train and run model from English
 from_model = LinearRegression()

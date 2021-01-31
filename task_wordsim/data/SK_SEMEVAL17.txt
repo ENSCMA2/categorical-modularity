@@ -1,0 +1,500 @@
+Joule 	kozmická loď 	0.58
+Zasľúbená zem 	Baku 	0.42
+auto 	bicykel 	2.83
+mnohosten 	herec 	0.0
+roztrúsená skleróza 	PANI 	3.92
+chyba 	systém 	0.58
+zbraň 	prilba 	1.83
+scenárista 	televízia 	1.67
+Spojené národy 	Ban Ki-moon 	2.5
+Si-o-seh pol 	Matematický most 	3.0
+bazilika 	mozaika 	1.5
+maľba akvarelom 	kefa 	2.0
+demokracia 	monarchia 	2.67
+Gauss 	vedec 	3.0
+tuberkulóza 	LED 	0.0
+samoriadiace auto 	autonómne auto 	4.0
+apokalypsa 	oheň 	1.25
+rýchlosť 	príspevok 	0.25
+Hracia stanica 	Wii 	3.25
+notebook 	zápisník 	4.0
+Harry Potter 	čarodejník 	3.0
+snowboard 	lyžovanie 	3.17
+ukazovateľ 	šmykľavka 	1.33
+senzor 	radiátor 	1.25
+trafiť 	rám 	0.42
+teória 	hypotéza 	3.83
+Wall Street 	finančný trh 	2.92
+Darwin 	vývoj 	2.58
+herec 	herečka 	3.42
+film 	divadlo 	2.25
+Národná hymna 	vlastenectvo 	2.42
+obrazovka 	monitor 	3.92
+mliečne výrobky 	med 	0.83
+Mount Everest 	Chomolungma 	3.92
+preťahovanie lanom 	Hady a rebríky 	2.33
+pesticíd 	škodca 	1.83
+policajt 	politik 	2.17
+neuropsychológia 	parapsychológia 	3.17
+batéria 	energie 	2.83
+Légie cti 	papiernictvo 	0.0
+Pavúčí muž 	ulica 	0.5
+polostrov 	ostrov 	3.0
+rovník 	Ekvádor 	1.17
+graf 	graf 	3.83
+simulácia 	robotické 	1.42
+Nike 	Adidas 	3.17
+spoločnosti 	kultúra 	2.67
+strategická hra 	stratégia 	2.0
+kostol 	katedrála 	3.58
+prekladateľ 	cudzinec 	1.42
+biotop 	biológia 	1.92
+magma 	sopka 	2.25
+brainstorming 	ďalekohľad 	0.0
+úrovni 	skóre 	2.67
+cent 	zjednávať 	1.42
+politická strana 	združenie 	2.08
+tsunami 	more 	2.0
+pštros 	ovocný sad 	0.42
+škorica 	cukrík 	1.75
+metla 	prach 	1.83
+galaxia 	astronóm 	1.42
+šťava 	milkshake 	3.17
+okenná roleta 	opona 	3.25
+trestný 	páchateľ 	3.5
+rakovina pankreasu 	chemoterapia 	1.83
+minulosť 	predchodca 	2.75
+Spojené národy 	Európskeho parlamentu 	2.75
+pieseň 	umelec 	1.83
+pištoľ 	zápisník 	0.0
+acetylcholín 	dúhovka 	0.58
+abeceda 	pero 	0.58
+refrén 	spevák 	2.67
+drevo 	deka 	0.5
+vojak 	mieru 	1.25
+Angličtina 	Americký 	3.33
+jašterica 	krokodíl 	3.25
+peniaze 	hotovosť 	3.42
+Pavla Octopusa 	Chobotnica 	3.5
+kalendár 	dovolenka 	2.08
+základňa 	chemická látka 	3.0
+vláda 	jašterica 	0.0
+JPY 	prania špinavých peňazí 	1.58
+DeepMind 	Google DeepMind 	3.92
+šach 	skontrolovať 	1.67
+sonet 	kráska 	1.33
+pracovník 	kancelária 	1.75
+mena 	výmena 	1.67
+polyester 	bavlna 	3.08
+tribunál 	spravodlivosť 	2.5
+chvost 	vzadu 	3.25
+nehoda 	kniha 	0.0
+hukot 	vietor 	2.75
+klavír 	harmónia 	1.58
+sultán 	ministerstvo 	1.5
+púšť 	piesočná duna 	2.42
+násobenie 	rozdelenie 	2.67
+vírus 	krv 	1.58
+doba ľadová 	štatút 	0.0
+meč 	prostredie 	0.0
+Základná škola 	pero 	1.5
+kriket 	podporovateľ 	1.67
+sochárstvo 	socha 	3.83
+webový prehliadač 	Mozilla Firefox 	3.58
+Foxteriér 	Canon 	0.0
+HSBC 	Británia 	1.67
+Biblia 	Evanjelium 	3.08
+šaty 	tancovať 	1.0
+pole 	zoznam 	3.92
+bunka 	zamknúť 	3.5
+esej 	domáca úloha 	2.5
+počítač 	stroj 	3.33
+panda 	ľadový medveď 	3.25
+neuróza 	myseľ 	1.75
+kampaň 	opice 	0.0
+Faradayova konštanta 	batoh 	0.0
+palác 	mrakodrap 	2.33
+vrtuľník 	lietadlo 	3.0
+University of Cambridge 	Oxfordská univerzita 	3.25
+vlajka 	pól 	1.42
+okno 	strecha 	2.33
+kartová hra 	frisbee 	2.5
+malware 	červ 	3.42
+planéty 	hviezda 	2.58
+bežec 	športovec 	3.42
+kaliber 	dáždnik 	0.0
+WiFi 	WikiLeaks 	0.5
+sucho 	voda 	2.0
+letisko 	kus 	0.08
+orchester 	pásmo 	3.42
+mojito 	mohito 	4.0
+osnovy 	skúška 	2.42
+veta 	teória 	2.42
+jojo 	hračka 	3.0
+metelica 	dážď 	2.58
+historik 	historiograf 	3.58
+Siemens 	elektrický vlak 	1.75
+storočia 	rok 	2.83
+zliatina 	oceľ 	3.5
+richtár 	sudca 	3.58
+chaos 	trieda 	0.17
+diaľkové štúdium 	internet 	1.75
+piesok 	noha 	0.42
+MMF 	nemecká banka 	2.83
+Strážca 	Časy 	3.17
+priadka morušová 	Hodvábna cesta 	0.58
+sloboda 	oáza 	0.58
+cytoplazma 	číslica 	0.67
+protestant 	kresťanský 	3.5
+Leonardo da Vinci 	Posledná večera 	2.33
+mapa 	námestie 	1.0
+parlament 	zjazd 	3.5
+zbierka peňazí 	rozvoja 	1.17
+patológie 	hematológia 	3.08
+údolie 	depresia 	2.0
+ďalekohľad 	stoličku 	0.25
+Heavy metal 	etapa 	1.42
+globalizmus 	vízum 	1.5
+netopier 	upír 	2.33
+poslanec 	dôstojník 	2.83
+elektrina 	prípade 	0.42
+Votrelec 	outlander 	3.67
+tlačidlo 	šijací stroj 	1.42
+čarodejník 	kábel 	0.0
+filozof 	závodné 	0.0
+pukance 	kino 	1.5
+poľnohospodárstvo 	rastlina 	2.25
+básnik 	novinár 	2.33
+počasie 	mávať 	0.83
+civilizácia 	životný štýl 	1.5
+sneh 	ľad 	2.75
+Druhá svetová vojna 	Beethoven 	0.08
+základná doska 	hlavna tabula 	4.0
+klubu 	známka 	0.33
+Alexander Veľký 	dobyvateľ 	2.92
+aplikácia 	galaxia 	0.42
+cloud computing 	dážď 	0.0
+televízia 	herec 	1.58
+delta 	more 	2.42
+priadza 	závit 	3.92
+prechod pre chodcov 	osoba 	1.42
+bielkoviny 	zvládnuť 	0.0
+U2 	Ronaldo 	0.42
+Apple 	iPhone 	2.58
+mäta pieporná 	guma 	1.83
+plagát 	papier 	2.83
+UNICEF 	koreň 	0.0
+xenofóbia 	rasizmu 	3.42
+Woody Allen 	objektív 	0.33
+lampa 	džin 	2.08
+námorníctvo 	ostrov 	0.92
+stena 	hrad 	2.0
+dinosaurus 	slon 	2.33
+hodiny na veži 	kameň 	0.67
+stredný východ 	Eufrat 	1.5
+lúka 	pasienky 	3.58
+gitara 	husle 	3.17
+diplomacia 	vyjednávanie 	2.67
+gravitácia 	meteor 	0.75
+IQ 	Mensa 	1.83
+Britská vlajka 	vlajka 	3.17
+zemetrasenie 	chvenie 	3.92
+aktívum 	skladom 	2.75
+Hebrejsky 	Jeruzalem 	1.75
+zatiahnuté 	predpoveď 	1.92
+slovník 	encyklopédia 	2.83
+mäta 	múzeum 	1.0
+stoličku 	stolica 	3.08
+Španielsky 	vlhkosť 	0.0
+môcť 	fľaša 	3.5
+lietať 	mravec 	2.92
+mýtus 	satira 	1.92
+centrum mesta 	autobus 	0.75
+chvost 	Boeing 747-200 	1.92
+umelecké diela 	umelec 	2.33
+NATO 	spojenectvo 	3.0
+kráľ 	vládca 	3.67
+rytmus 	kadencia 	3.58
+Alexander Fleming 	Penicilín 	2.5
+flauta 	hudba 	2.08
+volavka sivá 	jazero 	1.33
+viskozita 	špliechať 	1.92
+hardvér 	prípade 	1.67
+krúžok 	zasnúbenie 	1.25
+Latinsky 	Nemecky 	2.92
+Robotnícka trieda 	rastlina 	1.75
+Shakespeare 	Dickens 	3.0
+papierové peniaze 	kňaz 	0.0
+nástroj 	zamestnanie 	1.08
+trpasličie prasa 	suidae 	3.42
+volebné právo 	východ 	0.08
+hviezda 	jas 	1.58
+pstruh 	gitara 	0.0
+dolár 	milionár 	1.75
+číslica 	číslo 	3.92
+víchrica 	deka 	0.42
+Obama 	Clintonová 	3.08
+vedľajšia postava 	film 	1.67
+Juventus 	Bayern Mníchov 	3.0
+zmena podnebia 	zrážky 	1.58
+AI 	batéria 	0.42
+majstrovské dielo 	Mona Lisa 	2.67
+trestný čin 	útok 	2.75
+korunovácia 	voda 	0.0
+spevák 	zamestnancov 	1.75
+play-off 	basketbal 	1.67
+ozbrojené sily 	obrana 	2.33
+jazero 	oblak 	0.83
+kláštor 	sprcha 	0.08
+materinský jazyk 	Jazyk 	3.17
+prístav 	zavinovačka 	0.08
+démon 	anjel 	2.67
+kryptogram 	symbol 	2.33
+kampus 	univerzita 	2.92
+sloboda 	sloboda 	4.0
+tajfún 	cyklón 	3.83
+príručka 	sprievodca 	3.92
+Ebola 	Vírus ebola 	4.0
+princezná 	sušienka 	0.08
+vlak 	električka 	3.5
+ekosystém 	ekonomiky 	0.92
+kráľovná vládnuca 	šachová kráľovná 	0.92
+zlato 	zinok 	3.0
+kurzor 	lupienky 	0.25
+Amazon 	les 	3.08
+tenis 	štatistika 	0.58
+Bolzano 	veta 	2.25
+nadmorská výška 	premena 	0.08
+čln 	strom 	0.25
+trón 	meč 	1.0
+bavlna 	sveter 	1.83
+čerešňa 	jahoda 	3.0
+Islam 	Korán 	2.5
+Neandertálec 	šport 	0.0
+rodinkárstvo 	kráľ 	1.42
+znak 	osoba 	2.67
+nádrž 	auto 	2.33
+Ortuť 	Jupiter 	3.17
+bronchitída 	acetaminofén 	1.67
+krv 	telo 	2.0
+islamofóbia 	ISIS 	1.92
+háčkovať 	uniforma 	1.17
+Hadoop 	dotyková obrazovka 	0.67
+fosílne palivo 	fosílne 	2.08
+mutant 	sociobiológia 	0.75
+sestra 	brat 	2.67
+ceruzka 	príbeh 	1.08
+ekzém 	dermatitída 	4.0
+cisár 	guvernér 	3.67
+koruna 	kľúč 	0.25
+algebra 	prevádzka 	1.67
+piest 	motor 	2.33
+štipendium 	školné 	2.42
+kniha 	rukopis 	3.17
+lantana 	hľadáčik 	3.0
+čierna diera 	vákuum 	2.33
+Perzská ríša 	Cyrus 	1.83
+redakčný 	novinky 	2.42
+dekorácia 	obálka 	0.08
+žralok veľrybý 	morský rak 	2.25
+kukurica 	kukurica 	4.0
+bipolárna porucha 	problém 	2.25
+kyselina 	základňa 	2.67
+absolútna nula 	pary 	1.42
+Zelená revolúcia 	maľovať 	0.0
+operačný systém 	hlboké učenie 	1.5
+Medzinárodná matematická olympiáda 	teória 	1.0
+El Nino 	rovník 	0.83
+odznak 	sklo 	0.0
+kaštieľ 	sochár 	1.0
+atmosféra 	ozón 	2.58
+štít 	buckler 	3.67
+minca 	platba 	1.75
+ovos 	lúka 	1.17
+mních 	kríž 	0.33
+delový čln 	pobrežie 	1.42
+skala 	môj 	1.75
+legenda 	morálny 	1.0
+majster 	víťaz 	3.75
+kocky 	kocka 	3.0
+topológia 	štruktúra 	1.83
+kaplnka 	kábel 	0.25
+hotovostný tok 	rieka 	0.0
+sériový vrah 	vrah 	3.5
+matrica 	molekula 	0.0
+móda 	štýl 	3.17
+vexilológia 	vlajka 	2.33
+Maastrichtská zmluva 	Európe 	2.17
+gejzír 	jar 	3.25
+sacharóza 	uhľohydrát 	3.58
+pláž 	pobrežie 	3.83
+akciový trh 	burza cenných papierov 	3.25
+tradícia 	ručná práca 	1.58
+román 	spisovateľ 	1.92
+sendvič 	Metro 	1.75
+akustika 	zvuk 	2.67
+oplotenie 	gymnastika 	2.33
+spisovateľ 	darček 	0.0
+les 	Tiger Woods 	0.08
+oblak 	okno 	0.67
+JPEG 	PDF 	3.08
+riaditeľ 	šéf 	3.33
+daň 	Brexit 	1.17
+opelenie 	tyčinka 	2.42
+videohra 	pc hra 	3.33
+liečby 	chirurgický zákrok 	2.33
+nelúpané 	zemiak 	2.67
+Písanie poznámok 	zadanie 	1.83
+líška 	krvinka 	0.33
+chlorid sodný 	soľ 	3.92
+príjem 	kvalita života 	2.17
+bude 	zámer 	3.5
+kompas 	slon 	0.17
+pokračovanie 	fotoaparát 	1.0
+film 	film 	3.92
+seržant 	pištoľ 	1.75
+mlyn 	semienko 	0.75
+zmrzlina 	raňajky 	1.17
+kľúč 	zámok 	2.33
+mobilný telefón 	telefón 	3.92
+materská škola 	predškolské zariadenie 	3.75
+západný svet 	Western Union 	0.42
+sadenica 	list 	2.25
+dážď 	krupobitie 	3.08
+šťastie 	smútok 	2.33
+priadka morušová 	húsenica 	3.33
+surfovanie 	vodný šport 	3.0
+auto 	nákladné auto 	3.17
+jedlo 	program 	0.25
+grafický román 	komiks 	3.42
+had 	jašterica 	3.08
+ananás 	smartphone 	0.0
+tapeta 	pozadie 	3.42
+Celzia 	Microsoft 	0.08
+kombinovať 	cukrová trstina 	0.75
+rifle 	žena 	0.75
+matrica 	vektor 	2.83
+oxid uhličitý 	CO2 	4.0
+tréner 	prehrávač 	2.5
+kameň 	drevo 	2.33
+nabíjačka 	disk 	1.08
+rukopis 	článok 	3.5
+Gmail 	Yahoo 	2.42
+kondenzátor 	dióda 	3.17
+korupcia 	podvod 	3.17
+Coca-Cola 	koks 	3.92
+Platón 	Aristoteles 	3.17
+Studená vojna 	Sovietsky zväz 	2.58
+tryska 	tekutina 	2.0
+fonológia 	obrazovka 	0.0
+Zara 	legíny 	1.67
+futbal 	futbal 	4.0
+klíčok 	patogénu 	3.92
+republika 	vojvoda 	1.17
+ples 	sféra 	3.0
+Mozart 	Hviezdne vojny 	0.0
+maska 	večierok 	1.33
+Grand Theft Auto 	GTA 	4.0
+diaľnica 	cesta 	3.42
+reťazová reakcia 	termodynamika 	2.0
+ilustrácia 	pľuzgier 	0.0
+antropológia 	archeológia 	2.92
+Dell 	Dingle 	0.0
+šťava 	lyžica 	0.25
+Pfizer 	droga 	2.5
+nákladné auto 	parcela 	0.67
+receptor 	molekula proteínu 	2.75
+disk Google 	vodič 	0.0
+miliardár 	bezdomovec 	1.67
+epizóda 	kapitola 	2.83
+nekonečno 	nula 	2.33
+sluha 	otrok 	3.42
+prípona 	pripevniť 	3.33
+globálne otepľovanie 	teplo 	2.42
+rastový hormón 	somatotropín 	3.92
+nebo 	sen 	0.83
+ponuková cena 	Londýn 	0.42
+hnojivo 	rast 	1.67
+mriežka 	téma 	2.5
+Orion 	konštelácia 	3.17
+Nietzsche 	Chelsea 	0.17
+vzájomný rešpekt 	konkurencia 	1.5
+pobočka 	rameno 	3.0
+obeť 	telefón 	0.08
+štandardná odchýlka 	akumulácia 	0.5
+lavína 	sneh 	2.08
+učiteľ 	študent 	2.0
+dobytok 	jogurt 	1.5
+sexizmus 	rodová diskriminácia 	3.92
+Južný pól 	tancovať 	0.0
+prokurátor 	právnik 	3.33
+raketa 	ples 	2.5
+bankový úver 	dlh 	3.25
+perspektíva 	vzdialenosť 	1.58
+Federer 	Dylan 	0.5
+právnik 	galéria 	0.33
+dĺžka života 	štatistické opatrenie 	2.67
+bunková membrána 	provírus 	1.83
+Európska únia 	Moskva 	2.0
+svete 	Ázia 	2.17
+Maľovať 	Photoshop 	3.17
+senát 	ústava 	1.83
+petržlen 	muffin 	1.0
+myseľ 	mozog 	3.83
+Mercedes 	Opel 	3.17
+kladivo 	zuby 	0.0
+Renesancia 	Renescencia 	4.0
+sukne 	sledovať 	1.0
+opera 	kino 	2.75
+učiteľ 	inštruktor 	3.83
+slnko 	kábel 	0.08
+recesia 	HDP 	2.0
+Caesar 	Július Cézar 	3.92
+pacient 	zasadanie 	0.67
+behaviourizmus 	terapia 	2.17
+cisár 	ústava 	1.25
+matematik 	šou 	0.08
+entropia 	informácie 	1.75
+ružová voda 	ružový olej 	3.17
+citrusové ovocie 	grapefruit 	3.5
+Kráľovná Viktória 	Anglicko 	1.75
+olympijské hry 	duch 	0.83
+biskup 	moslim 	1.67
+muž 	podozrivý 	1.0
+meteorit 	Zem 	1.83
+symbol 	podpísať 	3.42
+antropológia 	New York 	0.08
+západ slnka 	stôl 	0.0
+mesto 	mesto 	3.75
+bunda 	minerálka 	0.0
+príroda 	flóra 	3.0
+podprogram 	zostavovateľ 	2.67
+Hamadan 	Rím 	2.58
+dáždnik 	ohrievač 	0.17
+česť 	úcta 	3.25
+insígnie 	dôstojnosť 	0.58
+KFC 	McDonald's 	3.17
+joystick 	radar 	0.67
+basmati 	jazmínová ryža 	3.58
+medaila 	tenisky 	0.42
+zákon 	bazén 	0.08
+zdroj 	box 	0.0
+divadlo 	batéria 	0.0
+flóra 	webový prehliadač 	0.0
+košeľa 	sveter 	3.25
+báseň 	rytmus 	1.42
+prorok 	kňaz 	2.58
+Oscarov 	štadión 	0.08
+backgammon 	Choď 	3.25
+motýľ 	ruža 	1.25
+plot 	skákanie 	1.58
+nihilizmus 	film 	0.17
+asteroid 	hviezda 	2.25
+výtržníctvo 	kresba 	0.08
+spodná bielizeň 	telo 	1.25
+Boeing 	lietadlo 	2.83
+portrét 	výkon 	2.42
+semester 	termín 	3.83
+oranžová 	citrus 	3.0
+ľadovec 	globálne otepľovanie 	1.58
+tunel 	cesta 	2.0

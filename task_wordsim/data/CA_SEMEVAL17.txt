@@ -1,0 +1,500 @@
+Joule 	nau espacial 	0.58
+Terra promesa 	Bakú 	0.42
+cotxe 	bicicleta 	2.83
+poliedre 	actor 	0.0
+esclerosi múltiple 	SENYORA 	3.92
+culpa 	sistema 	0.58
+arma 	casc 	1.83
+guionista 	televisió 	1.67
+Nacions Unides 	Ban Ki-moon 	2.5
+Si-o-seh pol 	Pont matemàtic 	3.0
+basílica 	mosaic 	1.5
+aquarel·la 	pinzell 	2.0
+democràcia 	monarquia 	2.67
+Gauss 	científic 	3.0
+tuberculosi 	LED 	0.0
+cotxe autònom 	cotxe autònom 	4.0
+apocalipsi 	foc 	1.25
+velocitat 	publicar 	0.25
+PlayStation 	Wii 	3.25
+ordinador portàtil 	quadern 	4.0
+Harry Potter 	mag 	3.0
+snowboard 	esquiar 	3.17
+punter 	lliscar 	1.33
+sensor 	radiador 	1.25
+colpejar 	marc 	0.42
+teoria 	hipòtesi 	3.83
+Wall Street 	mercat financer 	2.92
+Darwin 	evolució 	2.58
+actor 	actriu 	3.42
+pel·lícula 	teatre 	2.25
+himne nacional 	patriotisme 	2.42
+pantalla 	monitor 	3.92
+lactis 	amor 	0.83
+Muntanya Everest 	Chomolungma 	3.92
+estira i arronsa 	Serps i Escales 	2.33
+pesticida 	plaga 	1.83
+policia 	polític 	2.17
+neuropsicologia 	parapsicologia 	3.17
+bateria 	energia 	2.83
+Legió d’Honor 	papereria 	0.0
+Spiderman. Home-aranya 	carrer 	0.5
+península 	illa 	3.0
+equador 	Equador 	1.17
+gràfic 	gràfic 	3.83
+simulació 	robòtica 	1.42
+Nike 	Adidas 	3.17
+societat 	cultura 	2.67
+joc d'estratègia 	estratègia 	2.0
+Església 	catedral 	3.58
+traductor 	estranger 	1.42
+biòtop 	biologia 	1.92
+magma 	volcà 	2.25
+pluja d'idees 	telescopi 	0.0
+nivell 	puntuació 	2.67
+cèntim 	ganga 	1.42
+partit polític 	Associació 	2.08
+tsunami 	mar 	2.0
+estruç 	hort 	0.42
+canyella 	caramels 	1.75
+escombra 	pols 	1.83
+galàxia 	astrònom 	1.42
+suc 	batut 	3.17
+persiana de la finestra 	cortina 	3.25
+criminal 	infractor 	3.5
+càncer de pàncrees 	quimioteràpia 	1.83
+passat 	antecedent 	2.75
+Nacions Unides 	Parlament Europeu 	2.75
+cançó 	intèrpret 	1.83
+arma de foc 	quadern 	0.0
+acetilcolina 	iris 	0.58
+alfabet 	bolígraf 	0.58
+cor 	cantant 	2.67
+fusta 	manta 	0.5
+soldat 	pau 	1.25
+Anglès 	Nord-americà 	3.33
+sargantana 	cocodril 	3.25
+diners 	efectiu 	3.42
+Pau el pop 	pop 	3.5
+calendari 	festa 	2.08
+base 	substància química 	3.0
+govern 	sargantana 	0.0
+Yen Japonès 	blanqueig de diners 	1.58
+DeepMind 	Google DeepMind 	3.92
+escacs 	comprovar 	1.67
+sonet 	bellesa 	1.33
+treballador 	despatx 	1.75
+moneda 	intercanvi 	1.67
+polièster 	cotó 	3.08
+tribunal 	justícia 	2.5
+cua 	posterior 	3.25
+accident 	llibre 	0.0
+xiscle 	vent 	2.75
+piano 	harmonia 	1.58
+sultà 	Ministeri 	1.5
+desert 	duna 	2.42
+multiplicació 	divisió 	2.67
+virus 	sang 	1.58
+l'edat de gel 	estatut 	0.0
+espasa 	entorn 	0.0
+escola primària 	bolígraf 	1.5
+cricket 	partidari 	1.67
+escultura 	estàtua 	3.83
+navegador web 	Mozilla Firefox 	3.58
+Fox Terrier 	Cànon 	0.0
+HSBC 	Gran Bretanya 	1.67
+Bíblia 	Evangeli 	3.08
+vestit 	dansa 	1.0
+matriu 	llista 	3.92
+cel·la 	tancar 	3.5
+assaig 	deures 	2.5
+ordinador 	màquina 	3.33
+panda 	ós polar 	3.25
+neurosi 	ment 	1.75
+campanya 	mico 	0.0
+Constant de Faraday 	motxilla 	0.0
+palau 	gratacels 	2.33
+helicòpter 	avió 	3.0
+Universitat de Cambridge 	Universitat d’Oxford 	3.25
+bandera 	pal 	1.42
+finestra 	sostre 	2.33
+joc de cartes 	frisbee 	2.5
+programari maliciós 	cuc 	3.42
+planeta 	estrella 	2.58
+corredor 	atleta 	3.42
+calibre 	paraigua 	0.0
+WiFi 	WikiLeaks 	0.5
+sequera 	aigua 	2.0
+aeroport 	peça 	0.08
+orquestra 	banda 	3.42
+mojito 	mohito 	4.0
+pla d’estudis 	examen 	2.42
+teorema 	teoria 	2.42
+jo-jo 	joguina 	3.0
+ventisca 	pluja 	2.58
+historiador 	historiògraf 	3.58
+Siemens 	tren elèctric 	1.75
+segle 	curs 	2.83
+aliatge 	d'acer 	3.5
+magistrat 	jutge 	3.58
+Chaos 	classe 	0.17
+educació a Distància 	Internet 	1.75
+sorra 	peu 	0.42
+FMI 	Deutsche Bank 	2.83
+Guardià 	Temps 	3.17
+cuc de seda 	Ruta de la Seda 	0.58
+llibertat 	oasi 	0.58
+citoplasma 	dígit 	0.67
+protestant 	cristià 	3.5
+Leonardo da Vinci 	L'últim sopar 	2.33
+mapa 	quadrat 	1.0
+parlament 	congrés 	3.5
+recaptació de fons 	desenvolupament 	1.17
+patologia 	hematologia 	3.08
+vall 	depressió 	2.0
+telescopi 	cadira 	0.25
+metall pesat 	escenari 	1.42
+globalisme 	visat 	1.5
+ratpenat 	vampir 	2.33
+diputat 	oficial 	2.83
+electricitat 	Caixa 	0.42
+estranger 	foraster 	3.67
+botó 	màquina de cosir 	1.42
+mag 	cable 	0.0
+filòsof 	carreres 	0.0
+crispetes de blat de moro 	cinema 	1.5
+agricultura 	planta 	2.25
+poeta 	periodista 	2.33
+temps 	onada 	0.83
+civilització 	estil de vida 	1.5
+neu 	gel 	2.75
+Segona Guerra Mundial 	Beethoven 	0.08
+placa base 	placa principal 	4.0
+club 	senyal 	0.33
+Alexandre el Gran 	conqueridor 	2.92
+aplicació 	galàxia 	0.42
+la computació en núvol 	pluja 	0.0
+televisió 	actor 	1.58
+delta 	mar 	2.42
+filats 	fil 	3.92
+pas de vianants 	persona 	1.42
+proteïna 	gestionar 	0.0
+U2 	Ronaldo 	0.42
+poma 	iPhone 	2.58
+menta 	xiclet 	1.83
+cartell 	paper 	2.83
+UNICEF 	arrel 	0.0
+xenofòbia 	racisme 	3.42
+Woody Allen 	lent 	0.33
+llum 	follet 	2.08
+marina 	illa 	0.92
+paret 	castell 	2.0
+dinosaure 	elefant 	2.33
+Torre del Rellotge 	pedra 	0.67
+Orient Mitjà 	Eufrates 	1.5
+prat 	pastures 	3.58
+guitarra 	violí 	3.17
+diplomàcia 	negociació 	2.67
+gravetat 	meteor 	0.75
+QI 	Mensa 	1.83
+Union Jack 	bandera 	3.17
+terratrèmol 	tremolor 	3.92
+actiu 	estoc 	2.75
+Hebreu 	Jerusalem 	1.75
+ennuvolat 	previsió 	1.92
+diccionari 	enciclopèdia 	2.83
+menta 	museu 	1.0
+cadira 	tamboret 	3.08
+Espanyol 	humitat 	0.0
+llauna 	ampolla 	3.5
+volar 	formiga 	2.92
+mite 	sàtira 	1.92
+centre de la ciutat 	autobús 	0.75
+cua 	Boeing 747-200 	1.92
+obra d’art 	artista 	2.33
+OTAN 	aliança 	3.0
+rei 	regle 	3.67
+ritme 	cadència 	3.58
+Alexander Fleming 	Penicil·lina 	2.5
+flauta travessera 	música 	2.08
+garsa grisa 	llac 	1.33
+viscositat 	esquitxada 	1.92
+maquinari 	Caixa 	1.67
+anell 	compromís 	1.25
+Llatí 	Alemany 	2.92
+classe obrera 	planta 	1.75
+Shakespeare 	Dickens 	3.0
+paper moneda 	sacerdot 	0.0
+eina 	feina 	1.08
+porc pigmeu 	suids 	3.42
+sufragi 	sortir 	0.08
+estrella 	brillantor 	1.58
+truita 	guitarra 	0.0
+dòlar 	milionari 	1.75
+dígit 	número 	3.92
+vendaval 	manta 	0.42
+Obama 	Clinton 	3.08
+personatge secundari 	pel·lícula 	1.67
+Juventus 	Bayern de Munic 	3.0
+canvi climàtic 	precipitacions 	1.58
+IA 	bateria 	0.42
+obra mestra 	La Mona Lisa 	2.67
+delicte 	atacar 	2.75
+coronació 	aigua 	0.0
+vocalista 	personal 	1.75
+eliminatòria 	bàsquet 	1.67
+forces Armades 	defensa 	2.33
+llac 	núvol 	0.83
+monestir 	dutxa 	0.08
+llengua materna 	llenguatge 	3.17
+port 	embolcall 	0.08
+dimoni 	àngel 	2.67
+criptograma 	símbol 	2.33
+campus 	universitat 	2.92
+llibertat 	llibertat 	4.0
+tifó 	cicló 	3.83
+manual 	guia 	3.92
+Ébola 	Virus de l’Ebola 	4.0
+princesa 	galeta 	0.08
+tren 	tramvia 	3.5
+ecosistema 	economia 	0.92
+reina regnant 	reina d'escacs 	0.92
+or 	zinc 	3.0
+cursor 	xips 	0.25
+Amazon 	bosc 	3.08
+tennis 	estadístiques 	0.58
+Bolzano 	teorema 	2.25
+altitud 	conversió 	0.08
+vaixell 	arbre 	0.25
+tron 	espasa 	1.0
+cotó 	jersei 	1.83
+cirera 	maduixa 	3.0
+Islam 	Alcorà 	2.5
+Neandertal 	esport 	0.0
+nepotisme 	rei 	1.42
+personatge 	persona 	2.67
+tanc 	cotxe 	2.33
+Mercuri 	Júpiter 	3.17
+bronquitis 	acetaminofè 	1.67
+sang 	cos 	2.0
+islamofòbia 	ISIS 	1.92
+ganxet 	uniforme 	1.17
+Hadoop 	pantalla tàctil 	0.67
+combustibles fòssils 	fòssil 	2.08
+mutant 	sociobiologia 	0.75
+germana 	germà 	2.67
+llapis 	història 	1.08
+èczema 	dermatitis 	4.0
+emperador 	governador 	3.67
+corona 	clau 	0.25
+àlgebra 	operació 	1.67
+pistó 	motor 	2.33
+beca 	matrícula 	2.42
+llibre 	manuscrit 	3.17
+lantana 	snapdragon 	3.0
+forat negre 	buit 	2.33
+Imperi persa 	Cyrus 	1.83
+editorial 	Notícies 	2.42
+decoració 	sobre 	0.08
+Tauró balena 	llagosta 	2.25
+blat de moro 	blat de moro 	4.0
+desordre bipolar 	problema 	2.25
+àcid 	base 	2.67
+zero absolut 	vapor 	1.42
+Revolució Verda 	pintura 	0.0
+sistema operatiu 	aprenentatge profund 	1.5
+Olimpíada Internacional de Matemàtiques 	teoria 	1.0
+El nen 	equador 	0.83
+insígnia 	vidre 	0.0
+mansió 	escultor 	1.0
+ambient 	ozó 	2.58
+escut 	escutera 	3.67
+moneda 	pagament 	1.75
+civada 	camp 	1.17
+monjo 	creuar 	0.33
+canó canó 	Costa 	1.42
+roca 	meu 	1.75
+llegenda 	moral 	1.0
+campió 	guanyador 	3.75
+daus 	cub 	3.0
+topologia 	estructura 	1.83
+capella 	cable 	0.25
+flux de caixa 	riu 	0.0
+assasí en sèrie 	assassí 	3.5
+matriu 	molècula 	0.0
+moda 	estil 	3.17
+vexil·lologia 	bandera 	2.33
+Tractat de Maastricht 	Europa 	2.17
+guèiser 	primavera 	3.25
+sacarosa 	hidrats de carboni 	3.58
+platja 	Costa 	3.83
+mercat de Valors 	mercat de Valors 	3.25
+tradició 	artesania 	1.58
+novel·la 	escriptor 	1.92
+sandvitx 	Metro 	1.75
+acústica 	so 	2.67
+esgrima 	gimnàstica 	2.33
+escriptor 	regal 	0.0
+bosc 	Tiger Woods 	0.08
+núvol 	finestra 	0.67
+JPEG 	PDF 	3.08
+director 	cap 	3.33
+impostos 	Brexit 	1.17
+pol·linització 	estam 	2.42
+videojoc 	joc de PC 	3.33
+tractament 	operació quirúrgica 	2.33
+arrossar 	patata 	2.67
+presa de notes 	assignació 	1.83
+guineu 	cèl·lules sanguínies 	0.33
+clorur de sodi 	sal 	3.92
+ingressos 	qualitat de vida 	2.17
+voluntat 	intenció 	3.5
+brúixola 	elefant 	0.17
+seqüela 	càmera 	1.0
+pel·lícula 	pel·lícula 	3.92
+sergent 	arma de foc 	1.75
+molí 	llavor 	0.75
+gelat 	esmorzar 	1.17
+clau 	pany 	2.33
+mòbil 	telèfon 	3.92
+guarderia 	preescolar 	3.75
+Món occidental 	Unió Occidental 	0.42
+planter 	full 	2.25
+pluja 	calamarsa 	3.08
+felicitat 	tristesa 	2.33
+cuc de seda 	eruga 	3.33
+surf 	esport d'aigua 	3.0
+cotxe 	camió 	3.17
+menjar 	programa 	0.25
+novel · la gràfica 	còmic 	3.42
+serp 	sargantana 	3.08
+pinya 	telèfon intel·ligent 	0.0
+fons de pantalla 	antecedents 	3.42
+Celsius 	Microsoft 	0.08
+combinar 	canya de sucre 	0.75
+texans 	dona 	0.75
+matriu 	vector 	2.83
+diòxid de carboni 	CO2 	4.0
+entrenador 	jugador 	2.5
+pedra 	fusta 	2.33
+carregador 	disc 	1.08
+manuscrit 	article 	3.5
+Gmail 	Yahoo 	2.42
+condensador 	díode 	3.17
+corrupció 	frau 	3.17
+Coca-Cola 	Coca-Cola 	3.92
+Plató 	Aristòtil 	3.17
+Guerra Freda 	Unió Soviètica 	2.58
+broquet 	fluid 	2.0
+fonologia 	pantalla 	0.0
+Zara 	polaines 	1.67
+futbol 	futbol 	4.0
+germen 	patogen 	3.92
+República 	duc 	1.17
+pilota 	esfera 	3.0
+Mozart 	Guerra de les galàxies 	0.0
+màscara 	festa 	1.33
+Grand Theft Auto 	GTA 	4.0
+carretera 	carretera 	3.42
+reacció en cadena 	termodinàmica 	2.0
+il·lustració 	ampolla 	0.0
+antropologia 	arqueologia 	2.92
+Dell 	Dingle 	0.0
+suc 	cullera 	0.25
+Pfizer 	droga 	2.5
+camió 	paquet 	0.67
+receptor 	molècula de proteïna 	2.75
+Google Drive 	conductor 	0.0
+multimilionari 	sense sostre 	1.67
+episodi 	capítol 	2.83
+infinit 	zero 	2.33
+criat 	esclau 	3.42
+sufix 	afixar 	3.33
+escalfament global 	calor 	2.42
+hormona del creixement 	somatotropina 	3.92
+cel 	somiar 	0.83
+preu de l'oferta 	Londres 	0.42
+fertilitzant 	creixement 	1.67
+etiqueta 	tema 	2.5
+Orió 	constel · lació 	3.17
+Nietzsche 	Chelsea 	0.17
+respecte mutu 	competició 	1.5
+branca 	braç 	3.0
+víctima 	telèfon 	0.08
+desviació estàndar 	acumulació 	0.5
+allau 	neu 	2.08
+mestre 	estudiant 	2.0
+ramat 	iogurt 	1.5
+sexisme 	discriminació de gènere 	3.92
+Pol Sud 	dansa 	0.0
+fiscal 	advocat 	3.33
+raqueta 	pilota 	2.5
+préstec bancari 	deute 	3.25
+perspectiva 	distància 	1.58
+Federer 	Dylan 	0.5
+advocat 	galeria 	0.33
+esperança de vida 	mesura estadística 	2.67
+membrana cel · lular 	provirus 	1.83
+Unió Europea 	Moscou 	2.0
+món 	Àsia 	2.17
+Pintura 	Photoshop 	3.17
+senat 	constitució 	1.83
+julivert 	magdalena 	1.0
+ment 	cervell 	3.83
+Mercedes 	Opel 	3.17
+martell 	dents 	0.0
+Renaixement 	Renascència 	4.0
+faldilla 	veure 	1.0
+òpera 	cinema 	2.75
+mestre 	instructor 	3.83
+Sol 	cable 	0.08
+recessió 	PIB 	2.0
+Cèsar 	Juli Cèsar 	3.92
+pacient 	sessió 	0.67
+comportament 	teràpia 	2.17
+emperador 	constitució 	1.25
+matemàtic 	espectacle 	0.08
+entropia 	informació 	1.75
+Aigua de roses 	oli de rosa 	3.17
+cítrics 	aranja 	3.5
+Reina Victòria 	Anglaterra 	1.75
+jocs Olímpics 	esperit 	0.83
+bisbe 	musulmà 	1.67
+home 	sospitós 	1.0
+meteorit 	Terra 	1.83
+símbol 	signe 	3.42
+antropologia 	Nova York 	0.08
+posta de sol 	taula 	0.0
+ciutat 	ciutat 	3.75
+jaqueta 	aigua mineral 	0.0
+naturalesa 	flora 	3.0
+subrutina 	compilador 	2.67
+Hamadan 	Roma 	2.58
+paraigua 	escalfador 	0.17
+honor 	estima 	3.25
+insígnia 	dignitat 	0.58
+KFC 	McDonald's 	3.17
+palanca de control 	radar 	0.67
+basmati 	arròs de gessamí 	3.58
+medalla 	entrenadors 	0.42
+Llei 	piscina 	0.08
+font 	Caixa 	0.0
+teatre 	bateria 	0.0
+flora 	navegador web 	0.0
+camisa 	cardigan 	3.25
+poema 	ritme 	1.42
+profeta 	sacerdot 	2.58
+Scscar 	estadi 	0.08
+backgammon 	Vaja 	3.25
+papallona 	rosa 	1.25
+tanca 	saltant 	1.58
+nihilisme 	pel·lícula 	0.17
+asteroide 	estrella 	2.25
+motí 	dibuix 	0.08
+roba interior 	cos 	1.25
+Boeing 	avió 	2.83
+cameo 	rendiment 	2.42
+semestre 	termini 	3.83
+taronja 	cítrics 	3.0
+glacera 	escalfament global 	1.58
+túnel 	Camí 	2.0

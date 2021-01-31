@@ -1,0 +1,500 @@
+Joule 	uzay aracı 	0.58
+Vaat edilmiş topraklar 	Bakü 	0.42
+araba 	bisiklet 	2.83
+çokyüzlü 	aktör 	0.0
+multipl Skleroz 	HANIM 	3.92
+hata 	sistemi 	0.58
+silah 	kask 	1.83
+senaryo yazarı 	televizyon 	1.67
+Birleşmiş Milletler 	Ban Ki-moon 	2.5
+Si-o-seh pol 	Matematiksel Köprü 	3.0
+bazilika 	mozaik 	1.5
+Suluboya boyama 	fırça 	2.0
+demokrasi 	monarşi 	2.67
+Gauss 	Bilim insanı 	3.0
+tüberküloz 	LED 	0.0
+sürücüsüz araba 	otonom araba 	4.0
+kıyamet 	ateş 	1.25
+hız 	İleti 	0.25
+Oyun istasyonu 	Wii 	3.25
+dizüstü bilgisayar 	not defteri 	4.0
+Harry Potter 	sihirbaz 	3.0
+snowboard 	kayak yapma 	3.17
+Işaretçi 	kaymak 	1.33
+sensör 	radyatör 	1.25
+vurmak 	çerçeve 	0.42
+teori 	hipotez 	3.83
+Wall Street 	Finansal market 	2.92
+Darwin 	evrim 	2.58
+aktör 	aktris 	3.42
+film 	tiyatro 	2.25
+Milli marş 	vatanseverlik 	2.42
+ekran 	monitör 	3.92
+Mandıra 	bal 	0.83
+Everest Dağı 	Chomolungma 	3.92
+çekişme 	Yılanlar ve merdivenler 	2.33
+böcek ilacı 	haşere 	1.83
+polis 	politikacı 	2.17
+nöropsikoloji 	parapsikoloji 	3.17
+pil 	enerji 	2.83
+Legion of Honor 	Kırtasiye 	0.0
+Örümcek Adam 	sokak 	0.5
+yarımada 	ada 	3.0
+ekvator 	Ekvador 	1.17
+grafik 	grafik 	3.83
+simülasyon 	robotik 	1.42
+Nike 	Adidas 	3.17
+toplum 	kültür 	2.67
+strateji oyunu 	strateji 	2.0
+kilise 	katedral 	3.58
+çevirmen 	yabancı 	1.42
+biyotop 	Biyoloji 	1.92
+magma 	yanardağ 	2.25
+beyin fırtınası 	teleskop 	0.0
+seviye 	Puan 	2.67
+kuruş 	pazarlık etmek 	1.42
+siyasi parti 	bağlantı 	2.08
+tsunami 	deniz 	2.0
+devekuşu 	meyve bahçesi 	0.42
+Tarçın 	Şeker 	1.75
+süpürge 	toz 	1.83
+gökada 	astronom 	1.42
+Meyve suyu 	aromalı süt 	3.17
+kör pencere 	perde 	3.25
+adli 	suçlu 	3.5
+pankreas kanseri 	kemoterapi 	1.83
+geçmiş 	öncül 	2.75
+Birleşmiş Milletler 	Avrupa Parlementosu 	2.75
+şarkı 	icracı 	1.83
+tabanca 	not defteri 	0.0
+asetilkolin 	iris 	0.58
+alfabe 	dolma kalem 	0.58
+Koro 	şarkıcı 	2.67
+Odun 	battaniye 	0.5
+asker 	Barış 	1.25
+ingilizce 	Amerikan 	3.33
+kertenkele 	timsah 	3.25
+para 	nakit 	3.42
+Paul Ahtapot 	ahtapot 	3.5
+takvim 	tatil 	2.08
+temel 	kimyasal madde 	3.0
+hükümet 	kertenkele 	0.0
+JPY 	Kara para aklama 	1.58
+Derin Düşünce 	Google DeepMind 	3.92
+satranç 	Kontrol 	1.67
+sone 	güzellik 	1.33
+çalışan 	ofis 	1.75
+para birimi 	değiş tokuş 	1.67
+polyester 	pamuk 	3.08
+mahkeme 	adalet 	2.5
+kuyruk 	arka 	3.25
+kaza 	kitap 	0.0
+fırtına 	rüzgar 	2.75
+piyano 	uyum 	1.58
+sultan 	bakanlık 	1.5
+çöl 	kumdan tepe 	2.42
+çarpma işlemi 	bölünme 	2.67
+virüs 	kan 	1.58
+buz Devri 	kanun 	0.0
+kılıç 	çevre 	0.0
+ilkokul 	dolma kalem 	1.5
+kriket 	destekçi 	1.67
+heykel 	heykel 	3.83
+internet tarayıcısı 	Mozilla Firefox 	3.58
+Tilki Teriyeri 	Canon 	0.0
+HSBC 	Britanya 	1.67
+Kutsal Kitap 	Müjde 	3.08
+elbise 	dans 	1.0
+dizi 	liste 	3.92
+hücre 	kilitlemek 	3.5
+makale 	ev ödevi 	2.5
+bilgisayar 	makine 	3.33
+panda 	kutup ayısı 	3.25
+nevroz 	zihin 	1.75
+kampanya 	maymun 	0.0
+Faraday sabiti 	sırt çantası 	0.0
+Saray 	gökdelen 	2.33
+helikopter 	uçak 	3.0
+Cambridge Üniversitesi 	Oxford Üniversitesi 	3.25
+bayrak 	kutup 	1.42
+pencere 	çatı 	2.33
+kart oyunu 	frizbi 	2.5
+kötü amaçlı yazılım 	solucan 	3.42
+gezegen 	star 	2.58
+koşucu 	atlet 	3.42
+kalibre 	şemsiye 	0.0
+Kablosuz internet 	WikiLeaks 	0.5
+kuraklık 	Su 	2.0
+havalimanı 	parça 	0.08
+orkestra 	grup 	3.42
+Mojito 	Mohito 	4.0
+müfredat 	sınav 	2.42
+teorem 	teori 	2.42
+yo-yo 	oyuncak 	3.0
+kar fırtınası 	yağmur 	2.58
+tarihçi 	tarih yazarı 	3.58
+Siemens 	elektrikli tren 	1.75
+yüzyıl 	yıl 	2.83
+alaşım 	çelik 	3.5
+sulh hakimi 	hakim 	3.58
+kaos 	sınıf 	0.17
+uzaktan Eğitim 	internet 	1.75
+kum 	ayak 	0.42
+IMF 	Alman bankası 	2.83
+Muhafız 	Zamanlar 	3.17
+ipekböceği 	İpek yolu 	0.58
+özgürlük 	vaha 	0.58
+sitoplazma 	hane 	0.67
+Protestan 	Hıristiyan 	3.5
+Leonardo da Vinci 	Son Akşam Yemeği 	2.33
+harita 	Meydan 	1.0
+parlamento 	kongre 	3.5
+Bağış 	gelişme 	1.17
+patoloji 	hematoloji 	3.08
+vadi 	depresyon 	2.0
+teleskop 	sandalye 	0.25
+ağır metal 	sahne 	1.42
+küreselleşme 	vize 	1.5
+yarasa 	vampir 	2.33
+vekil 	subay 	2.83
+elektrik 	durum 	0.42
+yabancı 	yabancı 	3.67
+buton 	dikiş makinesi 	1.42
+sihirbaz 	kablo 	0.0
+filozof 	yarış 	0.0
+Patlamış mısır 	sinema 	1.5
+tarım 	bitki 	2.25
+şair 	gazeteci 	2.33
+hava 	dalga 	0.83
+medeniyet 	yaşam tarzı 	1.5
+kar 	buz 	2.75
+Dünya Savaşı II 	Beethoven 	0.08
+anakart 	anakart 	4.0
+kulüp 	işaret 	0.33
+Büyük İskender 	fatih 	2.92
+uygulama 	gökada 	0.42
+Bulut bilişim 	yağmur 	0.0
+televizyon 	aktör 	1.58
+delta 	deniz 	2.42
+iplik 	Konu 	3.92
+yaya geçidi 	kişi 	1.42
+protein 	üstesinden gelmek 	0.0
+U2 	Ronaldo 	0.42
+elma 	iPhone 	2.58
+nane 	sakız 	1.83
+afiş 	kağıt 	2.83
+UNICEF 	kök 	0.0
+yabancı düşmanlığı 	ırkçılık 	3.42
+Woody Allen 	lens 	0.33
+Lamba 	cin 	2.08
+Donanma 	ada 	0.92
+duvar 	kale 	2.0
+Dinozor 	fil 	2.33
+Saat kulesi 	taş 	0.67
+Orta Doğu 	Fırat 	1.5
+çayır 	otlak 	3.58
+gitar 	keman 	3.17
+diplomasi 	müzakere 	2.67
+Yerçekimi 	meteor 	0.75
+IQ 	Mensa 	1.83
+Union Jack 	bayrak 	3.17
+deprem 	titreme 	3.92
+varlık 	stok, mevcut 	2.75
+İbranice 	Kudüs 	1.75
+kapalı 	tahmin 	1.92
+sözlük 	ansiklopedi 	2.83
+nane 	müze 	1.0
+sandalye 	dışkı 	3.08
+İspanyol 	nem 	0.0
+Yapabilmek 	şişe 	3.5
+uçmak 	karınca 	2.92
+efsane 	hiciv 	1.92
+şehir merkezi 	otobüs 	0.75
+kuyruk 	Boeing 747-200 	1.92
+sanat eseri 	sanatçı 	2.33
+NATO 	ittifak 	3.0
+kral 	cetvel 	3.67
+ritim 	kadans 	3.58
+Alexander Fleming 	Penisilin 	2.5
+flüt 	müzik 	2.08
+gri balıkçıl 	göl 	1.33
+viskozite 	sıçrama 	1.92
+donanım 	durum 	1.67
+yüzük 	nişan 	1.25
+Latince 	Almanca 	2.92
+işçi sınıfı 	bitki 	1.75
+Shakespeare 	Dickens 	3.0
+kağıt para 	rahip 	0.0
+araç 	iş 	1.08
+cüce domuz 	Suidae 	3.42
+oy hakkı 	çıkış 	0.08
+star 	parlaklık 	1.58
+alabalık 	gitar 	0.0
+dolar 	milyoner 	1.75
+hane 	numara 	3.92
+fırtına 	battaniye 	0.42
+Obama 	Clinton 	3.08
+destekleyici karakter 	film 	1.67
+Juventus 	Bayern Münih 	3.0
+iklim değişikliği 	yağış 	1.58
+AI 	pil 	0.42
+başyapıt 	Mona Lisa 	2.67
+suç 	saldırı 	2.75
+taç giyme töreni 	Su 	0.0
+vokal 	Personel 	1.75
+birbirine düşürmek 	Basketbol 	1.67
+silahlı Kuvvetler 	savunma 	2.33
+göl 	bulut 	0.83
+manastır 	duş 	0.08
+ana dil 	dil 	3.17
+liman 	sarıcı 	0.08
+iblis 	melek 	2.67
+kriptogram 	sembol 	2.33
+yerleşke 	Üniversite 	2.92
+özgürlük 	özgürlük 	4.0
+tayfun 	siklon 	3.83
+el kitabı 	rehber kitap 	3.92
+Ebola 	Ebola virüsü 	4.0
+prenses 	bisküvi 	0.08
+tren 	tramvay 	3.5
+ekosistem 	ekonomi 	0.92
+kraliçe regnant 	satranç kraliçesi 	0.92
+altın 	çinko 	3.0
+imleç 	cips 	0.25
+Amazon 	orman 	3.08
+tenis 	İstatistik 	0.58
+Bolzano 	teorem 	2.25
+rakım 	dönüştürmek 	0.08
+tekne 	ağaç 	0.25
+taht 	kılıç 	1.0
+pamuk 	Kazak 	1.83
+Kiraz 	çilek 	3.0
+İslâm 	Kuran 	2.5
+Neandertal 	spor 	0.0
+adam kayırmacılık 	kral 	1.42
+karakter 	kişi 	2.67
+tank 	araba 	2.33
+Merkür 	Jüpiter 	3.17
+bronşit 	parasetamol: asetaminofen 	1.67
+kan 	vücut 	2.0
+islamofobi 	IŞİD 	1.92
+tığ işi 	üniforma 	1.17
+Hadoop 	dokunmatik ekran 	0.67
+fosil yakıt 	fosil 	2.08
+mutant 	sosyobiyoloji 	0.75
+kız kardeş 	erkek kardeş 	2.67
+kalem 	hikaye 	1.08
+egzama 	dermatit 	4.0
+imparator 	Vali 	3.67
+taç 	anahtar 	0.25
+cebir 	operasyon 	1.67
+piston 	motor 	2.33
+burs 	harç 	2.42
+kitap 	el yazması 	3.17
+Lantana 	aslanağzı 	3.0
+Kara delik 	vakum 	2.33
+Pers imparatorluğu 	Cyrus 	1.83
+editoryal 	Haberler 	2.42
+dekorasyon 	zarf 	0.08
+balina köpekbalığı 	Istakoz 	2.25
+Mısır 	mısır 	4.0
+bipolar bozukluk 	sorun 	2.25
+asit 	temel 	2.67
+tamamen sıfır 	buhar 	1.42
+Yeşil devrim 	boya 	0.0
+işletim sistemi 	derin öğrenme 	1.5
+Uluslararası Matematik Olimpiyatı 	teori 	1.0
+El Niño 	ekvator 	0.83
+rozet 	bardak 	0.0
+konak 	heykeltıraş 	1.0
+atmosfer 	ozon 	2.58
+kalkan 	Buckler 	3.67
+madeni para 	ödeme 	1.75
+yulaf 	alan 	1.17
+keşiş 	çapraz 	0.33
+savaş gemisi 	sahil 	1.42
+Kaya 	benim 	1.75
+efsane 	ahlaki 	1.0
+şampiyon 	kazanan 	3.75
+zar 	küp 	3.0
+topoloji 	yapı 	1.83
+şapel 	kablo 	0.25
+nakit akımı 	nehir 	0.0
+seri katil 	katil 	3.5
+matris 	molekül 	0.0
+moda 	stil 	3.17
+vexillology 	bayrak 	2.33
+Maastricht Anlaşması 	Avrupa 	2.17
+şofben 	ilkbahar 	3.25
+sakaroz 	karbonhidrat 	3.58
+plaj 	sahil 	3.83
+Borsa 	Borsa 	3.25
+gelenek 	el işi 	1.58
+Roman 	yazar 	1.92
+sandviç 	Metro 	1.75
+akustik 	ses 	2.67
+eskrim 	Jimnastik 	2.33
+yazar 	hediye 	0.0
+ormanlık alan 	Tiger Woods 	0.08
+bulut 	pencere 	0.67
+JPEG 	PDF 	3.08
+yönetmen 	patron 	3.33
+vergi 	Brexit 	1.17
+tozlaşma 	ercik 	2.42
+video oyunu 	bilgisayar oyunu 	3.33
+tedavi 	cerrahi operasyon 	2.33
+çeltik 	Patates 	2.67
+not alma 	Görev 	1.83
+tilki 	kan hücresi 	0.33
+sodyum klorit 	tuz 	3.92
+Gelir 	yaşam kalitesi 	2.17
+niyet 	niyet 	3.5
+pusula 	fil 	0.17
+devamı 	kamera 	1.0
+film 	film 	3.92
+Çavuş 	tabanca 	1.75
+değirmen 	tohum 	0.75
+dondurma 	kahvaltı 	1.17
+anahtar 	kilit 	2.33
+cep telefonu 	telefon 	3.92
+çocuk Yuvası 	okul öncesi 	3.75
+Batı dünyası 	Batı Birliği 	0.42
+fide 	Yaprak 	2.25
+yağmur 	selamlamak 	3.08
+mutluluk 	üzüntü 	2.33
+ipekböceği 	tırtıl 	3.33
+sörf yapmak 	su sporu 	3.0
+araba 	kamyon 	3.17
+Gıda 	program 	0.25
+çizgi roman 	çizgi roman 	3.42
+yılan 	kertenkele 	3.08
+Ananas 	akıllı telefon 	0.0
+duvar kağıdı 	arka fon 	3.42
+Santigrat 	Microsoft 	0.08
+birleştirmek 	şeker kamışı 	0.75
+kot 	Kadın 	0.75
+matris 	vektör 	2.83
+karbon dioksit 	CO2 	4.0
+Koç 	oyuncu 	2.5
+taş 	Odun 	2.33
+şarj cihazı 	disk 	1.08
+el yazması 	makale 	3.5
+Gmail 	Yahoo 	2.42
+kapasitör 	diyot 	3.17
+yolsuzluk 	dolandırıcılık 	3.17
+Coca Cola 	Kola 	3.92
+Platon 	Aristo 	3.17
+Soğuk Savaş 	Sovyetler Birliği 	2.58
+ağızlık 	sıvı 	2.0
+fonoloji 	ekran 	0.0
+Zara 	tayt 	1.67
+Futbol 	Futbol 	4.0
+mikrop 	patojen 	3.92
+cumhuriyet 	dük 	1.17
+top 	küre 	3.0
+Mozart 	Yıldız Savaşları 	0.0
+maske 	Parti 	1.33
+Büyük otomobil hırsızlığı 	GTA 	4.0
+otoyol 	yol 	3.42
+zincirleme tepki 	termodinamik 	2.0
+illüstrasyon 	kabarcık 	0.0
+antropoloji 	arkeoloji 	2.92
+Dell 	Derecik 	0.0
+Meyve suyu 	kaşık 	0.25
+Pfizer 	ilaç 	2.5
+kamyon 	parsel 	0.67
+reseptör 	protein molekülü 	2.75
+Google sürücü 	sürücü 	0.0
+milyarder 	evsiz 	1.67
+bölüm 	bölüm 	2.83
+sonsuzluk 	sıfır 	2.33
+hizmetçi 	köle 	3.42
+son ek 	ek 	3.33
+küresel ısınma 	sıcaklık 	2.42
+büyüme hormonu 	somatotropin 	3.92
+gökyüzü 	rüya 	0.83
+teklif fiyatı 	Londra 	0.42
+gübre 	büyüme 	1.67
+başlık etiketi 	konu 	2.5
+Orion 	takımyıldız 	3.17
+Nietzsche 	Chelsea 	0.17
+karşılıklı saygı 	rekabet 	1.5
+şube 	kol 	3.0
+kurban 	telefon 	0.08
+standart sapma 	birikim 	0.5
+çığ 	kar 	2.08
+öğretmen 	Öğrenci 	2.0
+sığırlar 	yoğurt 	1.5
+cinsiyetçilik 	Cinsiyet ayrımcılığı 	3.92
+Güney Kutbu 	dans 	0.0
+Savcı 	avukat 	3.33
+raket 	top 	2.5
+banka borcu 	borç 	3.25
+perspektif 	mesafe 	1.58
+Federer 	Dylan 	0.5
+avukat 	galeri 	0.33
+yaşam beklentisi 	istatistiksel ölçü 	2.67
+hücre zarı 	Provirüs 	1.83
+Avrupa Birliği 	Moskova 	2.0
+dünya 	Asya 	2.17
+Boya 	Photoshop 	3.17
+senato 	Anayasa 	1.83
+maydanoz 	kek 	1.0
+zihin 	beyin 	3.83
+Mercedes 	Opel 	3.17
+çekiç 	diş 	0.0
+Rönesans 	Yeniden canlanma 	4.0
+etek 	izlemek 	1.0
+opera 	sinema 	2.75
+öğretmen 	eğitmen 	3.83
+Güneş 	kablo 	0.08
+durgunluk 	GSYİH 	2.0
+Sezar 	julius Sezar 	3.92
+hasta 	oturum, toplantı, celse 	0.67
+davranışçılık 	terapi 	2.17
+imparator 	Anayasa 	1.25
+matematikçi 	göstermek 	0.08
+entropi 	bilgi 	1.75
+Gül suyu 	gül yağı 	3.17
+narenciye 	greyfurt 	3.5
+Kraliçe Viktorya 	İngiltere 	1.75
+Olimpiyat Oyunları 	ruh 	0.83
+piskopos 	Müslüman 	1.67
+adam 	şüpheli 	1.0
+göktaşı 	Dünya 	1.83
+sembol 	işaret 	3.42
+antropoloji 	New York 	0.08
+gün batımı 	masa 	0.0
+kasaba 	Kent 	3.75
+ceket 	maden suyu 	0.0
+doğa 	bitki örtüsü 	3.0
+altyordam 	derleyici 	2.67
+Hamadan 	Roma 	2.58
+şemsiye 	ısıtıcı 	0.17
+Onur 	saygı 	3.25
+nişan 	haysiyet 	0.58
+KFC 	McDonald's 	3.17
+oyun kolu 	radar 	0.67
+Basmati 	Yasemin pirinci 	3.58
+madalya 	eğitmenler 	0.42
+yasa 	Yüzme havuzu 	0.08
+kaynak 	Kutu 	0.0
+tiyatro 	pil 	0.0
+bitki örtüsü 	internet tarayıcısı 	0.0
+gömlek 	hırka 	3.25
+şiir 	ritim 	1.42
+peygamber 	rahip 	2.58
+Oscar ödülleri 	stadyum 	0.08
+tavla 	Git 	3.25
+kelebek 	gül 	1.25
+çit 	atlama 	1.58
+nihilizm 	film 	0.17
+asteroit 	star 	2.25
+isyan 	çizim 	0.08
+iç çamaşırı 	vücut 	1.25
+Boeing 	uçak 	2.83
+minyatür 	verim 	2.42
+dönem 	dönem 	3.83
+Portakal 	narenciye 	3.0
+buzul 	küresel ısınma 	1.58
+tünel 	yol 	2.0

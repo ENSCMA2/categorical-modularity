@@ -1,0 +1,500 @@
+Joule 	vaisseau spatial 	0.58
+Terre promise 	Bakou 	0.42
+voiture 	vélo 	2.83
+polyèdre 	acteur	0.0
+sclérose en plaques 	SP 	3.92
+faute 	système 	0.58
+arme 	casque 	1.83
+scénariste 	télévision 	1.67
+Les Nations Unies 	Ban Ki-moon 	2.5
+Si-o-seh pol 	Pont mathématique 	3.0
+Basilique 	mosaïque 	1.5
+la peinture à l'aquarelle 	brosse 	2.0
+la démocratie 	la monarchie 	2.67
+Gauss 	scientifique 	3.0
+tuberculose 	LED 	0.0
+voiture autonome 	voiture autonome 	4.0
+apocalypse 	Feu 	1.25
+la vitesse 	Publier 	0.25
+PlayStation 	Wii 	3.25
+portable 	carnet 	4.0
+Harry Potter 	sorcier 	3.0
+snowboard 	ski 	3.17
+aiguille 	faire glisser 	1.33
+capteur 	radiateur 	1.25
+frappé 	Cadre 	0.42
+théorie 	hypothèse 	3.83
+Wall Street 	marché financier 	2.92
+Darwin 	évolution 	2.58
+acteur	actrice 	3.42
+film 	théâtre 	2.25
+Hymne national 	patriotisme 	2.42
+écran 	moniteur	3.92
+laitier	mon chéri 	0.83
+Mont Everest 	Chomolungma 	3.92
+tir à la corde 	Serpents et échelles 	2.33
+pesticide 	ravageur	1.83
+policier	politicien	2.17
+neuropsychologie 	parapsychologie 	3.17
+batterie 	énergie 	2.83
+Légion d'honneur 	papeterie 	0.0
+Homme araignée 	rue 	0.5
+péninsule 	île 	3.0
+équateur 	Equateur 	1.17
+graphique 	graphique 	3.83
+simulation 	robotique 	1.42
+Nike 	Adidas 	3.17
+société 	culture 	2.67
+jeu de stratégie 	stratégie 	2.0
+église 	cathédrale 	3.58
+traducteur	étranger	1.42
+biotope 	la biologie 	1.92
+magma 	volcan 	2.25
+réflexion 	télescope 	0.0
+niveau 	But 	2.67
+penny 	bonne affaire 	1.42
+parti politique 	association 	2.08
+tsunami 	mer 	2.0
+autruche 	verger 	0.42
+cannelle 	bonbons 	1.75
+balai 	poussière 	1.83
+galaxie 	astronome 	1.42
+jus 	Milk-shake 	3.17
+store de fenêtre 	rideau 	3.25
+criminel	délinquant	3.5
+cancer du pancréas 	chimiothérapie 	1.83
+passé	antécédent	2.75
+Les Nations Unies 	Parlement européen 	2.75
+chanson 	interprète 	1.83
+pistolet 	carnet 	0.0
+acétylcholine 	iris 	0.58
+alphabet 	stylo 	0.58
+Refrain 	chanteur	2.67
+bois 	couverture 	0.5
+soldat	paix 	1.25
+Anglais	Américain	3.33
+lézard	crocodile 	3.25
+argent 	en espèces 	3.42
+Paul le poulpe 	poulpe 	3.5
+calendrier 	vacances 	2.08
+base 	substance chimique 	3.0
+gouvernement 	lézard	0.0
+JPY 	blanchiment d'argent 	1.58
+DeepMind 	Google DeepMind 	3.92
+échecs 	vérifier 	1.67
+sonnet 	beauté 	1.33
+ouvrier	Bureau 	1.75
+devise 	échange 	1.67
+polyester 	coton 	3.08
+tribunal 	Justice 	2.5
+queue 	arrière 	3.25
+accident 	livre 	0.0
+bourrasque 	vent 	2.75
+piano 	harmonie 	1.58
+sultan 	ministère 	1.5
+désert	dune 	2.42
+multiplication 	division 	2.67
+virus 	du sang 	1.58
+âge de glace 	loi 	0.0
+épée 	environnement 	0.0
+école primaire 	stylo 	1.5
+criquet 	Supporter	1.67
+sculpture 	statue 	3.83
+navigateur Web 	Mozilla Firefox 	3.58
+Fox terrier 	Canon 	0.0
+HSBC 	Bretagne 	1.67
+Bible 	Gospel 	3.08
+robe 	Danse 	1.0
+tableau 	liste 	3.92
+cellule 	verrouillage 	3.5
+essai 	devoirs 	2.5
+ordinateur 	machine 	3.33
+Panda 	ours polaire 	3.25
+névrose 	esprit 	1.75
+campagne 	singe	0.0
+Constante de Faraday 	sac à dos 	0.0
+palais 	gratte-ciel 	2.33
+hélicoptère 	avion 	3.0
+Université de Cambridge 	L'université d'Oxford 	3.25
+drapeau 	pôle 	1.42
+la fenêtre 	toit	2.33
+jeu de cartes 	frisbee 	2.5
+malware 	Ver de terre 	3.42
+planète 	étoile 	2.58
+coureur	athlète 	3.42
+calibre 	parapluie 	0.0
+Wifi 	WikiLeaks 	0.5
+sécheresse 	l'eau 	2.0
+aéroport 	pièce 	0.08
+orchestre 	bande 	3.42
+Mojito 	mohito 	4.0
+programme 	examen 	2.42
+théorème 	théorie 	2.42
+yo-yo 	jouet 	3.0
+Tempête De Neige 	pluie 	2.58
+historien	historiographe 	3.58
+Siemens 	train électrique 	1.75
+siècle 	an 	2.83
+alliage 	acier 	3.5
+magistrat	juge 	3.58
+le chaos 	classe 	0.17
+l'enseignement à distance 	l'Internet 	1.75
+le sable 	pied 	0.42
+FMI 	Banque Allemande 	2.83
+Gardien	Fois 	3.17
+ver à soie 	Route de la soie 	0.58
+liberté 	oasis 	0.58
+cytoplasme 	chiffre 	0.67
+protestant	Christian 	3.5
+Léonard de Vinci 	Le dernier souper 	2.33
+carte 	carré	1.0
+parlement 	congrès 	3.5
+collecte de fonds 	développement 	1.17
+pathologie 	hématologie 	3.08
+vallée 	la dépression 	2.0
+télescope 	chaise 	0.25
+Heavy métal 	étape 	1.42
+globalisme 	visa 	1.5
+chauve souris 	vampire 	2.33
+adjoint	officier	2.83
+électricité 	Cas 	0.42
+extraterrestre 	étranger	3.67
+bouton 	machine à coudre 	1.42
+sorcier 	câble 	0.0
+philosophe 	courses 	0.0
+pop corn 	cinéma 	1.5
+agriculture 	plante 	2.25
+poète	journaliste 	2.33
+la météo 	vague 	0.83
+civilisation 	mode de vie 	1.5
+neige 	la glace 	2.75
+La Seconde Guerre mondiale 	Beethoven 	0.08
+carte mère 	carte mère 	4.0
+club 	marque 	0.33
+Alexandre le Grand 	conquérant	2.92
+app 	galaxie 	0.42
+Cloud computing 	pluie 	0.0
+télévision 	acteur	1.58
+delta 	mer 	2.42
+fil 	fil 	3.92
+passage piéton 	la personne 	1.42
+protéine 	manipuler 	0.0
+U2 	Ronaldo 	0.42
+Pomme 	iPhone 	2.58
+menthe poivrée 	gencive 	1.83
+affiche 	papier 	2.83
+UNICEF 	racine 	0.0
+xénophobie 	racisme 	3.42
+Woody Allen 	lentille 	0.33
+lampe 	génie 	2.08
+marin	île 	0.92
+mur 	Château 	2.0
+dinosaure 	l'éléphant 	2.33
+tour de l'horloge 	calcul 	0.67
+moyen-Orient 	Euphrate 	1.5
+Prairie 	prairie 	3.58
+guitare 	violon 	3.17
+diplomatie 	négociation 	2.67
+la gravité 	météore 	0.75
+QI 	Mensa 	1.83
+Union Jack 	drapeau 	3.17
+tremblement de terre 	tremblement 	3.92
+atout 	Stock 	2.75
+Hébreu	Jérusalem 	1.75
+couvert	prévoir 	1.92
+dictionnaire 	encyclopédie 	2.83
+menthe 	musée 	1.0
+chaise 	tabouret 	3.08
+Espagnol	humidité 	0.0
+pouvez 	bouteille 	3.5
+mouche 	fourmi 	2.92
+mythe 	satire 	1.92
+centre-ville 	autobus 	0.75
+queue 	Boeing 747-200 	1.92
+ouvrages d'art 	artiste 	2.33
+L'OTAN 	Alliance 	3.0
+Roi 	règle 	3.67
+rythme 	cadence 	3.58
+Alexander Fleming 	Pénicilline 	2.5
+flûte 	la musique 	2.08
+héron cendré 	Lac 	1.33
+viscosité 	éclaboussure 	1.92
+Matériel 	Cas 	1.67
+bague 	engagement 	1.25
+Latin	Allemand	2.92
+la classe ouvrière 	plante 	1.75
+Shakespeare 	Diable 	3.0
+billet d'argent 	prêtre	0.0
+outil 	emploi 	1.08
+porc pygmée 	suidés 	3.42
+suffrage 	sortie 	0.08
+étoile 	luminosité 	1.58
+truite 	guitare 	0.0
+dollar 	millionnaire 	1.75
+chiffre 	nombre 	3.92
+grand vent 	couverture 	0.42
+Obama 	Clinton 	3.08
+caractère de soutien 	film 	1.67
+Juventus 	Bayern Munich 	3.0
+changement climatique 	précipitation 	1.58
+IA 	batterie 	0.42
+chef-d'oeuvre 	Mona Lisa 	2.67
+la criminalité 	attaque 	2.75
+couronnement 	l'eau 	0.0
+chanteur	Personnel	1.75
+éliminatoires 	basketball 	1.67
+forces armées 	la défense 	2.33
+Lac 	nuage 	0.83
+monastère 	douche 	0.08
+langue maternelle 	Langue 	3.17
+port 	emballage 	0.08
+démon	ange 	2.67
+cryptogramme 	symbole 	2.33
+Campus 	Université 	2.92
+liberté 	liberté 	4.0
+typhon 	cyclone 	3.83
+manuel 	guide 	3.92
+Ebola 	Virus Ebola 	4.0
+Princesse 	biscuit 	0.08
+train 	tram 	3.5
+écosystème 	économie 	0.92
+reine régnante 	reine des échecs 	0.92
+or 	zinc 	3.0
+le curseur 	chips 	0.25
+Amazone 	forêt 	3.08
+tennis 	statistiques 	0.58
+Bolzano 	théorème 	2.25
+altitude 	conversion 	0.08
+bateau 	arbre 	0.25
+trône 	épée 	1.0
+coton 	chandail 	1.83
+Cerise 	fraise 	3.0
+Islam 	Coran 	2.5
+Néandertal 	sport 	0.0
+népotisme 	Roi 	1.42
+personnage 	la personne 	2.67
+réservoir 	voiture 	2.33
+Mercure 	Jupiter 	3.17
+bronchite 	acétaminophène 	1.67
+du sang 	corps 	2.0
+islamophobie 	ISIS 	1.92
+crochet 	uniforme 	1.17
+Hadoop 	écran tactile 	0.67
+combustibles fossiles 	fossile 	2.08
+mutant	sociobiologie 	0.75
+sœur 	frère 	2.67
+crayon 	récit 	1.08
+eczéma 	dermatite 	4.0
+empereur 	gouverneur	3.67
+couronne 	clé 	0.25
+algèbre 	opération 	1.67
+piston 	moteur 	2.33
+Bourse d'études 	frais de scolarité 	2.42
+livre 	manuscrit	3.17
+Lantana 	muflier 	3.0
+trou noir 	vide 	2.33
+L'empire Perse 	Cyrus 	1.83
+éditorial	nouvelles 	2.42
+décoration 	enveloppe 	0.08
+requin baleine 	Homard 	2.25
+blé 	maïs 	4.0
+trouble bipolaire 	problème 	2.25
+acide 	base 	2.67
+zéro absolu 	vapeur 	1.42
+La Revolution verte 	peindre 	0.0
+système opérateur 	l'apprentissage en profondeur 	1.5
+Olympiade mathématique internationale 	théorie 	1.0
+El Niño 	équateur 	0.83
+badge 	verre 	0.0
+Manoir 	sculpteur	1.0
+atmosphère 	ozone 	2.58
+bouclier 	bouclier 	3.67
+pièce de monnaie 	Paiement 	1.75
+avoine 	champ 	1.17
+moine	traverser 	0.33
+canonnière 	côte 	1.42
+Roche 	mien	1.75
+Légende 	moral	1.0
+champion	gagnant	3.75
+dé 	cube 	3.0
+topologie 	structure 	1.83
+chapelle 	câble 	0.25
+flux de trésorerie 	rivière 	0.0
+tueur en série 	meurtrier	3.5
+matrice 	molécule 	0.0
+mode 	style 	3.17
+vexillologie 	drapeau 	2.33
+le traité de Maastricht 	L'Europe  	2.17
+geyser 	printemps 	3.25
+saccharose 	glucides 	3.58
+plage 	côte 	3.83
+bourse 	Bourse 	3.25
+tradition 	artisanat 	1.58
+roman 	écrivain	1.92
+sandwich 	Métro 	1.75
+acoustique 	du son 	2.67
+escrime 	gymnastique 	2.33
+écrivain	cadeau 	0.0
+des bois 	Tiger Woods 	0.08
+nuage 	la fenêtre 	0.67
+JPEG 	PDF 	3.08
+réalisateur	patron	3.33
+impôt 	Brexit 	1.17
+pollinisation 	étamine 	2.42
+jeu vidéo 	jeu pc 	3.33
+traitement 	opération chirurgicale 	2.33
+paddy 	Patate 	2.67
+prendre des notes 	affectation 	1.83
+renard	cellule sanguine 	0.33
+chlorure de sodium 	sel 	3.92
+le revenu 	qualité de vie 	2.17
+volonté 	intention 	3.5
+boussole 	l'éléphant 	0.17
+suite 	caméra 	1.0
+film 	film 	3.92
+sergent	pistolet 	1.75
+moulin 	la graine 	0.75
+crème glacée 	petit déjeuner 	1.17
+clé 	fermer à clé 	2.33
+téléphone portable 	Téléphone 	3.92
+Jardin d'enfants 	préscolaire 	3.75
+Le monde occidental 	Western union 	0.42
+semis 	feuille 	2.25
+pluie 	saluer 	3.08
+bonheur 	tristesse 	2.33
+ver à soie 	chenille 	3.33
+surfant 	sport d'eau 	3.0
+voiture 	un camion 	3.17
+nourriture 	programme 	0.25
+roman graphique 	bande dessinée 	3.42
+serpent 	lézard	3.08
+ananas 	téléphone intelligent 	0.0
+fond d'écran 	Contexte 	3.42
+Celsius 	Microsoft 	0.08
+combiner 	canne à sucre 	0.75
+jeans 	femme 	0.75
+matrice 	vecteur 	2.83
+gaz carbonique 	CO2 	4.0
+entraîneur	joueur	2.5
+calcul 	bois 	2.33
+chargeur 	disque 	1.08
+manuscrit	article 	3.5
+Gmail 	Yahoo 	2.42
+condensateur 	diode 	3.17
+la corruption 	fraude 	3.17
+Coca Cola 	du Coca 	3.92
+Platon 	Aristote 	3.17
+Guerre froide 	Union soviétique 	2.58
+buse 	fluide 	2.0
+phonologie 	écran 	0.0
+Zara 	leggings 	1.67
+Football 	football 	4.0
+germe 	agent pathogène 	3.92
+république 	Duc 	1.17
+Balle 	sphère 	3.0
+Mozart 	Guerres des étoiles 	0.0
+masque 	fête 	1.33
+Grand Theft Auto 	GTA 	4.0
+Autoroute 	route 	3.42
+réaction en chaîne 	thermodynamique 	2.0
+illustration 	cloque 	0.0
+anthropologie 	archéologie 	2.92
+Dell 	Dingle 	0.0
+jus 	cuillère 	0.25
+Pfizer 	médicament 	2.5
+un camion 	parcelle 	0.67
+récepteur 	molécule de protéine 	2.75
+Google Drive 	chauffeur	0.0
+milliardaire 	sans abri 	1.67
+épisode 	chapitre 	2.83
+infini 	zéro 	2.33
+serviteur	esclave 	3.42
+suffixe 	affixe 	3.33
+réchauffement climatique 	chaleur 	2.42
+hormone de croissance 	somatotropine 	3.92
+ciel 	rêver 	0.83
+prix de l'offre 	Londres 	0.42
+engrais 	croissance 	1.67
+hashtag 	sujet	2.5
+Orion 	constellation 	3.17
+Nietzsche 	Chelsea 	0.17
+respect mutuel 	compétition 	1.5
+branche 	bras 	3.0
+victime 	téléphone 	0.08
+écart-type 	accumulation 	0.5
+avalanche 	neige 	2.08
+professeur	étudiant	2.0
+bétail 	yaourt 	1.5
+sexisme 	le sexisme 	3.92
+pôle Sud 	Danse 	0.0
+procureur	avocat	3.33
+raquette 	Balle 	2.5
+prêt banquaire 	dette 	3.25
+perspective 	distance 	1.58
+Federer 	Dylan 	0.5
+avocat	Galerie 	0.33
+espérance de vie 	mesure statistique 	2.67
+membrane cellulaire 	provirus 	1.83
+Union européenne 	Moscou 	2.0
+monde 	Asie 	2.17
+Peindre 	Photoshop 	3.17
+sénat 	Constitution 	1.83
+persil 	muffin 	1.0
+esprit 	cerveau 	3.83
+Mercedes 	Opel 	3.17
+marteau 	les dents 	0.0
+Renaissance 	Renaissance 	4.0
+jupe 	regarder 	1.0
+opéra 	cinéma 	2.75
+professeur	instructeur	3.83
+Soleil 	câble 	0.08
+récession 	PIB 	2.0
+César 	Jules César 	3.92
+patient	session 	0.67
+behaviorisme 	thérapie 	2.17
+empereur 	Constitution 	1.25
+mathématicien	spectacle 	0.08
+entropie 	information 	1.75
+eau de rose 	huile de rose 	3.17
+agrumes 	pamplemousse 	3.5
+La reine victoria 	Angleterre 	1.75
+jeux olympiques 	esprit 	0.83
+évêque 	musulman	1.67
+homme 	suspect	1.0
+météorite 	Terre 	1.83
+symbole 	signe 	3.42
+anthropologie 	New York 	0.08
+le coucher du soleil 	table 	0.0
+ville 	ville 	3.75
+veste 	eau minérale 	0.0
+la nature 	flore 	3.0
+sous-programme 	compilateur	2.67
+Hamadan 	Rome 	2.58
+parapluie 	chauffe-eau 	0.17
+honneur 	estime 	3.25
+insigne 	dignité 	0.58
+KFC 	McDonalds 	3.17
+manette 	radar 	0.67
+basmati 	riz au jasmin 	3.58
+médaille 	formateurs	0.42
+loi 	piscine 	0.08
+la source 	boîte 	0.0
+théâtre 	batterie 	0.0
+flore 	navigateur Web 	0.0
+chemise 	cardigan 	3.25
+poème 	rythme 	1.42
+prophète 	prêtre	2.58
+Oscars 	stade 	0.08
+jacquet 	Aller 	3.25
+papillon 	Rose 	1.25
+clôture 	sauter 	1.58
+nihilisme 	film 	0.17
+astéroïde 	étoile 	2.25
+émeute 	dessin 	0.08
+sous-vêtements 	corps 	1.25
+Boeing 	avion 	2.83
+camée 	performance 	2.42
+semestre 	terme 	3.83
+Orange 	agrumes 	3.0
+glacier 	réchauffement climatique 	1.58
+tunnel 	chemin 	2.0

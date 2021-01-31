@@ -1,0 +1,500 @@
+Joule 	pesawat ruang angkasa 	0.58
+Tanah Perjanjian 	Baku 	0.42
+mobil 	sepeda 	2.83
+polihedron 	aktor 	0.0
+sklerosis ganda 	MS 	3.92
+kesalahan 	sistem 	0.58
+senjata 	helm 	1.83
+penulis skenario 	televisi 	1.67
+Persatuan negara-negara 	Ban Ki-moon 	2.5
+Si-o-seh pol 	Jembatan Matematika 	3.0
+basilika 	mosaik 	1.5
+lukisan cat air 	sikat 	2.0
+demokrasi 	kerajaan 	2.67
+Gauss 	ilmuwan 	3.0
+tuberkulosis 	LED 	0.0
+mobil tanpa pengemudi 	mobil otonom 	4.0
+wahyu 	api 	1.25
+kecepatan 	pos 	0.25
+PlayStation 	Wii 	3.25
+laptop 	buku catatan 	4.0
+Harry Potter 	Penyihir 	3.0
+papan seluncur 	bermain ski 	3.17
+penunjuk 	meluncur 	1.33
+sensor 	radiator 	1.25
+memukul 	bingkai 	0.42
+teori 	hipotesa 	3.83
+Wall Street 	pasar finansial 	2.92
+Darwin 	evolusi 	2.58
+aktor 	aktris 	3.42
+film 	teater 	2.25
+lagu kebangsaan 	patriotisme 	2.42
+layar 	monitor 	3.92
+produk susu 	madu 	0.83
+Gunung Everest 	Chomolungma 	3.92
+tarik tambang 	Ular tangga 	2.33
+pestisida 	hama 	1.83
+polisi 	politikus 	2.17
+neuropsikologi 	parapsikologi 	3.17
+baterai 	energi 	2.83
+Legiun Kehormatan 	alat tulis 	0.0
+Manusia laba-laba 	jalan 	0.5
+semenanjung 	pulau 	3.0
+khatulistiwa 	Ekuador 	1.17
+grafik 	grafik 	3.83
+simulasi 	robotika 	1.42
+Nike 	Adidas 	3.17
+masyarakat 	budaya 	2.67
+permainan strategi 	strategi 	2.0
+gereja 	Katedral 	3.58
+Penerjemah 	orang asing 	1.42
+biotope 	biologi 	1.92
+magma 	gunung berapi 	2.25
+brainstorming 	teleskop 	0.0
+tingkat 	skor 	2.67
+sen dolar 	tawar 	1.42
+Partai Politik 	asosiasi 	2.08
+tsunami 	laut 	2.0
+burung unta 	kebun buah-buahan 	0.42
+kayu manis 	Permen 	1.75
+sapu 	debu 	1.83
+galaksi 	ahli astronomi 	1.42
+jus 	milkshake 	3.17
+tirai jendela 	tirai 	3.25
+pidana 	pelanggar 	3.5
+kanker pankreas 	kemoterapi 	1.83
+lalu 	mendahului 	2.75
+Persatuan negara-negara 	Parlemen Eropa 	2.75
+lagu 	penampil 	1.83
+senjata 	buku catatan 	0.0
+asetilkolin 	iris 	0.58
+alfabet 	pena 	0.58
+paduan suara 	penyanyi 	2.67
+kayu 	selimut 	0.5
+tentara 	perdamaian 	1.25
+Inggris 	Amerika 	3.33
+kadal 	buaya 	3.25
+uang 	tunai 	3.42
+Paul si Gurita 	gurita 	3.5
+kalender 	liburan 	2.08
+mendasarkan 	substansi kimia 	3.0
+pemerintah 	kadal 	0.0
+Yen 	pencucian uang 	1.58
+DeepMind 	Google DeepMind 	3.92
+catur 	memeriksa 	1.67
+sonet 	Kecantikan 	1.33
+pekerja 	kantor 	1.75
+mata uang 	bertukar 	1.67
+poliester 	kapas 	3.08
+pengadilan 	keadilan 	2.5
+ekor 	belakang 	3.25
+kecelakaan 	Book 	0.0
+badai 	angin 	2.75
+piano 	harmoni 	1.58
+sultan 	kementerian 	1.5
+gurun 	bukit pasir 	2.42
+perkalian 	divisi 	2.67
+virus 	darah 	1.58
+zaman Es 	undang-undang 	0.0
+pedang 	lingkungan Hidup 	0.0
+sekolah dasar 	pena 	1.5
+jangkrik 	pendukung 	1.67
+patung 	patung 	3.83
+browser web 	Mozilla Firefox 	3.58
+Fox Terrier 	Canon 	0.0
+HSBC 	Britania 	1.67
+Alkitab 	Injil 	3.08
+gaun 	menari 	1.0
+Himpunan 	daftar 	3.92
+sel 	terkunci 	3.5
+karangan 	pekerjaan rumah 	2.5
+komputer 	mesin 	3.33
+panda 	beruang kutub 	3.25
+sakit saraf 	pikiran 	1.75
+kampanye 	monyet 	0.0
+Konstanta Faraday 	ransel 	0.0
+istana 	gedung pencakar langit 	2.33
+helikopter 	pesawat 	3.0
+Universitas Cambridge 	Universitas Oxford 	3.25
+bendera 	tiang 	1.42
+jendela 	atap 	2.33
+permainan kartu 	frisbee 	2.5
+malware 	cacing 	3.42
+planet 	bintang 	2.58
+pelari 	atlet 	3.42
+kaliber 	payung 	0.0
+Wifi 	WikiLeaks 	0.5
+kekeringan 	air 	2.0
+Bandara 	bagian 	0.08
+orkestra 	pita 	3.42
+Mojito 	mohito 	4.0
+Silabus 	ujian 	2.42
+dalil 	teori 	2.42
+yo-yo 	mainan 	3.0
+badai salju 	hujan 	2.58
+sejarawan 	penulis sejarah 	3.58
+Siemens 	kereta listrik 	1.75
+abad 	tahun 	2.83
+paduan 	baja 	3.5
+hakim 	hakim 	3.58
+kekacauan 	kelas 	0.17
+pendidikan jarak jauh 	Internet 	1.75
+pasir 	kaki 	0.42
+IMF 	Bank Jerman 	2.83
+Wali 	Waktu 	3.17
+ulat sutera 	Jalan Sutra 	0.58
+kebebasan 	oasis 	0.58
+sitoplasma 	angka 	0.67
+Protestan 	Kristen 	3.5
+Leonardo da Vinci 	Perjamuan Terakhir 	2.33
+peta 	kotak 	1.0
+parlemen 	Kongres 	3.5
+penggalangan dana 	pengembangan 	1.17
+patologi 	hematologi 	3.08
+lembah 	depresi 	2.0
+teleskop 	kursi 	0.25
+logam berat 	tahap 	1.42
+globalisme 	Visa 	1.5
+kelelawar 	vampir 	2.33
+wakil 	petugas 	2.83
+listrik 	kasus 	0.42
+asing 	Orang Luar 	3.67
+tombol 	mesin jahit 	1.42
+Penyihir 	kabel 	0.0
+filsuf 	balap 	0.0
+jagung meletus 	bioskop 	1.5
+pertanian 	menanam 	2.25
+penyair 	wartawan 	2.33
+cuaca 	gelombang 	0.83
+peradaban 	gaya hidup 	1.5
+salju 	Es 	2.75
+perang dunia II 	Beethoven 	0.08
+motherboard 	papan utama 	4.0
+klub 	menandai 	0.33
+Alexander yang Agung 	penakluk 	2.92
+aplikasi 	galaksi 	0.42
+komputasi awan 	hujan 	0.0
+televisi 	aktor 	1.58
+delta 	laut 	2.42
+benang 	benang 	3.92
+penyeberangan pejalan kaki 	orang 	1.42
+protein 	menangani 	0.0
+U2 	Ronaldo 	0.42
+apel 	iPhone 	2.58
+permen 	gusi 	1.83
+poster 	kertas 	2.83
+UNICEF 	akar 	0.0
+xenofobia 	rasisme 	3.42
+Woody Allen 	lensa 	0.33
+lampu 	jin 	2.08
+angkatan laut 	pulau 	0.92
+dinding 	Kastil 	2.0
+dinosaurus 	gajah 	2.33
+menara Jam 	batu 	0.67
+Timur Tengah 	Efrat 	1.5
+padang rumput 	padang rumput 	3.58
+gitar 	biola 	3.17
+diplomasi 	perundingan 	2.67
+gravitasi 	meteor 	0.75
+IQ 	Mensa 	1.83
+Union Jack 	bendera 	3.17
+gempa bumi 	getaran 	3.92
+aset 	persediaan 	2.75
+Ibrani 	Yerusalem 	1.75
+mendung 	ramalan cuaca 	1.92
+kamus 	ensiklopedi 	2.83
+daun mint 	museum 	1.0
+kursi 	bangku 	3.08
+Orang Spanyol 	kelembaban 	0.0
+bisa 	botol 	3.5
+terbang 	semut 	2.92
+mitos 	sindiran 	1.92
+Pusat kota 	bis 	0.75
+ekor 	Boeing 747-200 	1.92
+karya seni 	artis 	2.33
+NATO 	persekutuan 	3.0
+raja 	penggaris 	3.67
+irama 	irama 	3.58
+Alexander Fleming 	Penisilin 	2.5
+seruling 	musik 	2.08
+bangau abu-abu 	danau 	1.33
+viskositas 	guyuran 	1.92
+perangkat keras 	kasus 	1.67
+cincin 	keterikatan 	1.25
+Latin 	Jerman 	2.92
+kelas pekerja 	menanam 	1.75
+Shakespeare 	Iblis 	3.0
+uang kertas 	imam 	0.0
+alat 	pekerjaan 	1.08
+babi kerdil 	suidae 	3.42
+hak pilih 	keluar 	0.08
+bintang 	kecerahan 	1.58
+ikan trout 	gitar 	0.0
+dolar 	jutawan 	1.75
+angka 	jumlah 	3.92
+badai 	selimut 	0.42
+Obama 	Clinton 	3.08
+karakter pembantu 	film 	1.67
+Juventus 	Bayern Munich 	3.0
+perubahan iklim 	pengendapan 	1.58
+AI 	baterai 	0.42
+karya besar 	Mona lisa 	2.67
+kejahatan 	menyerang 	2.75
+pemahkotaan 	air 	0.0
+penyanyi 	staf 	1.75
+pertandingan ulang 	bola basket 	1.67
+pasukan bersenjata 	pertahanan 	2.33
+danau 	awan 	0.83
+biara 	mandi 	0.08
+bahasa pertama 	bahasa 	3.17
+pelabuhan 	pembungkus 	0.08
+setan 	malaikat 	2.67
+kriptogram 	simbol 	2.33
+kampus 	Universitas 	2.92
+kebebasan 	kebebasan 	4.0
+topan 	topan 	3.83
+buku pegangan 	buku panduan 	3.92
+Ebola 	Virus Ebola 	4.0
+putri 	biskuit 	0.08
+melatih 	trem 	3.5
+ekosistem 	ekonomi 	0.92
+ratu regnant 	ratu catur 	0.92
+emas 	seng 	3.0
+kursor 	keripik 	0.25
+Amazon 	hutan 	3.08
+tenis 	statistik 	0.58
+Bolzano 	dalil 	2.25
+ketinggian 	konversi 	0.08
+perahu 	pohon 	0.25
+takhta 	pedang 	1.0
+kapas 	sweter 	1.83
+ceri 	stroberi 	3.0
+Islam 	Quran 	2.5
+Neanderthal 	olahraga 	0.0
+nepotisme 	raja 	1.42
+karakter 	orang 	2.67
+tangki 	mobil 	2.33
+Air raksa 	Jupiter 	3.17
+bronkitis 	parasetamol 	1.67
+darah 	tubuh 	2.0
+islamophobia 	ISIS 	1.92
+merenda 	seragam 	1.17
+Hadoop 	layar sentuh 	0.67
+bahan bakar fosil 	fosil 	2.08
+mutan 	sosiobiologi 	0.75
+saudara 	saudara 	2.67
+pensil 	cerita 	1.08
+eksim 	infeksi kulit 	4.0
+kaisar 	gubernur 	3.67
+mahkota 	kunci 	0.25
+aljabar 	operasi 	1.67
+piston 	mesin 	2.33
+beasiswa 	uang sekolah 	2.42
+Book 	naskah 	3.17
+lantana 	snapdragon 	3.0
+lubang hitam 	kekosongan 	2.33
+Kekaisaran Persia 	Cyrus 	1.83
+tajuk rencana 	berita 	2.42
+dekorasi 	amplop 	0.08
+hiu paus 	lobster 	2.25
+Jagung 	jagung 	4.0
+gangguan bipolar 	masalah 	2.25
+asam 	mendasarkan 	2.67
+nol mutlak 	uap air 	1.42
+Revolusi hijau 	cat 	0.0
+sistem operasi 	pembelajaran mendalam 	1.5
+Olimpiade Matematika Internasional 	teori 	1.0
+El Niño 	khatulistiwa 	0.83
+lencana 	kaca 	0.0
+rumah besar 	pematung 	1.0
+suasana 	ozon 	2.58
+melindungi 	pembelaan 	3.67
+koin 	pembayaran 	1.75
+haver 	bidang 	1.17
+biarawan 	menyeberang 	0.33
+kapal perang 	pantai 	1.42
+batu 	Milikku 	1.75
+legenda 	moral 	1.0
+juara 	pemenang 	3.75
+dadu 	kubus 	3.0
+topologi 	struktur 	1.83
+kapel 	kabel 	0.25
+arus kas 	sungai 	0.0
+pembunuh berantai 	pembunuh 	3.5
+matriks 	molekul 	0.0
+mode 	gaya 	3.17
+vexillology 	bendera 	2.33
+Perjanjian Maastricht 	Eropa 	2.17
+air mancur panas 	musim semi 	3.25
+sukrosa 	karbohidrat 	3.58
+pantai 	pantai 	3.83
+pasar saham 	Bursa Efek 	3.25
+tradisi 	kerajinan 	1.58
+novel 	penulis 	1.92
+sandwich 	Kereta bawah tanah 	1.75
+akustik 	suara 	2.67
+pagar 	olahraga senam 	2.33
+penulis 	hadiah 	0.0
+hutan 	Tiger Woods 	0.08
+awan 	jendela 	0.67
+JPEG 	PDF 	3.08
+Direktur 	bos 	3.33
+pajak 	Brexit 	1.17
+penyerbukan 	benang sari 	2.42
+video game 	permainan pc 	3.33
+pengobatan 	operasi bedah 	2.33
+padi 	kentang 	2.67
+pencatatan 	tugas 	1.83
+rubah 	sel darah 	0.33
+natrium klorida 	garam 	3.92
+pendapatan 	kualitas hidup 	2.17
+akan 	niat 	3.5
+kompas 	gajah 	0.17
+sekuel 	kamera 	1.0
+film 	film 	3.92
+sersan 	senjata 	1.75
+pabrik 	benih 	0.75
+es krim 	sarapan 	1.17
+kunci 	mengunci 	2.33
+telepon selular 	telepon 	3.92
+taman kanak-kanak 	prasekolah 	3.75
+dunia Barat 	Western Union 	0.42
+bibit 	daun 	2.25
+hujan 	hujan es 	3.08
+kebahagiaan 	kesedihan 	2.33
+ulat sutera 	ulat 	3.33
+berselancar 	olahraga Air 	3.0
+mobil 	truk 	3.17
+makanan 	program 	0.25
+novel grafis 	buku komik 	3.42
+ular 	kadal 	3.08
+nanas 	smartphone 	0.0
+wallpaper 	Latar Belakang 	3.42
+Celsius 	Microsoft 	0.08
+menggabungkan 	tebu 	0.75
+jeans 	wanita 	0.75
+matriks 	vektor 	2.83
+karbon dioksida 	CO2 	4.0
+pelatih 	pemain 	2.5
+batu 	kayu 	2.33
+pengisi daya 	disk 	1.08
+naskah 	artikel 	3.5
+Gmail 	Yahoo 	2.42
+kapasitor 	dioda 	3.17
+korupsi 	penipuan 	3.17
+Coca-Cola 	minuman bersoda 	3.92
+Plato 	Aristoteles 	3.17
+Perang Dingin 	Uni Soviet 	2.58
+nosel 	cairan 	2.0
+fonologi 	layar 	0.0
+Zara 	pembalut kaki 	1.67
+sepak bola 	sepak bola 	4.0
+kuman 	patogen 	3.92
+republik 	Bangsawan tinggi 	1.17
+bola 	bola 	3.0
+Mozart 	Star Wars 	0.0
+topeng 	pesta 	1.33
+Grand Theft Auto 	GTA 	4.0
+jalan raya 	jalan 	3.42
+reaksi berantai 	termodinamika 	2.0
+ilustrasi 	lepuh 	0.0
+antropologi 	arkeologi 	2.92
+Dell 	Lembah dalam 	0.0
+jus 	sendok 	0.25
+Pfizer 	obat 	2.5
+truk 	paket 	0.67
+reseptor 	molekul protein 	2.75
+google Drive 	sopir 	0.0
+milyarder 	tuna wisma 	1.67
+episode 	bab 	2.83
+tak terhingga 	nol 	2.33
+pelayan 	budak 	3.42
+akhiran 	afiks 	3.33
+pemanasan global 	panas 	2.42
+hormon pertumbuhan 	somatotropin 	3.92
+langit 	mimpi 	0.83
+harga penawaran 	London 	0.42
+pupuk 	pertumbuhan 	1.67
+tanda pagar 	tema 	2.5
+Orion 	konstelasi 	3.17
+Nietzsche 	Chelsea 	0.17
+saling menghormati 	kompetisi 	1.5
+cabang 	lengan 	3.0
+korban 	telepon 	0.08
+deviasi standar 	akumulasi 	0.5
+salju longsor 	salju 	2.08
+guru 	siswa 	2.0
+ternak 	yogurt 	1.5
+seksisme 	diskriminasi gender 	3.92
+kutub Selatan 	menari 	0.0
+jaksa 	pengacara 	3.33
+raket 	bola 	2.5
+pinjaman bank 	hutang 	3.25
+perspektif 	jarak 	1.58
+Federer 	Dylan 	0.5
+pengacara 	galeri 	0.33
+harapan hidup 	ukuran statistik 	2.67
+membran sel 	provirus 	1.83
+Uni Eropa 	Moskow 	2.0
+dunia 	Asia 	2.17
+Cat 	Photoshop 	3.17
+senat 	konstitusi 	1.83
+peterseli 	muffin 	1.0
+pikiran 	otak 	3.83
+Mercedes 	Opel 	3.17
+Palu 	gigi 	0.0
+Renaisans 	Kebangunan 	4.0
+rok 	menonton 	1.0
+opera 	bioskop 	2.75
+guru 	pengajar 	3.83
+Matahari 	kabel 	0.08
+resesi 	PDB 	2.0
+Caesar 	Julius Caesar 	3.92
+sabar 	sidang 	0.67
+behaviorisme 	terapi 	2.17
+kaisar 	konstitusi 	1.25
+ahli matematika 	menunjukkan 	0.08
+entropi 	informasi 	1.75
+air mawar 	minyak mawar 	3.17
+buah jeruk 	jeruk bali 	3.5
+Ratu Victoria 	Inggris 	1.75
+permainan Olimpik 	Roh 	0.83
+uskup 	Muslim 	1.67
+manusia 	tersangka 	1.0
+meteorit 	Bumi 	1.83
+simbol 	tanda 	3.42
+antropologi 	New York 	0.08
+matahari terbenam 	meja 	0.0
+kota 	kota 	3.75
+jaket 	air mineral 	0.0
+alam 	flora 	3.0
+subrutin 	penyusun 	2.67
+Hamadan 	Roma 	2.58
+payung 	pemanas 	0.17
+kehormatan 	menghargai 	3.25
+lencana 	martabat 	0.58
+KFC 	McDonald's 	3.17
+joystick 	radar 	0.67
+basmati 	Nasi melati 	3.58
+medali 	pelatih 	0.42
+hukum 	kolam renang 	0.08
+sumber 	kotak 	0.0
+teater 	baterai 	0.0
+flora 	browser web 	0.0
+kemeja 	kardigan 	3.25
+puisi 	irama 	1.42
+nabi 	imam 	2.58
+Oscar 	stadion 	0.08
+bakgamon 	Pergilah 	3.25
+kupu-kupu 	mawar 	1.25
+pagar 	melompat 	1.58
+nihilisme 	film 	0.17
+asteroid 	bintang 	2.25
+kerusuhan 	gambar 	0.08
+pakaian dalam 	tubuh 	1.25
+Boeing 	pesawat 	2.83
+cameo 	kinerja 	2.42
+semester 	istilah 	3.83
+jeruk 	jeruk 	3.0
+gletser 	pemanasan global 	1.58
+terowongan 	jalan 	2.0

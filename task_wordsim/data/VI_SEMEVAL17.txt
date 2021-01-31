@@ -1,0 +1,500 @@
+Joule 	phi thuyền 	0.58
+Miền đất hứa 	Baku 	0.42
+xe hơi 	Xe đạp 	2.83
+khối đa diện 	diễn viên 	0.0
+bệnh đa xơ cứng 	bệnh đa xơ cứng 	3.92
+lỗi 	hệ thống 	0.58
+vũ khí 	mũ sắt của lính 	1.83
+biên kịch 	Tivi 	1.67
+liên Hiệp Quốc 	Ban Ki-moon 	2.5
+Si-o-seh pol 	Cầu toán học 	3.0
+vương cung thánh đường 	khảm 	1.5
+Sơn nước 	chải 	2.0
+dân chủ 	chế độ quân chủ 	2.67
+Gauss 	nhà khoa học 	3.0
+bệnh lao 	Đèn LED 	0.0
+xe tự lái 	ô tô tự lái 	4.0
+tận thế 	ngọn lửa 	1.25
+tốc độ 	bài đăng 	0.25
+PlayStation 	Wii 	3.25
+máy tính xách tay 	sổ tay 	4.0
+Harry Potter 	Thuật sĩ 	3.0
+ván trượt tuyết 	trượt tuyết 	3.17
+con trỏ 	cầu trượt 	1.33
+cảm biến 	bộ tản nhiệt 	1.25
+đánh 	khung 	0.42
+học thuyết 	giả thuyết 	3.83
+Phố Wall 	thị trường tài chính 	2.92
+Darwin 	sự phát triển 	2.58
+diễn viên 	nữ diễn viên 	3.42
+phim ảnh 	rạp hát 	2.25
+Quốc ca 	lòng yêu nước 	2.42
+màn 	giám sát 	3.92
+sản phẩm bơ sữa 	mật ong 	0.83
+đỉnh Everest 	Chomolungma 	3.92
+kéo co 	Những con rắn và những cái thang 	2.33
+thuốc trừ sâu 	côn trùng 	1.83
+cảnh sát 	chính khách 	2.17
+tâm lý học thần kinh 	tâm lý học 	3.17
+ắc quy 	năng lượng 	2.83
+Legion of Honor 	văn phòng phẩm 	0.0
+Người nhện 	đường phố 	0.5
+bán đảo 	Đảo 	3.0
+Đường xích đạo 	Ecuador 	1.17
+đồ thị 	đồ thị 	3.83
+mô phỏng 	người máy 	1.42
+Nike 	Adidas 	3.17
+xã hội 	văn hóa 	2.67
+trò chơi chiến lược 	chiến lược 	2.0
+nhà thờ 	thánh đường 	3.58
+người phiên dịch 	người nước ngoài 	1.42
+biotope 	sinh học 	1.92
+dung nham 	núi lửa 	2.25
+động não 	kính viễn vọng 	0.0
+cấp độ 	ghi bàn 	2.67
+đồng xu 	trả giá 	1.42
+Đảng chính trị 	sự liên kết 	2.08
+sóng thần 	biển 	2.0
+đà điểu 	vườn cây ăn quả 	0.42
+Quế 	kẹo 	1.75
+chổi 	bụi bặm 	1.83
+ngân hà 	nhà thiên văn học 	1.42
+Nước ép 	sữa lắc 	3.17
+rèm cửa sổ 	tấm màn 	3.25
+tội phạm 	người phạm tội 	3.5
+ung thư tuyến tụy 	hóa trị liệu 	1.83
+quá khứ 	tiền thân 	2.75
+liên Hiệp Quốc 	Nghị viện châu Âu 	2.75
+bài hát 	người biểu diễn 	1.83
+súng 	sổ tay 	0.0
+acetylcholine 	mống mắt 	0.58
+bảng chữ cái 	cây bút 	0.58
+Điệp khúc 	ca sĩ 	2.67
+gỗ 	cái mền 	0.5
+lính 	Sự thanh bình 	1.25
+Tiếng Anh 	Người Mỹ 	3.33
+con thằn lằn 	Cá sấu 	3.25
+tiền bạc 	tiền mặt 	3.42
+Paul the Octopus 	bạch tuộc 	3.5
+lịch 	ngày lễ 	2.08
+căn cứ 	chất hóa học 	3.0
+chính quyền 	con thằn lằn 	0.0
+JPY 	rửa tiền 	1.58
+DeepMind 	Google DeepMind 	3.92
+cờ vua 	kiểm tra 	1.67
+sonnet 	sắc đẹp, vẻ đẹp 	1.33
+công nhân 	văn phòng 	1.75
+tiền tệ 	đổi 	1.67
+polyester 	bông 	3.08
+tòa án 	Sự công bằng 	2.5
+đuôi 	phần phía sau 	3.25
+Tai nạn 	sách 	0.0
+kêu nhỏ 	gió 	2.75
+đàn piano 	hòa hợp 	1.58
+sultan 	Bộ 	1.5
+Sa mạc 	cồn cát 	2.42
+phép nhân 	sự phân chia 	2.67
+vi-rút 	máu 	1.58
+kỷ băng hà 	quy chế 	0.0
+thanh kiếm 	Môi trường 	0.0
+trường tiểu học 	cây bút 	1.5
+bóng chày 	người ủng hộ 	1.67
+điêu khắc 	bức tượng 	3.83
+trình duyệt web 	Mozilla Firefox 	3.58
+Fox Terrier 	Canon 	0.0
+Ngân hàng HSBC 	Nước Anh 	1.67
+Kinh thánh 	Sách Phúc Âm 	3.08
+trang phục 	nhảy 	1.0
+mảng 	danh sách 	3.92
+ô 	Khóa 	3.5
+tiểu luận 	bài tập về nhà 	2.5
+máy vi tính 	máy móc 	3.33
+gấu trúc 	gấu Bắc cực 	3.25
+loạn thần kinh 	lí trí 	1.75
+vận động 	con khỉ 	0.0
+Hằng số Faraday 	cái ba lô 	0.0
+cung điện 	tòa nhà chọc trời 	2.33
+máy bay trực thăng 	máy bay 	3.0
+đại học Cambridge 	đại học Oxford 	3.25
+cờ 	cây sào 	1.42
+cửa sổ 	mái nhà 	2.33
+chơi bài 	chiếc dĩa nhựa ném 	2.5
+phần mềm độc hại 	sâu 	3.42
+hành tinh 	ngôi sao 	2.58
+người chạy 	lực sĩ 	3.42
+tầm cỡ 	ô 	0.0
+Wifi 	Rò rỉ thông tin 	0.5
+hạn hán 	Nước 	2.0
+sân bay 	cái 	0.08
+dàn nhạc 	ban nhạc 	3.42
+Mojito 	mohito 	4.0
+giáo trình 	thi 	2.42
+định lý 	học thuyết 	2.42
+yo-yo 	đồ chơi 	3.0
+bão tuyết 	mưa 	2.58
+sử gia 	nhà sử học 	3.58
+Siemens 	tàu điện 	1.75
+kỷ 	năm 	2.83
+hợp kim 	Thép 	3.5
+thẩm phán 	thẩm phán 	3.58
+sự hỗn loạn 	lớp học 	0.17
+giáo dục từ xa 	Internet 	1.75
+cát 	chân 	0.42
+IMF 	ngân hàng Deutsche 	2.83
+Người giám hộ 	Times 	3.17
+con tằm 	Con đường Tơ Lụa 	0.58
+sự tự do 	ốc đảo 	0.58
+tế bào chất 	chữ số 	0.67
+người phản đối 	christian 	3.5
+Leonardo da Vinci 	Bữa tối cuối cùng 	2.33
+bản đồ 	Quảng trường 	1.0
+nghị viện 	Hội nghị 	3.5
+gây quỹ 	phát triển 	1.17
+bệnh lý 	huyết học 	3.08
+thung lũng 	Phiền muộn 	2.0
+kính viễn vọng 	cái ghế 	0.25
+kim loại nặng 	sân khấu 	1.42
+chủ nghĩa toàn cầu 	hộ chiếu 	1.5
+con dơi 	ma cà rồng 	2.33
+phó 	nhân viên văn phòng 	2.83
+điện lực 	trường hợp 	0.42
+người ngoài hành tinh 	người ngoại đạo 	3.67
+cái nút 	máy may 	1.42
+Thuật sĩ 	cáp 	0.0
+triết gia 	cuộc đua 	0.0
+bắp rang bơ 	Rạp chiếu phim 	1.5
+nông nghiệp 	cây 	2.25
+bài thơ 	nhà báo 	2.33
+thời tiết 	làn sóng 	0.83
+nền văn minh 	cách sống 	1.5
+tuyết 	Nước đá 	2.75
+Chiến tranh Thế giới II 	Beethoven 	0.08
+bo mạch chủ 	bo mạch chủ 	4.0
+câu lạc bộ 	dấu 	0.33
+Alexander vĩ đại 	người chinh phục 	2.92
+ứng dụng 	ngân hà 	0.42
+điện toán đám mây 	mưa 	0.0
+Tivi 	diễn viên 	1.58
+đồng bằng 	biển 	2.42
+sợi 	sợi chỉ 	3.92
+vạch qua đường 	người 	1.42
+chất đạm 	xử lý 	0.0
+U2 	Ronaldo 	0.42
+táo 	điện thoại Iphone 	2.58
+bạc hà 	kẹo cao su 	1.83
+áp phích 	giấy 	2.83
+UNICEF 	nguồn gốc 	0.0
+bài ngoại 	phân biệt chủng tộc 	3.42
+Woody Allen 	ống kính 	0.33
+đèn 	thần đèn 	2.08
+Hải quân 	Đảo 	0.92
+Tường 	Lâu đài 	2.0
+khủng long 	con voi 	2.33
+tháp đồng hồ 	sỏi 	0.67
+Trung đông 	Euphrates 	1.5
+đồng cỏ 	đồng cỏ 	3.58
+đàn ghi ta 	đàn vi ô lông 	3.17
+ngoại giao 	thương lượng 	2.67
+Trọng lực 	sao băng 	0.75
+CHỈ SỐ THÔNG MINH 	Mensa 	1.83
+Union Jack 	cờ 	3.17
+động đất 	rung chuyen 	3.92
+tài sản 	cổ phần 	2.75
+Tiếng Do Thái 	Jerusalem 	1.75
+u ám 	dự báo 	1.92
+từ điển 	bách khoa toàn thư 	2.83
+cây bạc hà 	viện bảo tàng 	1.0
+cái ghế 	ghế đẩu 	3.08
+người Tây Ban Nha 	độ ẩm 	0.0
+có thể 	chai 	3.5
+bay 	con kiến 	2.92
+huyền thoại 	châm biếm 	1.92
+Trung tâm thành phố 	xe buýt 	0.75
+đuôi 	Boeing 747-200 	1.92
+tác phẩm nghệ thuật 	họa sĩ 	2.33
+NATO 	liên minh 	3.0
+nhà vua 	cái thước 	3.67
+nhịp 	nhịp 	3.58
+Alexander Fleming 	Penicillin 	2.5
+ống sáo 	Âm nhạc 	2.08
+diệc xám 	hồ nước 	1.33
+độ nhớt 	giật gân 	1.92
+phần cứng 	trường hợp 	1.67
+nhẫn 	hôn ước 	1.25
+Latin 	tiếng Đức 	2.92
+giai cấp công nhân 	cây 	1.75
+Shakespeare 	Dickens 	3.0
+tiền giấy 	thầy tu 	0.0
+dụng cụ 	việc làm 	1.08
+heo lùn 	suidae 	3.42
+quyền bầu cử 	lối ra 	0.08
+ngôi sao 	độ sáng 	1.58
+cá hồi 	đàn ghi ta 	0.0
+đô la 	nhà triệu phú 	1.75
+chữ số 	con số 	3.92
+cơn lốc 	cái mền 	0.42
+Obama 	Clinton 	3.08
+nhân vật phụ 	bộ phim 	1.67
+Juventus 	Bayern Munich 	3.0
+khí hậu thay đổi 	lượng mưa 	1.58
+AI 	ắc quy 	0.42
+kiệt tác 	nàng mô na Li Sa 	2.67
+tội ác 	tấn công 	2.75
+đăng quang 	Nước 	0.0
+giọng ca 	Nhân Viên 	1.75
+playoff 	bóng rổ 	1.67
+lực lượng vũ trang 	phòng thủ 	2.33
+hồ nước 	đám mây 	0.83
+tu viện 	vòi sen 	0.08
+bằng tiếng mẹ đẻ 	ngôn ngữ 	3.17
+Hải cảng 	vỏ bánh 	0.08
+con quỷ 	Thiên thần 	2.67
+mật mã 	Biểu tượng 	2.33
+khuôn viên 	trường đại học 	2.92
+sự tự do 	sự tự do 	4.0
+bão nhiệt đới 	lốc xoáy 	3.83
+sổ tay 	sách hướng dẫn 	3.92
+Ebola 	vi rút Ebola 	4.0
+công chúa 	bánh quy 	0.08
+xe lửa 	Xe điện 	3.5
+hệ sinh thái 	nên kinh tê 	0.92
+hoàng hậu 	nữ hoàng cờ vua 	0.92
+vàng 	kẽm 	3.0
+con trỏ 	khoai tây chiên 	0.25
+Amazon 	rừng 	3.08
+quần vợt 	số liệu thống kê 	0.58
+Bolzano 	định lý 	2.25
+độ cao 	chuyển đổi 	0.08
+thuyền 	cây 	0.25
+ngai vàng 	thanh kiếm 	1.0
+bông 	áo len 	1.83
+quả anh đào 	dâu 	3.0
+đạo Hồi 	Kinh Qur'an 	2.5
+Neanderthal 	thể thao 	0.0
+chế độ tân gia 	nhà vua 	1.42
+tính cách 	người 	2.67
+xe tăng 	xe hơi 	2.33
+thủy ngân 	sao Mộc 	3.17
+viêm phế quản 	acetaminophen 	1.67
+máu 	thân hình 	2.0
+islamophobia 	ISIS 	1.92
+sự thêu 	đồng phục 	1.17
+Hadoop 	màn hình cảm ứng 	0.67
+nhiên liệu hoá thạch 	hóa thạch 	2.08
+dị nhân 	sinh học xã hội 	0.75
+em gái 	Anh trai 	2.67
+bút chì 	câu chuyện 	1.08
+bệnh chàm 	viêm da 	4.0
+Hoàng đế 	thống đốc 	3.67
+Vương miện 	Chìa khóa 	0.25
+đại số học 	hoạt động 	1.67
+pít tông 	động cơ 	2.33
+học bổng 	học phí 	2.42
+sách 	bản thảo 	3.17
+lantana 	snapdragon 	3.0
+hố đen 	máy hút bụi 	2.33
+đế chế Ba Tư 	Cyrus 	1.83
+biên tập 	Tin tức 	2.42
+trang trí 	phong bì 	0.08
+cá mập voi 	tôm 	2.25
+Ngô 	bắp 	4.0
+rối loạn lưỡng cực 	vấn đề 	2.25
+axit 	căn cứ 	2.67
+không tuyệt đối 	hơi nước 	1.42
+Cuộc cách mạng xanh 	Sơn 	0.0
+hệ điều hành 	học kĩ càng 	1.5
+Olympic Toán học Quốc tế 	học thuyết 	1.0
+El Niño 	Đường xích đạo 	0.83
+huy hiệu 	cốc thủy tinh 	0.0
+dinh thự 	nhà điêu khắc 	1.0
+không khí 	khí quyển 	2.58
+cái khiên 	khăn xô 	3.67
+đồng tiền 	thanh toán 	1.75
+yến mạch 	cánh đồng 	1.17
+tu sĩ 	vượt qua 	0.33
+pháo hạm 	bờ biển 	1.42
+đá 	của tôi 	1.75
+huyền thoại 	luân lý 	1.0
+quán quân 	người chiến thắng 	3.75
+xúc xắc 	khối lập phương 	3.0
+cấu trúc liên kết 	kết cấu 	1.83
+nhà nguyện 	cáp 	0.25
+dòng tiền 	con sông 	0.0
+giết người hàng loạt 	kẻ giết người 	3.5
+ma trận 	phân tử 	0.0
+thời trang 	Phong cách 	3.17
+vexillology 	cờ 	2.33
+Hiệp ước Maastricht 	Châu Âu 	2.17
+mạch nước phun 	mùa xuân 	3.25
+sacaroza 	carbohydrate 	3.58
+bờ biển 	bờ biển 	3.83
+thị trường chứng khoán 	sàn giao dịch chứng khoán 	3.25
+truyền thống 	thủ công 	1.58
+cuốn tiểu thuyết 	nhà văn 	1.92
+bánh mì sandwich 	Xe điện ngầm 	1.75
+âm học 	âm thanh 	2.67
+đấu kiếm 	thể dục 	2.33
+nhà văn 	quà tặng 	0.0
+rừng cây 	Tiger Woods 	0.08
+đám mây 	cửa sổ 	0.67
+JPEG 	PDF 	3.08
+giám đốc 	Ông chủ 	3.33
+Thuế 	Brexit 	1.17
+thụ phấn 	nhị hoa 	2.42
+tro chơi điện tử 	trò chơi PC 	3.33
+sự đối xử 	phẫu thuật 	2.33
+thóc 	khoai tây 	2.67
+ghi chép 	sự phân công 	1.83
+cáo 	tế bào máu 	0.33
+natri clorua 	Muối 	3.92
+thu nhập = earnings 	chất lượng cuộc sống 	2.17
+sẽ 	ý định 	3.5
+la bàn 	con voi 	0.17
+phần tiếp theo 	Máy ảnh 	1.0
+bộ phim 	phim ảnh 	3.92
+trung sĩ 	súng 	1.75
+cối xay 	hạt giống 	0.75
+kem 	bữa ăn sáng 	1.17
+Chìa khóa 	Khóa 	2.33
+điện thoại di động 	Điện thoại 	3.92
+Mẫu giáo 	Trường mầm non 	3.75
+Thế giới phương tây 	Western Union 	0.42
+cây con 	Lá cây 	2.25
+mưa 	kêu 	3.08
+hạnh phúc 	sự sầu nảo 	2.33
+con tằm 	sâu bướm 	3.33
+lướt ván 	thể thao dưới nước 	3.0
+xe hơi 	xe tải 	3.17
+món ăn 	chương trình 	0.25
+cuốn tiểu thuyết đồ họa 	truyện tranh 	3.42
+con rắn 	con thằn lằn 	3.08
+Trái dứa 	điện thoại thông minh 	0.0
+hình nền 	lý lịch 	3.42
+Độ C 	Microsoft 	0.08
+phối hợp 	đường mía 	0.75
+Quần jean 	đàn bà 	0.75
+ma trận 	vector 	2.83
+cạc-bon đi-ô-xít 	CO2 	4.0
+huấn luyện viên 	người chơi 	2.5
+sỏi 	gỗ 	2.33
+bộ sạc 	đĩa 	1.08
+bản thảo 	bài báo 	3.5
+Gmail 	Yahoo 	2.42
+tụ điện 	diode 	3.17
+tham nhũng 	gian lận 	3.17
+Cô-ca Cô-la 	than cốc 	3.92
+Plato 	Aristotle 	3.17
+Chiến tranh lạnh 	Liên Xô 	2.58
+vòi phun 	dịch 	2.0
+âm vị học 	màn 	0.0
+Zara 	quần ôm sát chân 	1.67
+bóng đá 	bóng đá 	4.0
+mầm 	mầm bệnh 	3.92
+cộng hòa 	công tước 	1.17
+trái bóng 	quả cầu 	3.0
+Mozart 	Chiến tranh giữa các vì sao 	0.0
+mặt nạ 	buổi tiệc 	1.33
+Grand Theft Auto 	GTA 	4.0
+Xa lộ 	đường 	3.42
+Phản ứng dây chuyền 	nhiệt động lực học 	2.0
+hình minh họa 	mụn rộp 	0.0
+nhân học 	khảo cổ học 	2.92
+Dell 	Dingle 	0.0
+Nước ép 	cái thìa 	0.25
+Pfizer 	thuốc 	2.5
+xe tải 	Bưu kiện 	0.67
+thụ thể 	phân tử protein 	2.75
+Google Drive 	người lái xe 	0.0
+tỷ phú 	Vô gia cư 	1.67
+tập phim 	chương 	2.83
+vô cực 	số không 	2.33
+người hầu 	nô lệ 	3.42
+hậu tố 	đóng dấu 	3.33
+sự nóng lên toàn cầu 	nhiệt 	2.42
+hocmon tăng trưởng 	somatotropin 	3.92
+bầu trời 	mơ 	0.83
+giá dự thầu 	London 	0.42
+phân bón 	sự phát triển 	1.67
+dấu thăng 	đề tài 	2.5
+hành 	chòm sao 	3.17
+Nietzsche 	Chelsea 	0.17
+sự tôn trọng lẫn nhau 	cuộc thi 	1.5
+chi nhánh 	cánh tay 	3.0
+nạn nhân 	điện thoại 	0.08
+độ lệch chuẩn 	tích lũy 	0.5
+tuyết lở 	tuyết 	2.08
+giáo viên 	sinh viên 	2.0
+gia súc 	Sữa chua 	1.5
+phân biệt giới tính 	phân biệt đối xử giới tính 	3.92
+cực Nam 	nhảy 	0.0
+công tố viên 	luật sư 	3.33
+vợt 	trái bóng 	2.5
+vay ngân hàng 	món nợ 	3.25
+Góc nhìn cá nhân 	khoảng cách 	1.58
+Federer 	Dylan 	0.5
+luật sư 	bộ sưu tập 	0.33
+tuổi thọ 	thước đo thống kê 	2.67
+màng tế bào 	provirus 	1.83
+Liên minh Châu Âu 	Matxcova 	2.0
+thế giới 	Châu Á 	2.17
+Sơn 	Photoshop 	3.17
+Thượng nghị viện 	Tổ chức 	1.83
+mùi tây 	bánh nướng xốp 	1.0
+lí trí 	óc 	3.83
+Mercedes 	Opel 	3.17
+cây búa 	hàm răng 	0.0
+Thời phục hưng 	Sự tái sinh 	4.0
+váy 	đồng hồ đeo tay 	1.0
+opera 	Rạp chiếu phim 	2.75
+giáo viên 	người hướng dẫn 	3.83
+mặt trời 	cáp 	0.08
+suy thoái 	GDP 	2.0
+Caesar 	Julius Caesar 	3.92
+kiên nhẫn 	phiên họp 	0.67
+chủ nghĩa hành vi 	trị liệu 	2.17
+Hoàng đế 	Tổ chức 	1.25
+nhà toán học 	chỉ 	0.08
+Sự hỗn loạn 	thông tin 	1.75
+nước hoa hồng 	dầu hoa hồng 	3.17
+trái cây họ cam quýt 	bưởi 	3.5
+Nữ hoàng Victoria 	nước Anh 	1.75
+trò chơi Olympic 	tinh thần 	0.83
+giám mục 	Hồi 	1.67
+Đàn ông 	nghi ngờ 	1.0
+mảnh thiên thạch 	Trái đất 	1.83
+Biểu tượng 	ký tên 	3.42
+nhân học 	Newyork 	0.08
+Hoàng hôn 	bàn 	0.0
+thị trấn 	thành phố 	3.75
+Áo khoác 	nước khoáng 	0.0
+Thiên nhiên 	hệ thực vật 	3.0
+chương trình con 	trình biên dịch 	2.67
+Hamadan 	la Mã 	2.58
+ô 	lò sưởi 	0.17
+tôn kính 	kính trọng 	3.25
+phù hiệu 	phẩm giá 	0.58
+KFC 	McDonald's 	3.17
+cần điều khiển 	ra đa 	0.67
+basmati 	gạo jasmine 	3.58
+huy chương 	huấn luyện viên 	0.42
+pháp luật 	Hồ bơi 	0.08
+nguồn 	cái hộp 	0.0
+rạp hát 	ắc quy 	0.0
+hệ thực vật 	trình duyệt web 	0.0
+áo sơ mi 	áo nịt 	3.25
+bài thơ 	nhịp 	1.42
+tiên tri 	thầy tu 	2.58
+Giải Oscar 	sân vận động 	0.08
+cờ thỏ cáo 	Đi 	3.25
+bươm bướm 	Hoa hồng 	1.25
+hàng rào 	nhảy 	1.58
+chủ nghĩa hư vô 	phim ảnh 	0.17
+tiểu hành tinh 	ngôi sao 	2.25
+bạo loạn 	đang vẽ 	0.08
+đồ lót 	thân hình 	1.25
+Boeing 	máy bay 	2.83
+khách mời 	hiệu suất 	2.42
+học kỳ 	kỳ hạn 	3.83
+trái cam 	cam quýt 	3.0
+sông băng 	sự nóng lên toàn cầu 	1.58
+đường hầm 	con đường 	2.0

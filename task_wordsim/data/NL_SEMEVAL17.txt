@@ -1,0 +1,500 @@
+Joule 	ruimtevaartuig 	0.58
+Beloofde land 	Baku 	0.42
+auto 	fiets 	2.83
+veelvlak 	acteur 	0.0
+multiple sclerose 	MEVROUW 	3.92
+fout 	systeem 	0.58
+wapen 	helm 	1.83
+scenarioschrijver 	televisie 	1.67
+Verenigde Naties 	Ban Ki-moon 	2.5
+Si-o-seh pol 	Wiskundige brug 	3.0
+basiliek 	mozaïek- 	1.5
+aquarel schilderij 	borstel 	2.0
+democratie 	monarchie 	2.67
+Gauss 	wetenschapper 	3.0
+tuberculose 	LED 	0.0
+zelfrijdende auto 	autonome auto 	4.0
+Apocalypse 	brand 	1.25
+snelheid 	post 	0.25
+Speel station 	Wii 	3.25
+laptop 	notitieboekje 	4.0
+Harry Potter 	tovenaar 	3.0
+snowboard 	skiën 	3.17
+wijzer 	glijbaan 	1.33
+sensor 	radiator 	1.25
+raken 	kader 	0.42
+theorie 	hypothese 	3.83
+Wall Street 	financiële markt 	2.92
+Darwin 	evolutie 	2.58
+acteur 	actrice 	3.42
+film 	theater 	2.25
+Nationaal volkslied 	patriottisme 	2.42
+scherm 	toezicht houden op 	3.92
+zuivel 	honing 	0.83
+Mount Everest 	Chomolungma 	3.92
+touwtrekken 	Slangen en ladders 	2.33
+pesticide 	plaag 	1.83
+politieagent 	politicus 	2.17
+neuropsychologie 	parapsychologie 	3.17
+batterij 	energie 	2.83
+Legioen van Eer 	briefpapier 	0.0
+Spider Man 	straat 	0.5
+schiereiland 	eiland 	3.0
+evenaar 	Ecuador 	1.17
+grafiek 	grafiek 	3.83
+simulatie 	robotica 	1.42
+Nike 	Adidas 	3.17
+maatschappij 	cultuur 	2.67
+strategiespel 	strategie 	2.0
+kerk 	kathedraal 	3.58
+vertaler 	buitenlander 	1.42
+biotoop 	biologie 	1.92
+magma 	vulkaan 	2.25
+brainstormen 	telescoop 	0.0
+niveau 	score 	2.67
+cent 	koopje 	1.42
+politieke partij 	vereniging 	2.08
+tsunami 	zee 	2.0
+struisvogel 	boomgaard 	0.42
+kaneel 	snoep 	1.75
+bezem 	stof 	1.83
+heelal 	astronoom 	1.42
+sap 	milkshake 	3.17
+raam blind 	gordijn 	3.25
+crimineel 	overtreder 	3.5
+alvleesklierkanker 	chemotherapie 	1.83
+Verleden 	antecedent 	2.75
+Verenigde Naties 	Europees parlement 	2.75
+lied 	artiest 	1.83
+pistool 	notitieboekje 	0.0
+acetylcholine 	iris 	0.58
+alfabet 	pen 	0.58
+Refrein 	zanger 	2.67
+hout 	deken 	0.5
+soldaat 	vrede 	1.25
+Engels 	Amerikaans 	3.33
+hagedis 	krokodil 	3.25
+geld 	contant geld 	3.42
+Paul de Octopus 	Octopus 	3.5
+kalender 	vakantie 	2.08
+baseren 	chemische substantie 	3.0
+regering 	hagedis 	0.0
+Japanse Yen 	geld witwassen 	1.58
+DeepMind 	Google DeepMind 	3.92
+schaak 	controleren 	1.67
+sonnet 	schoonheid 	1.33
+werknemer 	kantoor 	1.75
+valuta 	uitwisseling 	1.67
+polyester 	katoen 	3.08
+tribunaal 	gerechtigheid 	2.5
+staart 	achter 	3.25
+ongeluk 	boek 	0.0
+bui 	wind 	2.75
+piano 	harmonie 	1.58
+sultan 	ministerie 	1.5
+woestijn 	duin 	2.42
+vermenigvuldiging 	divisie 	2.67
+virus 	bloed 	1.58
+ijstijd 	statuut 	0.0
+zwaard 	milieu 	0.0
+lagere school 	pen 	1.5
+krekel 	supporter 	1.67
+beeldhouwwerk 	standbeeld 	3.83
+webbrowser 	Mozilla Firefox 	3.58
+Fox Terrier 	Canon 	0.0
+HSBC 	Brittannië 	1.67
+Bijbel 	Evangelie 	3.08
+jurk 	dans 	1.0
+array 	lijst 	3.92
+cel 	opsluiten 	3.5
+essay 	huiswerk 	2.5
+computer 	machine 	3.33
+panda 	ijsbeer 	3.25
+neurose 	geest 	1.75
+campagne 	aap 	0.0
+Faraday constant 	rugzak 	0.0
+paleis 	wolkenkrabber 	2.33
+helikopter 	vliegtuig 	3.0
+Universiteit van Cambridge 	Oxford universiteit 	3.25
+vlag 	pool 	1.42
+venster 	dak 	2.33
+kaartspel 	frisbee 	2.5
+malware 	worm 	3.42
+planeet 	ster 	2.58
+loper 	atleet 	3.42
+kaliber 	paraplu 	0.0
+Wifi 	WikiLeaks 	0.5
+droogte 	water 	2.0
+luchthaven 	stuk 	0.08
+orkest 	band 	3.42
+mojito 	mohito 	4.0
+syllabus 	examen 	2.42
+stelling 	theorie 	2.42
+jojo 	speelgoed- 	3.0
+sneeuwstorm 	regen 	2.58
+historicus 	geschiedschrijver 	3.58
+Siemens 	elektrische trein 	1.75
+eeuw 	jaar 	2.83
+legering 	staal 	3.5
+magistraat 	rechter 	3.58
+chaos 	klasse 	0.17
+afstandsonderwijs 	internet 	1.75
+zand 	voet 	0.42
+IMF 	Duitse Bank 	2.83
+Voogd 	Keer 	3.17
+zijderups 	Zijderoute 	0.58
+vrijheid 	oase 	0.58
+cytoplasma 	cijfer 	0.67
+Protestant 	christen 	3.5
+Leonardo da Vinci 	Het laatste Avondmaal 	2.33
+kaart 	vierkant 	1.0
+parlement 	congres 	3.5
+fondsenwerving 	ontwikkeling 	1.17
+pathologie 	hematologie 	3.08
+vallei 	depressie 	2.0
+telescoop 	stoel 	0.25
+zwaar metaal 	stadium 	1.42
+globalisme 	Visa 	1.5
+knuppel 	vampier 	2.33
+plaatsvervanger 	officier 	2.83
+elektriciteit 	geval 	0.42
+buitenaards wezen 	outlander 	3.67
+knop 	naaimachine 	1.42
+tovenaar 	kabel 	0.0
+filosoof 	racen 	0.0
+popcorn 	bioscoop 	1.5
+landbouw 	fabriek 	2.25
+dichter 	journalist 	2.33
+weer 	Golf 	0.83
+beschaving 	levensstijl 	1.5
+sneeuw 	ijs- 	2.75
+Tweede Wereldoorlog 	Beethoven 	0.08
+moederbord 	moederbord 	4.0
+club 	Mark 	0.33
+Alexander de Grote 	veroveraar 	2.92
+app 	heelal 	0.42
+cloud computing 	regen 	0.0
+televisie 	acteur 	1.58
+delta 	zee 	2.42
+garen 	draad 	3.92
+zebrapad 	persoon 	1.42
+eiwit 	omgaan met 	0.0
+U2 	Ronaldo 	0.42
+appel 	iPhone 	2.58
+pepermunt 	gom 	1.83
+poster 	papier 	2.83
+UNICEF 	wortel 	0.0
+xenofobie 	racisme 	3.42
+Woody Allen 	lens 	0.33
+lamp 	geest 	2.08
+marine 	eiland 	0.92
+muur 	kasteel 	2.0
+dinosaurus 	olifant 	2.33
+klokkentoren 	steen 	0.67
+Midden-Oosten 	Eufraat 	1.5
+weide 	grasland 	3.58
+gitaar 	viool 	3.17
+diplomatie 	onderhandeling 	2.67
+zwaartekracht 	meteoor 	0.75
+IQ 	Mensa 	1.83
+Union Jack 	vlag 	3.17
+aardbeving 	tremor 	3.92
+Bedrijfsmiddel 	voorraad 	2.75
+Hebreeuws 	Jeruzalem 	1.75
+bewolkt 	voorspelling 	1.92
+woordenboek 	encyclopedie 	2.83
+munt 	museum 	1.0
+stoel 	stoel 	3.08
+Spaans 	vochtigheid 	0.0
+kan 	fles 	3.5
+vlieg 	mier 	2.92
+mythe 	satire 	1.92
+stadscentrum 	bus 	0.75
+staart 	Boeing 747-200 	1.92
+kunstwerk 	artiest 	2.33
+NAVO 	alliantie 	3.0
+koning 	heerser 	3.67
+ritme 	cadans 	3.58
+Alexander Fleming 	Penicilline 	2.5
+fluit 	muziek- 	2.08
+grijze reiger 	meer 	1.33
+viscositeit 	plons 	1.92
+hardware 	geval 	1.67
+ring 	verloving 	1.25
+Latijns 	Duitse 	2.92
+arbeidersklasse 	fabriek 	1.75
+Shakespeare 	Dickens 	3.0
+papiergeld 	priester 	0.0
+gereedschap 	baan 	1.08
+pygmee zwijn 	suidae 	3.42
+kiesrecht 	Uitgang 	0.08
+ster 	helderheid 	1.58
+forel 	gitaar 	0.0
+dollar 	miljonair 	1.75
+cijfer 	aantal 	3.92
+storm 	deken 	0.42
+Obama 	Clinton 	3.08
+ondersteunend karakter 	film 	1.67
+Juventus 	Bayern München 	3.0
+klimaatverandering 	neerslag 	1.58
+AI 	batterij 	0.42
+meesterwerk 	Mona Lisa 	2.67
+misdrijf 	aanval 	2.75
+kroning 	water 	0.0
+zanger 	personeel 	1.75
+playoff 	basketbal 	1.67
+krijgsmacht 	verdediging 	2.33
+meer 	wolk 	0.83
+klooster 	douche 	0.08
+moedertaal 	taal 	3.17
+haven 	wikkel 	0.08
+demon 	engel 	2.67
+cryptogram 	symbool 	2.33
+campus 	Universiteit 	2.92
+vrijheid 	vrijheid 	4.0
+tyfoon 	cycloon 	3.83
+handboek 	gids 	3.92
+Ebola 	Ebola-virus 	4.0
+prinses 	biscuit 	0.08
+trein 	tram- 	3.5
+ecosysteem 	economie 	0.92
+koningin regnant 	schaken koningin 	0.92
+goud 	zink 	3.0
+cursor 	chips 	0.25
+Amazon 	Woud 	3.08
+tennis 	statistieken 	0.58
+Bolzano 	stelling 	2.25
+hoogte 	conversie 	0.08
+boot 	boom 	0.25
+troon 	zwaard 	1.0
+katoen 	trui 	1.83
+kers- 	aardbei 	3.0
+Islam 	Koran 	2.5
+Neanderthaler 	sport 	0.0
+nepotisme 	koning 	1.42
+karakter 	persoon 	2.67
+tank 	auto 	2.33
+Kwik 	Jupiter 	3.17
+bronchitis 	paracetamol 	1.67
+bloed 	lichaam 	2.0
+islamofobie 	ISIS 	1.92
+haken 	uniform 	1.17
+Hadoop 	touch screen 	0.67
+fossiele brandstof 	fossiel 	2.08
+mutant 	sociobiologie 	0.75
+zus 	broer 	2.67
+potlood 	verhaal 	1.08
+eczeem 	dermatitis 	4.0
+keizer 	gouverneur 	3.67
+kroon 	sleutel 	0.25
+algebra 	operatie 	1.67
+zuiger- 	motor 	2.33
+beurs 	schoolgeld 	2.42
+boek 	manuscript 	3.17
+lantana 	leeuwebek 	3.0
+zwart gat 	vacuüm 	2.33
+Perzische rijk 	Cyrus 	1.83
+redactioneel 	nieuws 	2.42
+decoratie 	envelop 	0.08
+walvis haai 	kreeft 	2.25
+maïs 	maïs 	4.0
+bipolaire stoornis 	probleem 	2.25
+zuur 	baseren 	2.67
+absolute nulpunt 	damp 	1.42
+Groene revolutie 	verf 	0.0
+besturingssysteem 	diep leren 	1.5
+Internationale Wiskunde Olympiade 	theorie 	1.0
+El Niño 	evenaar 	0.83
+kenteken 	glas 	0.0
+herenhuis 	beeldhouwer 	1.0
+atmosfeer 	ozon 	2.58
+schild 	beukelaar 	3.67
+munt 	betaling 	1.75
+haver- 	veld- 	1.17
+monnik 	kruis 	0.33
+kanonneerboot 	kust 	1.42
+rots 	de mijne 	1.75
+legende 	Moreel 	1.0
+kampioen 	winnaar 	3.75
+Dobbelsteen 	kubus 	3.0
+topologie 	structuur 	1.83
+kapel 	kabel 	0.25
+geldstroom 	rivier- 	0.0
+seriemoordenaar 	moordenaar 	3.5
+Matrix 	molecuul 	0.0
+mode 	stijl 	3.17
+vexillology 	vlag 	2.33
+Verdrag van Maastricht 	Europa 	2.17
+geiser 	voorjaar 	3.25
+sucrose 	koolhydraat 	3.58
+strand 	kust 	3.83
+beurs 	beurs 	3.25
+traditie 	handwerk 	1.58
+roman 	auteur 	1.92
+belegd broodje 	Metro 	1.75
+akoestiek 	geluid 	2.67
+hekwerk 	gymnastiek 	2.33
+auteur 	geschenk 	0.0
+bos- 	Tiger Woods 	0.08
+wolk 	venster 	0.67
+Jpeg 	Pdf 	3.08
+regisseur 	baas 	3.33
+belasting 	Brexit 	1.17
+bestuiving 	meeldraad 	2.42
+videogame 	pc-spel 	3.33
+behandeling 	chirurgische operatie 	2.33
+padie 	aardappel 	2.67
+notities maken 	opdracht 	1.83
+vos 	bloedcel 	0.33
+natriumchloride 	zout 	3.92
+inkomen 	kwaliteit van het leven 	2.17
+zullen 	voornemen 	3.5
+kompas 	olifant 	0.17
+vervolg 	camera 	1.0
+film 	film 	3.92
+sergeant 	pistool 	1.75
+molen 	zaad 	0.75
+ijsje 	ontbijt 	1.17
+sleutel 	slot 	2.33
+mobiele telefoon 	telefoon 	3.92
+kleuterschool 	peuter- 	3.75
+westerse wereld 	Western Union 	0.42
+zaailing 	blad 	2.25
+regen 	wees gegroet 	3.08
+geluk 	droefheid 	2.33
+zijderups 	rups- 	3.33
+surfen 	watersport 	3.0
+auto 	vrachtwagen 	3.17
+voedsel 	programma 	0.25
+stripboek 	stripboek 	3.42
+slang 	hagedis 	3.08
+ananas 	smartphone 	0.0
+behang 	achtergrond 	3.42
+Celsius 	Microsoft 	0.08
+combineren 	suikerstok 	0.75
+jeans 	vrouw 	0.75
+Matrix 	vector 	2.83
+kooldioxide 	CO2 	4.0
+trainer 	speler 	2.5
+steen 	hout 	2.33
+oplader 	schijf 	1.08
+manuscript 	artikel 	3.5
+Gmail 	Yahoo 	2.42
+condensator 	diode 	3.17
+corruptie 	fraude 	3.17
+Coca Cola 	Cokes 	3.92
+Plato 	Aristoteles 	3.17
+Koude Oorlog 	Sovjet Unie 	2.58
+mondstuk 	vloeistof 	2.0
+fonologie 	scherm 	0.0
+Zara 	leggings 	1.67
+Amerikaans voetbal 	voetbal 	4.0
+kiem 	ziekteverwekker 	3.92
+republiek 	hertog 	1.17
+bal 	gebied 	3.0
+Mozart 	Star Wars 	0.0
+masker 	partij 	1.33
+Grand Theft Auto 	GTA 	4.0
+snelweg 	weg 	3.42
+kettingreactie 	thermodynamica 	2.0
+illustratie 	blaar 	0.0
+antropologie 	archeologie 	2.92
+Dell 	Dingle 	0.0
+sap 	lepel 	0.25
+Pfizer 	medicijn 	2.5
+vrachtwagen 	pakket 	0.67
+receptor 	eiwit molecuul 	2.75
+Google Drive 	bestuurder 	0.0
+miljardair 	dakloos 	1.67
+aflevering 	hoofdstuk 	2.83
+oneindigheid 	nul 	2.33
+knecht 	slaaf 	3.42
+achtervoegsel 	affix 	3.33
+opwarming van de aarde 	warmte 	2.42
+groeihormoon 	somatotropine 	3.92
+lucht 	droom 	0.83
+biedprijs 	Londen 	0.42
+kunstmest 	groei 	1.67
+hashtag 	onderwerp 	2.5
+Orion 	sterrenbeeld 	3.17
+Nietzsche 	Chelsea 	0.17
+wederzijds respect 	wedstrijd 	1.5
+Afdeling 	arm 	3.0
+slachtoffer 	telefoon 	0.08
+standaardafwijking 	accumulatie 	0.5
+lawine 	sneeuw 	2.08
+leraar 	leerling 	2.0
+vee 	yoghurt 	1.5
+seksisme 	geslachtsdiscriminatie 	3.92
+Zuidpool 	dans 	0.0
+aanklager 	advocaat 	3.33
+racket 	bal 	2.5
+banklening 	schuld 	3.25
+perspectief 	afstand 	1.58
+Federer 	Dylan 	0.5
+advocaat 	galerij 	0.33
+levensverwachting 	statistische maat 	2.67
+celmembraan 	provirus 	1.83
+Europeese Unie 	Moskou 	2.0
+wereld- 	Azië 	2.17
+Verf 	Photoshop 	3.17
+senaat 	grondwet 	1.83
+peterselie 	muffin 	1.0
+geest 	hersenen 	3.83
+Mercedes 	Opel 	3.17
+hamer 	tanden 	0.0
+Renaissance 	Renascence 	4.0
+rok 	kijk maar 	1.0
+opera 	bioscoop 	2.75
+leraar 	instructeur 	3.83
+Zon 	kabel 	0.08
+recessie 	BBP 	2.0
+Caesar 	Julius Caesar 	3.92
+geduldig 	sessie 	0.67
+behaviorisme 	therapie 	2.17
+keizer 	grondwet 	1.25
+wiskundige 	tonen 	0.08
+entropie 	informatie 	1.75
+rozenwater 	rozenolie 	3.17
+citrusvrucht 	grapefruit 	3.5
+koningin Victoria 	Engeland 	1.75
+Olympische Spelen 	geest 	0.83
+bisschop 	moslim 	1.67
+Mens 	verdachte 	1.0
+meteoriet 	Aarde 	1.83
+symbool 	teken 	3.42
+antropologie 	New York 	0.08
+zonsondergang 	tafel 	0.0
+stad- 	stad 	3.75
+jas 	mineraalwater 	0.0
+natuur 	flora 	3.0
+subroutine 	compiler 	2.67
+Hamadan 	Rome 	2.58
+paraplu 	kachel 	0.17
+eer 	achting 	3.25
+insigne 	waardigheid 	0.58
+KFC 	McDonald's 	3.17
+joystick 	radar 	0.67
+basmati 	Jasmijn rijst 	3.58
+medaille 	sneakers 	0.42
+wet 	zwembad 	0.08
+bron 	doos 	0.0
+theater 	batterij 	0.0
+flora 	webbrowser 	0.0
+overhemd 	Cardigan 	3.25
+gedicht 	ritme 	1.42
+profeet 	priester 	2.58
+Oscars 	stadion 	0.08
+backgammon 	Gaan 	3.25
+vlinder 	roos 	1.25
+hek 	springen 	1.58
+nihilisme 	film 	0.17
+asteroïde 	ster 	2.25
+herrie 	tekening 	0.08
+ondergoed 	lichaam 	1.25
+Boeing 	vliegtuig 	2.83
+cameo 	prestatie 	2.42
+semester 	termijn 	3.83
+oranje 	citrus- 	3.0
+gletsjer 	opwarming van de aarde 	1.58
+tunnel 	pad 	2.0

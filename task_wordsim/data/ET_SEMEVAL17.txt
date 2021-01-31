@@ -1,0 +1,500 @@
+Joule 	kosmoselaev 	0.58
+Tõotatud maa 	Bakuu 	0.42
+auto 	jalgratas 	2.83
+hulktahukas 	näitleja 	0.0
+sclerosis multiplex 	PRL 	3.92
+süü 	süsteemi 	0.58
+relv 	kiiver 	1.83
+stsenarist 	televiisor 	1.67
+Ühendrahvad 	Ban Ki-moon 	2.5
+Si-o-seh pol 	Matemaatiline sild 	3.0
+basiilika 	mosaiik 	1.5
+akvarellmaal 	harja 	2.0
+demokraatia 	monarhia 	2.67
+Gauss 	teadlane 	3.0
+tuberkuloos 	LED 	0.0
+isejuhtiv auto 	autonoomne auto 	4.0
+apokalüpsis 	tulekahju 	1.25
+kiirus 	postitus 	0.25
+Mängukeskus 	Wii 	3.25
+sülearvuti 	märkmik 	4.0
+Harry Potter 	viisard 	3.0
+lumelaud 	suusatamine 	3.17
+osuti 	libisema 	1.33
+andur 	radiaator 	1.25
+tabas 	raam 	0.42
+teooria 	hüpotees 	3.83
+Wall Street 	finantsturg 	2.92
+Darwin 	evolutsioon 	2.58
+näitleja 	näitlejanna 	3.42
+film 	teater 	2.25
+rahvushümn 	patriotism 	2.42
+ekraan 	monitor 	3.92
+meierei 	kallis 	0.83
+Everesti mägi 	Chomolungma 	3.92
+köievedu 	Maod ja redelid 	2.33
+pestitsiid 	kahjur 	1.83
+politseinik 	poliitik 	2.17
+neuropsühholoogia 	parapsühholoogia 	3.17
+aku 	energia 	2.83
+Auleegion 	kirjatarbed 	0.0
+Ämblikmees 	tänav 	0.5
+poolsaar 	saar 	3.0
+ekvaator 	Ecuador 	1.17
+diagramm 	graafik 	3.83
+simulatsioon 	robootika 	1.42
+Nike 	Adidas 	3.17
+ühiskonnas 	kultuur 	2.67
+strateegiamäng 	strateegia 	2.0
+kirik 	katedraal 	3.58
+tõlkija 	välismaalane 	1.42
+biotoop 	bioloogia 	1.92
+magma 	vulkaan 	2.25
+ajurünnak 	teleskoop 	0.0
+tasandil 	skoor 	2.67
+Penn 	allahindlus 	1.42
+Erakond 	ühing 	2.08
+tsunami 	meri 	2.0
+jaanalind 	viljapuuaed 	0.42
+kaneel 	kommid 	1.75
+luud 	tolm 	1.83
+galaktika 	astronoom 	1.42
+mahl 	piimakokteil 	3.17
+aknakate 	kardin 	3.25
+kurjategija 	õigusrikkuja 	3.5
+kõhunäärmevähk 	keemiaravi 	1.83
+minevik 	eelkäija 	2.75
+Ühendrahvad 	Euroopa Parlament 	2.75
+laul 	esineja 	1.83
+relv 	märkmik 	0.0
+atsetüülkoliin 	iiris 	0.58
+tähestik 	pliiats 	0.58
+refrään 	laulja 	2.67
+puit 	tekk 	0.5
+sõdur 	rahu 	1.25
+Inglise 	Ameeriklane 	3.33
+sisalik 	krokodill 	3.25
+raha 	sularaha 	3.42
+Kaheksajalg Paulus 	kaheksajalg 	3.5
+kalender 	puhkus 	2.08
+alus 	keemiline aine 	3.0
+valitsus 	sisalik 	0.0
+JPY 	rahapesu 	1.58
+DeepMind 	Google DeepMind 	3.92
+male 	Kontrollima 	1.67
+sonett 	ilu 	1.33
+töötaja 	kontoris 	1.75
+valuuta 	vahetada 	1.67
+polüester 	puuvill 	3.08
+tribunal 	õiglus 	2.5
+saba 	tagumine 	3.25
+õnnetus 	raamat 	0.0
+kähmlus 	tuul 	2.75
+klaver 	harmoonia 	1.58
+sultan 	ministeerium 	1.5
+kõrb 	düün 	2.42
+korrutamine 	jaotus 	2.67
+viirus 	veri 	1.58
+Jääaeg 	põhikiri 	0.0
+mõõk 	keskkond 	0.0
+algkool 	pliiats 	1.5
+kriket 	toetaja 	1.67
+skulptuur 	kuju 	3.83
+veebibrauseris 	Mozilla Firefox 	3.58
+Foksterjer 	Canon 	0.0
+HSBC 	Suurbritannia 	1.67
+Piibel 	Kirikulaul 	3.08
+kleit 	tantsu 	1.0
+massiiv 	nimekirja 	3.92
+kamber 	lukustama 	3.5
+essee 	kodutöö 	2.5
+arvuti 	masin 	3.33
+panda 	jääkaru 	3.25
+neuroos 	meeles 	1.75
+kampaania 	ahv 	0.0
+Faraday konstant 	seljakott 	0.0
+palee 	pilvelõhkuja 	2.33
+helikopter 	lennuk 	3.0
+Cambridge'i ülikool 	Oxfordi ülikool 	3.25
+lipp 	poolus 	1.42
+aken 	katus 	2.33
+kaardimäng 	frisbee 	2.5
+pahavara 	uss 	3.42
+planeedil 	täht 	2.58
+jooksja 	sportlane 	3.42
+kaliibriga 	vihmavari 	0.0
+WiFi 	WikiLeaks 	0.5
+põud 	vesi 	2.0
+lennujaama 	tükk 	0.08
+orkester 	bänd 	3.42
+mojito 	mohito 	4.0
+ainekava 	eksam 	2.42
+teoreem 	teooria 	2.42
+yo-yo 	mänguasja 	3.0
+tuisk 	vihma 	2.58
+ajaloolane 	ajalookirjutaja 	3.58
+Siemens 	elektrirong 	1.75
+sajandil 	aasta 	2.83
+sulam 	terasest 	3.5
+kohtunik 	kohtunik 	3.58
+kaos 	klass 	0.17
+kaugõpe 	Internet 	1.75
+liiv 	jalg 	0.42
+IMF 	Deutsche Bank 	2.83
+hooldaja 	Korda 	3.17
+siidiuss 	Siiditee 	0.58
+vabadus 	oaas 	0.58
+tsütoplasma 	number 	0.67
+protestant 	kristlane 	3.5
+Leonardo da Vinci 	Viimane õhtusöök 	2.33
+kaart 	ruut 	1.0
+parlament 	kongress 	3.5
+korjandus 	arengut 	1.17
+patoloogia 	hematoloogia 	3.08
+org 	depressioon 	2.0
+teleskoop 	tool 	0.25
+Heavy metal 	etapp 	1.42
+globalism 	viisa 	1.5
+nahkhiir 	vampiir 	2.33
+asetäitja 	ohvitser 	2.83
+elekter 	juhtum 	0.42
+tulnukas 	outlander 	3.67
+nuppu 	õmblusmasin 	1.42
+viisard 	kaabel 	0.0
+filosoof 	Võidusõit 	0.0
+popkorni 	kino 	1.5
+põllumajandus 	taim 	2.25
+luuletaja 	ajakirjanik 	2.33
+ilm 	Laine 	0.83
+tsivilisatsioon 	elustiil 	1.5
+lumi 	jää 	2.75
+teine maailmasõda 	Beethoven 	0.08
+emaplaat 	põhiplaat 	4.0
+klubi 	märk 	0.33
+Aleksander Suur 	vallutaja 	2.92
+rakendus 	galaktika 	0.42
+pilvandmetöötlus 	vihma 	0.0
+televiisor 	näitleja 	1.58
+delta 	meri 	2.42
+lõng 	niit 	3.92
+ülekäigurada 	isik 	1.42
+valk 	käepide 	0.0
+U2 	Ronaldo 	0.42
+Apple 	iPhone 	2.58
+piparmünt 	kumm 	1.83
+plakat 	paber 	2.83
+UNICEF 	juur 	0.0
+ksenofoobia 	rassism 	3.42
+Woody Allen 	objektiiv 	0.33
+lamp 	džinn 	2.08
+merevägi 	saar 	0.92
+sein 	loss 	2.0
+dinosaurus 	elevant 	2.33
+kellatorn 	kivi 	0.67
+Lähis-Ida 	Eufrat 	1.5
+heinamaa 	rohumaa 	3.58
+kitarr 	viiul 	3.17
+diplomaatia 	läbirääkimised 	2.67
+raskusjõud 	meteoor 	0.75
+IQ 	Mensa 	1.83
+Suurbritannia riigilipp 	lipp 	3.17
+maavärin 	värisemine 	3.92
+vara 	varu 	2.75
+Heebrea keel 	Jeruusalemm 	1.75
+pilvine 	prognoos 	1.92
+sõnastik 	entsüklopeedia 	2.83
+piparmünt 	muuseum 	1.0
+tool 	väljaheide 	3.08
+Hispaania keel 	niiskus 	0.0
+saab 	pudel 	3.5
+lendama 	ant 	2.92
+müüt 	satiir 	1.92
+Kesklinn 	buss 	0.75
+saba 	Boeing 747-200 	1.92
+kunstiteos 	kunstnik 	2.33
+NATO 	liit 	3.0
+kuningas 	valitseja 	3.67
+rütm 	kadents 	3.58
+Aleksander Fleming 	Penitsilliin 	2.5
+flööt 	muusika 	2.08
+hallhaik 	järv 	1.33
+viskoossus 	pritsima 	1.92
+riistvara 	juhtum 	1.67
+helisema 	kaasamine 	1.25
+Ladina keel 	Saksa keel 	2.92
+töölisklass 	taim 	1.75
+Shakespeare 	Dickens 	3.0
+Paberraha 	preester 	0.0
+tööriist 	töö 	1.08
+pügmee 	suidae 	3.42
+valimisõigus 	väljumine 	0.08
+täht 	heledus 	1.58
+forell 	kitarr 	0.0
+dollar 	miljonär 	1.75
+number 	number 	3.92
+torm 	tekk 	0.42
+Obama 	Clinton 	3.08
+kõrvaltegelane 	Film 	1.67
+Juventus 	Müncheni Bayern 	3.0
+kliimamuutus 	sademed 	1.58
+AI 	aku 	0.42
+meistriteos 	Mona Lisa 	2.67
+kuritegevus 	rünnak 	2.75
+kroonimine 	vesi 	0.0
+vokalist 	töötajad 	1.75
+playoff 	korvpall 	1.67
+relvajõud 	kaitse 	2.33
+järv 	pilv 	0.83
+klooster 	dušš 	0.08
+emakeel 	keel 	3.17
+sadam 	ümbris 	0.08
+deemon 	ingel 	2.67
+krüptogramm 	sümbol 	2.33
+ülikoolilinnak 	ülikool 	2.92
+vabadus 	vabadus 	4.0
+taifuun 	tsüklon 	3.83
+käsiraamat 	juhend 	3.92
+Ebola 	Ebola viirus 	4.0
+printsess 	biskviit 	0.08
+rong 	tramm 	3.5
+ökosüsteem 	majandus 	0.92
+kuninganna regnant 	malekuninganna 	0.92
+kuld 	tsink 	3.0
+kursor 	kiibid 	0.25
+Amazon 	mets 	3.08
+tennis 	statistika 	0.58
+Bolzano 	teoreem 	2.25
+kõrgus 	teisendamine 	0.08
+paat 	puu 	0.25
+troon 	mõõk 	1.0
+puuvill 	kampsun 	1.83
+kirss 	maasikas 	3.0
+Islam 	Koraan 	2.5
+Neandertallane 	Sport 	0.0
+nepotism 	kuningas 	1.42
+iseloomu 	isik 	2.67
+paak 	auto 	2.33
+elavhõbe 	Jupiter 	3.17
+bronhiit 	atsetaminofeen 	1.67
+veri 	keha 	2.0
+islamofoobia 	ISIS 	1.92
+heegeldama 	ühtlane 	1.17
+Hadoop 	puuteekraan 	0.67
+fossiilkütus 	fossiilne 	2.08
+mutant 	sotsiobioloogia 	0.75
+õde 	vend 	2.67
+pliiats 	lugu 	1.08
+ekseem 	dermatiit 	4.0
+keiser 	kuberner 	3.67
+kroon 	võti 	0.25
+algebra 	operatsiooni 	1.67
+kolb 	mootor 	2.33
+stipendium 	õppemaksu 	2.42
+raamat 	käsikiri 	3.17
+lantana 	snapdragon 	3.0
+must auk 	vaakum 	2.33
+Pärsia impeerium 	Cyrus 	1.83
+juhtkiri 	uudised 	2.42
+kaunistamine 	ümbrik 	0.08
+vaalhai 	homaar 	2.25
+mais 	mais 	4.0
+bipolaarne häire 	probleem 	2.25
+hape 	alus 	2.67
+absoluutne null 	aur 	1.42
+Roheline revolutsioon 	värvi 	0.0
+operatsioonisüsteem 	sügav õppimine 	1.5
+Rahvusvaheline matemaatikaolümpiaad 	teooria 	1.0
+El Niño 	ekvaator 	0.83
+märk 	klaas 	0.0
+mõis 	skulptor 	1.0
+atmosfääri 	osoon 	2.58
+kilp 	kurikas 	3.67
+münt 	makse 	1.75
+kaer 	valdkonnas 	1.17
+munk 	rist 	0.33
+püssilaev 	rannikul 	1.42
+kivi 	minu oma 	1.75
+legend 	moraalne 	1.0
+meister 	võitja 	3.75
+täringut 	kuup 	3.0
+topoloogia 	struktuur 	1.83
+kabel 	kaabel 	0.25
+rahavool 	jõgi 	0.0
+sarimõrvar 	mõrvar 	3.5
+maatriks 	molekul 	0.0
+mood 	stiil 	3.17
+veksilloloogia 	lipp 	2.33
+Maastrichti leping 	Euroopa 	2.17
+geiser 	kevad 	3.25
+sahharoos 	süsivesikud 	3.58
+rand 	rannikul 	3.83
+aktsiaturg 	Börs 	3.25
+traditsioon 	käsitöö 	1.58
+romaan 	kirjanik 	1.92
+võileib 	Metroo 	1.75
+akustika 	heli 	2.67
+vehklemine 	võimlemine 	2.33
+kirjanik 	kingitus 	0.0
+metsamaa 	Tiiger Woods 	0.08
+pilv 	aken 	0.67
+JPEG 	PDF 	3.08
+direktor 	ülemus 	3.33
+maks 	Brexit 	1.17
+tolmlemine 	tolmukad 	2.42
+videomäng 	arvutimäng 	3.33
+ravi 	kirurgiline operatsioon 	2.33
+koorimata 	kartul 	2.67
+märkmete tegemine 	ülesanne 	1.83
+rebane 	vererakk 	0.33
+naatriumkloriid 	sool 	3.92
+sissetulek 	elukvaliteet 	2.17
+tahe 	kavatsus 	3.5
+kompass 	elevant 	0.17
+järg 	kaamera 	1.0
+Film 	film 	3.92
+seersant 	relv 	1.75
+veski 	seeme 	0.75
+jäätis 	hommikusöök 	1.17
+võti 	lukk 	2.33
+mobiiltelefon 	telefon 	3.92
+lasteaed 	eelkool 	3.75
+Läänemaailm 	Western Union 	0.42
+seemik 	leht 	2.25
+vihma 	rahe 	3.08
+õnne 	kurbus 	2.33
+siidiuss 	röövik 	3.33
+surfamine 	veesport 	3.0
+auto 	veoauto 	3.17
+toit 	programmi 	0.25
+graafiline romaan 	koomiksiraamat 	3.42
+madu 	sisalik 	3.08
+ananass 	nutitelefon 	0.0
+tapeet 	taust 	3.42
+Celsiuse järgi 	Microsoft 	0.08
+kombineerima 	suhkruroog 	0.75
+teksad 	naine 	0.75
+maatriks 	vektor 	2.83
+süsinikdioksiid 	CO2 	4.0
+treener 	mängija 	2.5
+kivi 	puit 	2.33
+laadija 	ketas 	1.08
+käsikiri 	artikkel 	3.5
+Gmail 	Yahoo 	2.42
+kondensaator 	diood 	3.17
+korruptsioon 	pettus 	3.17
+Coca-Cola 	Koks 	3.92
+Platon 	Aristoteles 	3.17
+Külm sõda 	Nõukogude Liit 	2.58
+otsik 	vedelik 	2.0
+fonoloogia 	ekraan 	0.0
+Zara 	retuusid 	1.67
+Jalgpall 	jalgpall 	4.0
+idu 	patogeen 	3.92
+Vabariik 	hertsog 	1.17
+pall 	sfäär 	3.0
+Mozart 	Tähtede sõda 	0.0
+mask 	pidu 	1.33
+suur autovargus 	GTA 	4.0
+maanteel 	tee 	3.42
+ahelreaktsioon 	termodünaamika 	2.0
+illustratsioon 	vill 	0.0
+antropoloogia 	arheoloogia 	2.92
+Dell 	Dingle 	0.0
+mahl 	lusikas 	0.25
+Pfizer 	ravim 	2.5
+veoauto 	pakk 	0.67
+retseptor 	valgu molekul 	2.75
+Google Drive 	autojuht 	0.0
+miljardär 	kodutud 	1.67
+episood 	peatükk 	2.83
+lõpmatus 	null 	2.33
+sulane 	ori 	3.42
+järelliide 	kinnitama 	3.33
+Globaalne soojenemine 	kuumus 	2.42
+kasvuhormoon 	somatotropiin 	3.92
+taevas 	unistus 	0.83
+pakkumishind 	London 	0.42
+väetis 	kasvu 	1.67
+räsimärk 	teema 	2.5
+Orion 	tähtkuju 	3.17
+Nietzsche 	Chelsea 	0.17
+vastastikune austus 	konkurentsi 	1.5
+haru 	arm 	3.0
+ohver 	telefon 	0.08
+standardhälve 	kogunemine 	0.5
+laviin 	lumi 	2.08
+õpetaja 	õpilane 	2.0
+kariloomad 	jogurt 	1.5
+seksism 	sooline diskrimineerimine 	3.92
+lõunapoolus 	tantsu 	0.0
+prokurör 	advokaat 	3.33
+reket 	pall 	2.5
+pangalaen 	võlg 	3.25
+perspektiivist 	kaugus 	1.58
+Federer 	Dylan 	0.5
+advokaat 	galerii 	0.33
+oodatav eluiga 	statistiline meede 	2.67
+rakumembraan 	provirus 	1.83
+Euroopa Liit 	Moskva 	2.0
+maailmas 	Aasia 	2.17
+Värv 	Photoshop 	3.17
+senat 	põhiseadus 	1.83
+petersell 	muffin 	1.0
+meeles 	aju 	3.83
+Mercedes 	Opel 	3.17
+haamer 	hambad 	0.0
+Renessanss 	Uuenduslikkus 	4.0
+seelik 	vaatama 	1.0
+ooper 	kino 	2.75
+õpetaja 	juhendaja 	3.83
+Päike 	kaabel 	0.08
+majanduslangus 	SKT 	2.0
+Caesar 	Julius Caesar 	3.92
+kannatlik 	seanss 	0.67
+käitumisviis 	teraapia 	2.17
+keiser 	põhiseadus 	1.25
+matemaatik 	saade 	0.08
+entroopia 	teavet 	1.75
+roosivesi 	roosiõli 	3.17
+tsitruseline 	greip 	3.5
+Kuninganna Victoria 	Inglismaa 	1.75
+Olümpiamängud 	vaim 	0.83
+piiskop 	moslem 	1.67
+mees 	kahtlustatav 	1.0
+meteoriit 	Maa 	1.83
+sümbol 	märk 	3.42
+antropoloogia 	New York 	0.08
+päikeseloojang 	tabel 	0.0
+linn 	linn 	3.75
+jope 	mineraalvesi 	0.0
+loodus 	taimestik 	3.0
+alamprogramm 	koostaja 	2.67
+Hamadan 	Rooma 	2.58
+vihmavari 	küttekeha 	0.17
+au 	lugupidamine 	3.25
+sümboolika 	väärikus 	0.58
+KFC 	McDonald's 	3.17
+juhtnupp 	radar 	0.67
+basmati 	jasmiiniriis 	3.58
+medal 	koolitajad 	0.42
+seadus 	bassein 	0.08
+allikas 	kasti 	0.0
+teater 	aku 	0.0
+taimestik 	veebibrauseris 	0.0
+särk 	kampsun 	3.25
+luuletus 	rütm 	1.42
+prohvet 	preester 	2.58
+Oscarid 	staadion 	0.08
+triktrakk 	Mine 	3.25
+liblikas 	tõusis 	1.25
+tara 	hüppamine 	1.58
+nihilism 	film 	0.17
+asteroid 	täht 	2.25
+mäss 	joonistamine 	0.08
+aluspesu 	keha 	1.25
+Boeing 	lennuk 	2.83
+kamee 	jõudlus 	2.42
+semester 	tähtaeg 	3.83
+oranž 	tsitruselised 	3.0
+liustik 	Globaalne soojenemine 	1.58
+tunnel 	tee 	2.0

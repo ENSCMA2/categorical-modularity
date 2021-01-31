@@ -1,0 +1,500 @@
+Džul 	svemirska letjelica 	0.58
+Obećana zemlja 	Baku 	0.42
+automobil 	bicikl 	2.83
+poliedar 	glumac 	0.0
+Multipla skleroza 	MS 	3.92
+kvar 	sustav 	0.58
+oružje 	kaciga 	1.83
+scenarista 	televizija 	1.67
+Ujedinjeni narodi 	Ban Ki-moon 	2.5
+Si-o-seh pol 	Matematički most 	3.0
+bazilika 	mozaik 	1.5
+slikanje akvarelom 	četka 	2.0
+demokracija 	monarhija 	2.67
+Gauss 	znanstvenik 	3.0
+tuberkuloza 	LED 	0.0
+samovozeći automobil 	autonomni automobil 	4.0
+Apokalipsa 	vatra 	1.25
+ubrzati 	post 	0.25
+PlayStation 	Wii 	3.25
+prijenosno računalo 	bilježnica 	4.0
+Harry Potter 	čarobnjak 	3.0
+snowboard 	skijanje 	3.17
+pokazivač 	klizati 	1.33
+senzor 	radijator 	1.25
+pogoditi 	okvir 	0.42
+teorija 	hipoteza 	3.83
+Wall Street 	financijsko tržište 	2.92
+Darwine 	evolucija 	2.58
+glumac 	glumica 	3.42
+film 	kazalište 	2.25
+nacionalna himna 	patriotizam 	2.42
+zaslon 	monitor 	3.92
+mliječni proizvodi 	med 	0.83
+Mount Everest 	Chomolungma 	3.92
+potezanje konopa 	Zmije i ljestve 	2.33
+pesticid 	štetočina 	1.83
+policajac 	političar 	2.17
+neuropsihologija 	parapsihologija 	3.17
+baterija 	energije 	2.83
+Legija časti 	dopisnica 	0.0
+Čovjek pauk 	ulica 	0.5
+poluotok 	otok 	3.0
+ekvator 	Ekvador 	1.17
+grafikon 	graf 	3.83
+simulacija 	robotika 	1.42
+Nike 	Adidas 	3.17
+društvo 	Kultura 	2.67
+strateška igra 	strategija 	2.0
+crkva 	katedrala 	3.58
+prevoditelj 	stranac 	1.42
+biotop 	biologija 	1.92
+magma 	vulkan 	2.25
+mozganje 	teleskop 	0.0
+nivo 	postići 	2.67
+peni 	cjenkati se 	1.42
+politička stranka 	udruživanje 	2.08
+tsunami 	more 	2.0
+noj 	voćnjak 	0.42
+cimet 	bombon 	1.75
+metla 	prah 	1.83
+galaksija 	astronom 	1.42
+sok 	milkshake 	3.17
+prozorska zavjesa 	zavjesa 	3.25
+zločinački 	prijestupnik 	3.5
+rak gušterače 	kemoterapija 	1.83
+prošlost 	prethodnik 	2.75
+Ujedinjeni narodi 	Europski parlament 	2.75
+pjesma 	izvođač 	1.83
+pištolj 	bilježnica 	0.0
+acetilkolin 	iris 	0.58
+abeceda 	olovka 	0.58
+refren 	pjevač 	2.67
+drvo 	pokrivač 	0.5
+vojnik 	mir 	1.25
+Engleski 	američki 	3.33
+gušter 	krokodil 	3.25
+novac 	unovčiti 	3.42
+Pavao hobotnica 	hobotnica 	3.5
+kalendar 	odmor 	2.08
+baza 	kemijska tvar 	3.0
+vlada 	gušter 	0.0
+JPY 	pranje novca 	1.58
+Duboki um 	Google DeepMind 	3.92
+šah 	ček 	1.67
+sonet 	ljepota 	1.33
+radnik 	ured 	1.75
+valuta 	razmjena 	1.67
+poliester 	pamuk 	3.08
+sud 	pravda 	2.5
+rep 	straga 	3.25
+nesreća 	knjiga 	0.0
+pljusak 	vjetar 	2.75
+klavir 	sklad 	1.58
+sultan 	ministarstvo 	1.5
+pustinja 	dina 	2.42
+množenje 	podjela 	2.67
+virus 	krv 	1.58
+ledeno doba 	statut 	0.0
+mač 	okoliš 	0.0
+osnovna škola 	olovka 	1.5
+kriket 	pristaša 	1.67
+skulptura 	kip 	3.83
+web-preglednik 	Mozilla Firefox 	3.58
+Foks-terijer 	Kanon 	0.0
+HSBC 	Britanija 	1.67
+Biblija 	Gospel 	3.08
+haljina 	ples 	1.0
+niz 	popis 	3.92
+stanica 	pritvor 	3.5
+esej 	domaća zadaća 	2.5
+Računalo 	mašina 	3.33
+panda 	polarni medvjed 	3.25
+neuroza 	um 	1.75
+kampanja 	majmun 	0.0
+Faradayeva konstanta 	ruksak 	0.0
+palača 	neboder 	2.33
+helikopter 	avion 	3.0
+Sveučilište u Cambridgeu 	Sveučilište Oxford 	3.25
+zastava 	pol 	1.42
+prozor 	krov 	2.33
+kartaška igra 	frizbi 	2.5
+zlonamjerni softver 	crv 	3.42
+planeta 	zvijezda 	2.58
+trkač 	sportaš 	3.42
+kalibar 	kišobran 	0.0
+WiFi 	WikiLeaks 	0.5
+suša 	voda 	2.0
+zračna luka 	komad 	0.08
+orkestar 	bend 	3.42
+mojito 	mohito 	4.0
+nastavni plan 	ispit 	2.42
+teorema 	teorija 	2.42
+jo-jo 	igračka 	3.0
+mećava 	kiša 	2.58
+povjesničar 	historiograf 	3.58
+Siemens 	električni vlak 	1.75
+stoljeću 	godina 	2.83
+legura 	željezo 	3.5
+sudac 	suditi 	3.58
+kaos 	razred 	0.17
+obrazovanje na daljinu 	Internet 	1.75
+pijesak 	noga 	0.42
+MMF 	Njemačka banka 	2.83
+Čuvar 	Vremena 	3.17
+svilena buba 	Skliska cesta 	0.58
+sloboda 	oaza 	0.58
+citoplazma 	broj 	0.67
+protestant 	kršćanski 	3.5
+Leonardo da Vinci 	Posljednja večera 	2.33
+karta 	kvadrat 	1.0
+parlament 	kongres 	3.5
+prikupljanje sredstava 	razvoj 	1.17
+patologija 	hematologija 	3.08
+dolina 	depresija 	2.0
+teleskop 	stolica 	0.25
+teški metal 	pozornica 	1.42
+globalizam 	Visa 	1.5
+šišmiš 	vampir 	2.33
+zamjenik 	časnik 	2.83
+struja 	slučaj 	0.42
+stranac 	outlander 	3.67
+dugme 	mašina za šivanje 	1.42
+čarobnjak 	kabel 	0.0
+filozof 	trkački 	0.0
+kokice 	kino 	1.5
+poljoprivreda 	biljka 	2.25
+pjesnik 	novinar 	2.33
+vrijeme 	val 	0.83
+civilizacija 	način života 	1.5
+snijeg 	led 	2.75
+Drugi Svjetski rat 	Beethoven 	0.08
+matična ploča 	matična ploča 	4.0
+klub 	ocjena 	0.33
+Aleksandar Veliki 	osvajač 	2.92
+app 	galaksija 	0.42
+računalni oblak 	kiša 	0.0
+televizija 	glumac 	1.58
+delta 	more 	2.42
+pređa 	nit 	3.92
+pješački prijelaz 	osoba 	1.42
+protein 	drška 	0.0
+U2 	Ronaldo 	0.42
+Jabuka 	iPhone 	2.58
+paprena metvica 	guma 	1.83
+poster 	papir 	2.83
+UNICEF 	korijen 	0.0
+ksenofobija 	rasizam 	3.42
+Woody Allen 	leće 	0.33
+svjetiljka 	duh 	2.08
+mornarica 	otok 	0.92
+zid 	dvorac 	2.0
+dinosaura 	slon 	2.33
+toranj sa satom 	kamen 	0.67
+bliski istok 	Eufrat 	1.5
+livada 	travnjak 	3.58
+gitara 	violina 	3.17
+diplomacija 	Pregovaranje 	2.67
+gravitacija 	meteor 	0.75
+IQ 	Mensa 	1.83
+zastava Velike Britanije 	zastava 	3.17
+potres 	tremor 	3.92
+imovina 	zaliha 	2.75
+Hebrejski 	Jeruzalem 	1.75
+oblačan 	prognoza 	1.92
+rječnik 	enciklopedija 	2.83
+metvice 	muzej 	1.0
+stolica 	stolica 	3.08
+Španjolski 	vlage 	0.0
+limenka 	boca 	3.5
+letjeti 	mrav 	2.92
+mit 	satira 	1.92
+središte grada 	autobus 	0.75
+rep 	Boeing 747-200 	1.92
+ilustracije 	umjetnik 	2.33
+NATO 	savez 	3.0
+kralj 	vladar 	3.67
+ritam 	kadenca 	3.58
+Aleksander Fleming 	Penicilin 	2.5
+flauta 	glazba, muzika 	2.08
+siva čaplja 	jezero 	1.33
+viskoznost 	uprskati 	1.92
+hardver 	slučaj 	1.67
+prsten 	angažman 	1.25
+latinski 	njemački 	2.92
+radnička klasa 	biljka 	1.75
+Shakespeare 	Đavo 	3.0
+papirnati novac 	svećenik 	0.0
+alat 	posao 	1.08
+pigmejska svinja 	suidae 	3.42
+pravo glasa 	Izlaz 	0.08
+zvijezda 	svjetlina 	1.58
+pastrva 	gitara 	0.0
+dolar 	milijunaš 	1.75
+broj 	broj 	3.92
+Oluja 	pokrivač 	0.42
+Obama 	Clinton 	3.08
+sporedni lik 	film 	1.67
+Juventus 	Bayern München 	3.0
+klimatske promjene 	taloženje 	1.58
+AI 	baterija 	0.42
+remek djelo 	Mona Lisa 	2.67
+zločin 	napad 	2.75
+krunidba 	voda 	0.0
+pjevač 	osoblje 	1.75
+doigravanje 	košarka 	1.67
+Oružane snage 	obrana 	2.33
+jezero 	oblak 	0.83
+samostan 	tuš 	0.08
+materinji jezik 	Jezik 	3.17
+luka 	omot 	0.08
+demon 	anđeo 	2.67
+kriptogram 	simbol 	2.33
+kampusu 	sveučilište 	2.92
+sloboda 	sloboda 	4.0
+tajfun 	ciklon 	3.83
+priručnik 	vodič 	3.92
+Ebola 	Virus ebole 	4.0
+princeza 	biskvit 	0.08
+vlak 	tramvaj 	3.5
+ekosustav 	Ekonomija 	0.92
+kraljica regent 	šah kraljica 	0.92
+zlato 	cinkov 	3.0
+kursor 	čips 	0.25
+Amazon 	šuma 	3.08
+tenis 	statistika 	0.58
+Bolzano 	teorema 	2.25
+visina 	pretvorba 	0.08
+čamac 	stablo 	0.25
+prijestolje 	mač 	1.0
+pamuk 	džemper 	1.83
+trešnja 	jagoda 	3.0
+islam 	Kur'an 	2.5
+Neandertalac 	sport 	0.0
+nepotizam 	kralj 	1.42
+lik 	osoba 	2.67
+tenk 	automobil 	2.33
+Merkur 	Jupiter 	3.17
+bronhitis 	acetaminofen 	1.67
+krv 	tijelo 	2.0
+islamofobija 	JE JE 	1.92
+heklanje 	odora 	1.17
+Hadoop 	ekran na dodir 	0.67
+fosilno gorivo 	fosil 	2.08
+mutantni 	sociobiologija 	0.75
+sestra 	brat 	2.67
+olovka 	priča 	1.08
+ekcem 	dermatitis 	4.0
+car 	guverner 	3.67
+kruna 	ključ 	0.25
+algebra 	operacija 	1.67
+klip 	motor 	2.33
+stipendija 	školarina 	2.42
+knjiga 	rukopis 	3.17
+lantana 	snapdragon 	3.0
+Crna rupa 	vakuum 	2.33
+Perzijsko Carstvo 	Cyrus 	1.83
+urednički 	vijesti 	2.42
+ukras 	omotnica 	0.08
+kitovski morski pas 	jastog 	2.25
+kukuruz 	kukuruz 	4.0
+bipolarni poremećaj 	problem 	2.25
+kiselina 	baza 	2.67
+apsolutna nula 	para 	1.42
+Zelena revolucija 	boja 	0.0
+operacijski sustav 	duboko učenje 	1.5
+Međunarodna matematička olimpijada 	teorija 	1.0
+El Niño 	ekvator 	0.83
+Bedž 	staklo 	0.0
+ljetnikovac 	kipar 	1.0
+atmosfera 	ozon 	2.58
+štit 	izvijač 	3.67
+novčić 	plaćanje 	1.75
+zob 	polje 	1.17
+redovnik 	križ 	0.33
+topovnjača 	obala 	1.42
+stijena 	rudnik 	1.75
+legenda 	moralni 	1.0
+prvak 	pobjednik 	3.75
+kocke 	kocka 	3.0
+topologija 	struktura 	1.83
+kapela 	kabel 	0.25
+protok novca 	Rijeka 	0.0
+serijski ubojica 	ubojica 	3.5
+matrica 	molekula 	0.0
+moda 	stil 	3.17
+veksilologija 	zastava 	2.33
+Ugovor iz Maastrichta 	Europa 	2.17
+gejzir 	Proljeće 	3.25
+saharoza 	ugljikohidrata 	3.58
+plaža 	obala 	3.83
+tržište dionica 	burza 	3.25
+tradicija 	ručni rad 	1.58
+roman 	pisac 	1.92
+sendvič 	Podzemna željeznica 	1.75
+akustika 	zvuk 	2.67
+mačevanje 	gimnastika 	2.33
+pisac 	dar 	0.0
+šuma 	Tiger Woods 	0.08
+oblak 	prozor 	0.67
+JPEG 	PDF 	3.08
+direktor 	šef 	3.33
+porez 	Brexit 	1.17
+oprašivanje 	prašnik 	2.42
+video igra 	računarska igra 	3.33
+liječenje 	kirurška operacija 	2.33
+riža 	krumpir 	2.67
+uzimanje bilješki 	zadatak 	1.83
+lisica 	krvna zrnca 	0.33
+natrijev klorid 	sol 	3.92
+prihod 	Kvaliteta života 	2.17
+htjeti 	namjera 	3.5
+kompas 	slon 	0.17
+nastavak 	fotoaparat 	1.0
+film 	film 	3.92
+narednik 	pištolj 	1.75
+mlin 	sjeme 	0.75
+sladoled 	doručak 	1.17
+ključ 	zaključati 	2.33
+mobitel 	telefon 	3.92
+Dječji vrtić 	predškolski 	3.75
+zapadni svijet 	Zapadna unija 	0.42
+sadnica 	list 	2.25
+kiša 	tuča 	3.08
+sreća 	tuga 	2.33
+svilena buba 	gusjenica 	3.33
+surfanje 	vodeni sport 	3.0
+automobil 	kamion 	3.17
+hrana 	program 	0.25
+grafički roman 	stripa 	3.42
+zmija 	gušter 	3.08
+ananas 	pametni telefon 	0.0
+tapeta 	pozadini 	3.42
+Celzijusa 	Microsoft 	0.08
+kombinirati 	šećerna trska 	0.75
+traperice 	žena 	0.75
+matrica 	vektor 	2.83
+ugljični dioksid 	CO2 	4.0
+trener 	igrač 	2.5
+kamen 	drvo 	2.33
+punjač 	disk 	1.08
+rukopis 	članak 	3.5
+Gmail 	Yahoo 	2.42
+kondenzator 	dioda 	3.17
+korupcija 	prijevara 	3.17
+Koka kola 	Koks 	3.92
+Platon 	Aristotel 	3.17
+Hladni rat 	Sovjetski Savez 	2.58
+mlaznica 	tekućina 	2.0
+fonologija 	zaslon 	0.0
+Zara 	tajice 	1.67
+nogomet 	nogomet 	4.0
+klica 	patogena 	3.92
+republika 	vojvoda 	1.17
+lopta 	sfera 	3.0
+Mozart 	Ratovi zvijezda 	0.0
+maska 	Zabava 	1.33
+Grand Theft Auto 	GTA 	4.0
+autocesta 	ceste 	3.42
+lančana reakcija 	termodinamika 	2.0
+ilustracija 	žulj 	0.0
+antropologija 	arheologija 	2.92
+Dell 	Dingle 	0.0
+sok 	žlica 	0.25
+Pfizer 	droga 	2.5
+kamion 	parcela 	0.67
+receptor 	proteinska molekula 	2.75
+Google vožnja 	vozač 	0.0
+milijarder 	beskućnik 	1.67
+epizoda 	poglavlje 	2.83
+beskonačnost 	nula 	2.33
+sluga 	rob 	3.42
+sufiks 	pričvrstiti 	3.33
+globalno zatopljenje 	toplina 	2.42
+hormon rasta 	somatotropin 	3.92
+nebo 	san 	0.83
+cijena ponude 	London 	0.42
+gnojivo 	rast 	1.67
+hashtag 	tema 	2.5
+Orion 	konstelacija 	3.17
+Nietzschea 	Chelsea 	0.17
+uzajamno poštovanje 	konkurencija 	1.5
+podružnica 	ruka 	3.0
+žrtva 	telefon 	0.08
+standardna devijacija 	akumulacija 	0.5
+lavina 	snijeg 	2.08
+učitelj, nastavnik, profesor 	student 	2.0
+goveda 	jogurt 	1.5
+seksizam 	spolna diskriminacija 	3.92
+Južni pol 	ples 	0.0
+tužitelja 	odvjetnik 	3.33
+reket 	lopta 	2.5
+kredit u banci 	dug 	3.25
+perspektiva 	udaljenost 	1.58
+Federer 	Dylan 	0.5
+odvjetnik 	galerija 	0.33
+životni vijek 	statistička mjera 	2.67
+stanična membrana 	provirus 	1.83
+Europska unija 	Moskva 	2.0
+svijet 	Azija 	2.17
+Boja 	Photoshop 	3.17
+senat 	ustav 	1.83
+peršin 	kolač 	1.0
+um 	mozak 	3.83
+mercedes 	Opel 	3.17
+čekić 	zubi 	0.0
+Renesansa 	Preporod 	4.0
+suknja 	Gledati 	1.0
+opera 	kino 	2.75
+učitelj, nastavnik, profesor 	instruktor 	3.83
+Sunce 	kabel 	0.08
+recesija 	BDP-a 	2.0
+Cezar 	Julije Cezar 	3.92
+pacijent 	sjednica 	0.67
+biheviorizam 	terapija 	2.17
+car 	ustav 	1.25
+matematičar 	pokazati 	0.08
+entropija 	informacija 	1.75
+Ružina vodica 	ružino ulje 	3.17
+citrusno voće 	grejp 	3.5
+Kraljica Viktorija 	Engleska 	1.75
+Olimpijske igre 	duh 	0.83
+biskup 	muslimanski 	1.67
+čovjek 	osumnjičeni 	1.0
+meteorit 	Zemlja 	1.83
+simbol 	znak 	3.42
+antropologija 	New York 	0.08
+zalazak sunca 	stol 	0.0
+grad 	Grad 	3.75
+jakna 	mineralna voda 	0.0
+priroda 	Flora 	3.0
+potprogram 	sastavljač 	2.67
+Hamadan 	Rim 	2.58
+kišobran 	grijač 	0.17
+čast 	poštovanje 	3.25
+oznake 	dostojanstvo 	0.58
+KFC 	McDonald's 	3.17
+džojstik 	radar 	0.67
+basmati 	jasmin riža 	3.58
+medalja 	treneri 	0.42
+zakon 	bazen 	0.08
+izvor 	kutija 	0.0
+kazalište 	baterija 	0.0
+Flora 	web-preglednik 	0.0
+košulja 	kardigan 	3.25
+pjesma 	ritam 	1.42
+prorok 	svećenik 	2.58
+Oscari 	stadion 	0.08
+backgammon 	Ići 	3.25
+leptir 	ruža 	1.25
+ograda 	skakanje 	1.58
+nihilizam 	film 	0.17
+asteroid 	zvijezda 	2.25
+pobuna 	crtanje 	0.08
+donje rublje 	tijelo 	1.25
+Boeing 	avion 	2.83
+kameja 	izvođenje 	2.42
+semestar 	termin 	3.83
+naranča 	citrusa 	3.0
+ledenjak 	globalno zatopljenje 	1.58
+tunel 	staza 	2.0

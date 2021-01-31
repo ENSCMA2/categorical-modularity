@@ -1,0 +1,500 @@
+Joule 	űrhajó 	0.58
+Az ígéret földje 	Baku 	0.42
+autó 	kerékpár 	2.83
+poliéder 	színész 	0.0
+sclerosis multiplex 	KISASSZONY 	3.92
+hiba 	rendszer 	0.58
+fegyver 	sisak 	1.83
+forgatókönyvíró 	televízió 	1.67
+Egyesült Nemzetek 	Ban Ki-moon 	2.5
+Si-o-seh pol 	Matematikai híd 	3.0
+székesegyház 	mozaik- 	1.5
+akvarell festészet 	kefe 	2.0
+demokrácia 	monarchia 	2.67
+Gauss 	tudós 	3.0
+tuberkulózis 	VEZETTE 	0.0
+önvezető autó 	autonóm autó 	4.0
+Apokalipszis 	Tűz 	1.25
+sebesség 	post 	0.25
+Play Station 	Wii 	3.25
+laptop 	jegyzetfüzet 	4.0
+Harry Potter 	varázsló 	3.0
+hódeszka 	síelés 	3.17
+mutató 	csúszik 	1.33
+érzékelő 	radiátor 	1.25
+találat 	keret 	0.42
+elmélet 	hipotézis 	3.83
+Wall Street 	pénzpiac 	2.92
+Darwin 	evolúció 	2.58
+színész 	színésznő 	3.42
+film 	színház 	2.25
+Nemzeti himnusz 	hazaszeretet 	2.42
+képernyő 	monitor 	3.92
+tejtermék 	édesem 	0.83
+Mount Everest 	Chomolungma 	3.92
+kötélhúzás 	Kígyók és létrák 	2.33
+növényvédő szer 	kártevő 	1.83
+rendőr 	politikus 	2.17
+neuropszichológia 	parapszichológia 	3.17
+akkumulátor 	energia 	2.83
+Legion of Honor 	irodaszer 	0.0
+Pókember 	utca 	0.5
+félsziget 	sziget 	3.0
+egyenlítő 	Ecuador 	1.17
+diagram 	grafikon 	3.83
+szimuláció 	robotika 	1.42
+Nike 	Adidas 	3.17
+társadalom 	kultúra 	2.67
+stratégiai játék 	stratégia 	2.0
+templom 	székesegyház 	3.58
+fordító 	külföldi 	1.42
+biotóp 	biológia 	1.92
+magma 	vulkán 	2.25
+ötletelés 	távcső 	0.0
+szint 	pontszám 	2.67
+penny 	alku 	1.42
+politikai párt 	Egyesület 	2.08
+szökőár 	tenger 	2.0
+strucc 	gyümölcsöskert 	0.42
+fahéj 	cukorka 	1.75
+seprű 	por 	1.83
+galaxis 	csillagász 	1.42
+gyümölcslé 	turmix 	3.17
+ablaktábla 	függöny 	3.25
+Bűnügyi 	szabálysértő 	3.5
+hasnyálmirigyrák 	kemoterápia 	1.83
+múlt 	előzmény 	2.75
+Egyesült Nemzetek 	Európai Parlament 	2.75
+dal 	előadó 	1.83
+pisztoly 	jegyzetfüzet 	0.0
+acetilkolin 	írisz 	0.58
+ábécé 	toll 	0.58
+énekkar 	énekes 	2.67
+faipari 	takaró 	0.5
+katona 	béke 	1.25
+angol 	Amerikai 	3.33
+gyík 	krokodil 	3.25
+pénz 	készpénz 	3.42
+Polip Pál 	polip 	3.5
+naptár 	ünnep 	2.08
+bázis 	kémiai anyag 	3.0
+kormány 	gyík 	0.0
+jen 	pénzmosás 	1.58
+DeepMind 	Google DeepMind 	3.92
+sakk 	jelölje be 	1.67
+szonett 	szépség 	1.33
+munkás 	hivatal 	1.75
+valuta 	csere 	1.67
+poliészter 	pamut- 	3.08
+bíróság 	igazságszolgáltatás 	2.5
+farok 	hátulsó 	3.25
+baleset 	könyv 	0.0
+szélroham 	szél 	2.75
+zongora 	harmónia 	1.58
+szultán 	minisztérium 	1.5
+sivatag 	dűne 	2.42
+szorzás 	osztály 	2.67
+vírus 	vér 	1.58
+Jégkorszak 	törvény 	0.0
+kard 	környezet 	0.0
+Általános Iskola 	toll 	1.5
+krikett 	támogató 	1.67
+szobor 	szobor 	3.83
+böngésző 	Mozilla Firefox 	3.58
+Foxi 	Kánon 	0.0
+HSBC 	Britannia 	1.67
+Biblia 	Evangélium 	3.08
+ruha 	tánc 	1.0
+sor 	lista 	3.92
+sejt 	bezár 	3.5
+esszé 	házi feladat 	2.5
+számítógép 	gép 	3.33
+panda 	jegesmedve 	3.25
+neurózis 	ész 	1.75
+kampány 	majom 	0.0
+Faraday állandó 	hátizsák 	0.0
+palota 	felhőkarcoló 	2.33
+helikopter 	repülőgép 	3.0
+Cambridge-i Egyetem 	Oxford Egyetem 	3.25
+zászló 	pólus 	1.42
+ablak 	tető 	2.33
+kártyajáték 	Frizbi 	2.5
+rosszindulatú 	féreg 	3.42
+bolygó 	csillag 	2.58
+futó 	sportoló 	3.42
+kaliber 	esernyő 	0.0
+WiFi 	WikiLeaks 	0.5
+aszály 	víz 	2.0
+repülőtér 	darab 	0.08
+zenekar 	Zenekar 	3.42
+mojito 	mohito 	4.0
+tanmenet 	vizsga 	2.42
+tétel 	elmélet 	2.42
+yo-yo 	játék 	3.0
+hóvihar 	eső 	2.58
+történész 	történetíró 	3.58
+Siemens 	elektromos vonat 	1.75
+század 	év 	2.83
+ötvözet 	acél- 	3.5
+elöljáró 	bíró 	3.58
+káosz 	osztály 	0.17
+távoktatás 	Internet 	1.75
+homok 	láb 	0.42
+IMF 	német bank 	2.83
+Gyám 	Idők 	3.17
+selyemhernyó 	Selyemút 	0.58
+szabadság 	oázis 	0.58
+citoplazma 	számjegy 	0.67
+protestáns 	keresztény 	3.5
+Leonardo da Vinci 	Az utolsó vacsora 	2.33
+térkép 	négyzet 	1.0
+parlament 	Kongresszus 	3.5
+adománygyűjtés 	fejlődés 	1.17
+patológia 	hematológia 	3.08
+völgy 	depresszió 	2.0
+távcső 	szék 	0.25
+heavy metal 	színpad 	1.42
+globalizmus 	Vízum 	1.5
+denevér 	vámpír 	2.33
+helyettes 	tiszt 	2.83
+elektromosság 	ügy 	0.42
+idegen 	külföldi 	3.67
+gomb 	varrógép 	1.42
+varázsló 	kábel 	0.0
+filozófus 	verseny 	0.0
+pattogatott kukorica 	mozi 	1.5
+mezőgazdaság 	növény 	2.25
+költő 	újságíró 	2.33
+időjárás 	hullám 	0.83
+civilizáció 	életmód 	1.5
+hó 	jég 	2.75
+második világháború 	Beethoven 	0.08
+alaplap 	fő tábla 	4.0
+klub 	Mark 	0.33
+Nagy Sándor 	hódító 	2.92
+kb 	galaxis 	0.42
+felhő alapú számítástechnika 	eső 	0.0
+televízió 	színész 	1.58
+delta 	tenger 	2.42
+fonal 	cérna 	3.92
+zebra 	személy 	1.42
+fehérje 	fogantyú 	0.0
+U2 	Ronaldo 	0.42
+alma 	iPhone 	2.58
+borsmenta 	gumi 	1.83
+poszter 	papír 	2.83
+UNICEF 	gyökér 	0.0
+idegengyűlölet 	rasszizmus 	3.42
+Woody Allen 	lencse 	0.33
+lámpa 	dzsinn 	2.08
+haditengerészet 	sziget 	0.92
+fal 	vár 	2.0
+dinoszaurusz 	elefánt 	2.33
+óratorony 	kő 	0.67
+Közel-Kelet 	Eufrátesz 	1.5
+rét 	gyep 	3.58
+gitár 	hegedű 	3.17
+diplomácia 	tárgyalás 	2.67
+gravitáció 	meteor 	0.75
+IQ 	Mensa 	1.83
+Brit zászló 	zászló 	3.17
+földrengés 	remegés 	3.92
+eszköz 	Készlet 	2.75
+héber 	Jeruzsálem 	1.75
+felhős 	előrejelzés 	1.92
+szótár 	enciklopédia 	2.83
+menta 	múzeum 	1.0
+szék 	szék 	3.08
+spanyol 	nedvesség 	0.0
+tud 	üveg 	3.5
+légy 	hangya 	2.92
+mítosz 	szatíra 	1.92
+városközpont 	busz 	0.75
+farok 	Boeing 747-200 	1.92
+alkotás 	művész 	2.33
+NATO 	szövetség 	3.0
+király 	vonalzó 	3.67
+ritmus 	ütem 	3.58
+Alexander Fleming 	Penicillin 	2.5
+fuvola 	zene 	2.08
+szürke gém 	tó 	1.33
+viszkozitás 	loccsanás 	1.92
+hardver 	ügy 	1.67
+gyűrű 	eljegyzés 	1.25
+latin 	német 	2.92
+munkásosztály 	növény 	1.75
+Shakespeare 	Ördög 	3.0
+papír pénz 	pap 	0.0
+eszköz 	munka 	1.08
+pigmeus disznó 	suidae 	3.42
+választójog 	kijárat 	0.08
+csillag 	Fényerősség 	1.58
+pisztráng 	gitár 	0.0
+dollár 	milliomos 	1.75
+számjegy 	szám 	3.92
+szélvihar 	takaró 	0.42
+Obama 	Clinton 	3.08
+mellékszereplő 	film 	1.67
+Juventus 	a Bayern München 	3.0
+klímaváltozás 	csapadék 	1.58
+AI 	akkumulátor 	0.42
+mestermű 	Mona Lisa 	2.67
+bűn 	támadás 	2.75
+koronázás 	víz 	0.0
+énekes 	személyzet 	1.75
+rájátszás 	kosárlabda 	1.67
+fegyveres erők 	védelem 	2.33
+tó 	felhő 	0.83
+kolostor 	zuhany 	0.08
+anyanyelv 	nyelv 	3.17
+kikötő 	csomagolás 	0.08
+démon 	angyal 	2.67
+spórás növény 	szimbólum 	2.33
+egyetem 	egyetemi 	2.92
+szabadság 	szabadság 	4.0
+tájfun 	ciklon 	3.83
+kézikönyv 	útikönyv 	3.92
+Ebola 	Ebola vírus 	4.0
+hercegnő 	keksz 	0.08
+vonat 	villamos 	3.5
+ökoszisztéma 	gazdaság 	0.92
+regnant királynő 	sakkkirálynő 	0.92
+Arany 	cink- 	3.0
+kurzor 	hasábburgonya 	0.25
+amazon 	erdő 	3.08
+tenisz 	statisztika 	0.58
+Bolzano 	tétel 	2.25
+magasság 	átalakítás 	0.08
+hajó 	fa 	0.25
+trón 	kard 	1.0
+pamut- 	pulóver 	1.83
+cseresznye 	eper 	3.0
+iszlám 	korán 	2.5
+Neandervölgyi 	Sport 	0.0
+nepotizmus 	király 	1.42
+karakter 	személy 	2.67
+tartály 	autó 	2.33
+Higany 	Jupiter 	3.17
+hörghurut 	acetaminofen 	1.67
+vér 	test 	2.0
+iszlamofóbia 	ISIS 	1.92
+horgolás 	egyenruha 	1.17
+Hadoop 	érintőkijelző 	0.67
+fosszilis üzemanyag 	kövület 	2.08
+mutáns 	szociobiológia 	0.75
+nővér 	fiú testvér 	2.67
+ceruza 	sztori 	1.08
+ekcéma 	bőrgyulladás 	4.0
+császár 	kormányzó 	3.67
+korona 	kulcs 	0.25
+algebra 	művelet 	1.67
+dugattyú 	motor 	2.33
+ösztöndíj 	tandíj 	2.42
+könyv 	kézirat 	3.17
+lantana 	tátika 	3.0
+fekete lyuk 	vákuum 	2.33
+Perzsa Birodalom 	Cyrus 	1.83
+szerkesztőségi 	hírek 	2.42
+dekoráció 	boríték 	0.08
+cetcápa 	homár 	2.25
+kukorica 	kukorica 	4.0
+bipoláris zavar 	probléma 	2.25
+sav 	bázis 	2.67
+abszolút nulla 	gőz 	1.42
+Zöld forradalom 	festék 	0.0
+operációs rendszer 	mély tanulás 	1.5
+Nemzetközi matematikai olimpiát 	elmélet 	1.0
+El Niño 	egyenlítő 	0.83
+jelvény 	üveg 	0.0
+kastély 	szobrász 	1.0
+légkör 	ózon 	2.58
+pajzs 	kerek pajzs 	3.67
+érme 	fizetés 	1.75
+zab 	terület 	1.17
+szerzetes 	kereszt 	0.33
+ágyúnaszád 	tengerpart 	1.42
+szikla 	enyém 	1.75
+legenda 	erkölcsi 	1.0
+bajnok 	győztes 	3.75
+dobókocka 	kocka 	3.0
+topológia 	szerkezet 	1.83
+kápolna 	kábel 	0.25
+pénzforgalom 	folyó 	0.0
+sorozatgyilkos 	gyilkos 	3.5
+mátrix 	molekula 	0.0
+divat 	stílus 	3.17
+vexillológia 	zászló 	2.33
+Maastrichti Szerződés 	Európa 	2.17
+gejzír 	tavaszi 	3.25
+szacharóz 	szénhidrát 	3.58
+strand 	tengerpart 	3.83
+tőzsde 	tőzsde 	3.25
+hagyomány 	kézművesség 	1.58
+regény 	író 	1.92
+szendvics 	Metró 	1.75
+akusztika 	hang 	2.67
+vívás 	gimnasztika 	2.33
+író 	ajándék 	0.0
+erdei 	Tiger Woods 	0.08
+felhő 	ablak 	0.67
+JPEG 	PDF 	3.08
+rendező 	főnök 	3.33
+adó 	Brexit 	1.17
+beporzás 	porzószál 	2.42
+videojáték 	pc játék 	3.33
+kezelés 	sebészeti beavatkozás 	2.33
+hántolatlan 	burgonya 	2.67
+jegyzetelés 	feladat 	1.83
+róka 	vérsejt 	0.33
+nátrium-klorid 	só 	3.92
+jövedelem 	életminőség 	2.17
+akarat 	szándék 	3.5
+iránytű 	elefánt 	0.17
+folytatás 	kamera 	1.0
+film 	film 	3.92
+őrmester 	pisztoly 	1.75
+malom 	mag 	0.75
+jégkrém 	reggeli 	1.17
+kulcs 	zár 	2.33
+mobiltelefon 	telefon 	3.92
+óvoda 	iskola előtti 	3.75
+nyugati világ 	nyugati Únió 	0.42
+palánta 	levél növényen 	2.25
+eső 	jégeső 	3.08
+boldogság 	szomorúság 	2.33
+selyemhernyó 	hernyó 	3.33
+szörfözés 	Vízisport 	3.0
+autó 	kamion 	3.17
+étel 	program 	0.25
+képregény 	képregény 	3.42
+kígyó 	gyík 	3.08
+ananász 	okostelefon 	0.0
+tapéta 	háttér 	3.42
+Celsius 	Microsoft 	0.08
+kombájn 	cukornád 	0.75
+Farmer 	nő 	0.75
+mátrix 	vektor 	2.83
+szén-dioxid 	CO2 	4.0
+távolsági busz 	játékos 	2.5
+kő 	faipari 	2.33
+töltő 	korong 	1.08
+kézirat 	cikk 	3.5
+Gmail 	Jehu 	2.42
+kondenzátor 	dióda 	3.17
+korrupció 	csalás 	3.17
+Coca-cola 	Koksz 	3.92
+Plató 	Arisztotelész 	3.17
+Hidegháború 	szovjet Únió 	2.58
+szórófej 	folyadék 	2.0
+fonológia 	képernyő 	0.0
+Zara 	bokavédő 	1.67
+futball 	futball 	4.0
+csíra 	kórokozó 	3.92
+köztársaság 	herceg 	1.17
+labda 	szféra 	3.0
+Mozart 	Csillagok háborúja 	0.0
+maszk 	buli 	1.33
+Grand Theft Auto 	GTA 	4.0
+országút 	út 	3.42
+láncreakció 	termodinamika 	2.0
+ábra 	hólyag 	0.0
+antropológia 	régészet 	2.92
+Dell 	Szurdok 	0.0
+gyümölcslé 	kanál 	0.25
+Pfizer 	drog 	2.5
+kamion 	csomag 	0.67
+receptor 	fehérjemolekula 	2.75
+Google Drive 	sofőr 	0.0
+milliárdos 	hajléktalan 	1.67
+epizód 	fejezet 	2.83
+végtelenség 	nulla 	2.33
+szolgáló 	rabszolga 	3.42
+utótag 	rögzítse 	3.33
+globális felmelegedés 	hő 	2.42
+növekedési hormon 	szomatotropin 	3.92
+ég 	álom 	0.83
+vételi árfolyam 	London 	0.42
+trágya 	növekedés 	1.67
+kettőskereszt 	téma 	2.5
+Orion 	csillagkép 	3.17
+Nietzsche 	Chelsea 	0.17
+kölcsönös tisztelet 	verseny 	1.5
+ág 	kar 	3.0
+áldozat 	telefon 	0.08
+szórás 	felhalmozódás 	0.5
+lavina 	hó 	2.08
+tanár 	diák 	2.0
+marha 	joghurt 	1.5
+szexizmus 	nemi megkülönböztetés 	3.92
+Déli-sark 	tánc 	0.0
+ügyész 	jogász 	3.33
+ütő 	labda 	2.5
+banki kölcsön 	adósság 	3.25
+perspektíva 	távolság 	1.58
+Federer 	Dylan 	0.5
+jogász 	Képtár 	0.33
+várható élettartam 	statisztikai mérőszám 	2.67
+sejt membrán 	provírus 	1.83
+Európai Únió 	Moszkva 	2.0
+világ 	Ázsia 	2.17
+Festék 	Photoshop 	3.17
+szenátus 	alkotmány 	1.83
+petrezselyem 	muffin 	1.0
+ész 	agy 	3.83
+Mercedes 	Opel 	3.17
+kalapács 	fogak 	0.0
+reneszánsz 	Megújulás 	4.0
+szoknya 	néz 	1.0
+opera 	mozi 	2.75
+tanár 	oktató 	3.83
+Nap 	kábel 	0.08
+recesszió 	GDP 	2.0
+Caesar 	Julius Caesar 	3.92
+türelmes 	ülés 	0.67
+viselkedésmód 	terápia 	2.17
+császár 	alkotmány 	1.25
+matematikus 	előadás 	0.08
+entrópia 	információ 	1.75
+rózsavíz 	rózsaolaj 	3.17
+citrusfélék 	grapefruit 	3.5
+Viktória királynő 	Anglia 	1.75
+olimpiai játékok 	szellem 	0.83
+püspök 	muszlim 	1.67
+Férfi 	gyanúsított 	1.0
+meteorit 	föld 	1.83
+szimbólum 	jel 	3.42
+antropológia 	New York 	0.08
+napnyugta 	asztal 	0.0
+város 	város 	3.75
+dzseki 	ásványvíz 	0.0
+természet 	növényvilág 	3.0
+alprogram 	fordítóprogram 	2.67
+Hamadan 	Róma 	2.58
+esernyő 	fűtés 	0.17
+becsület 	becsülés 	3.25
+jelvény 	méltóság 	0.58
+KFC 	Mcdonald's 	3.17
+joystick 	radar 	0.67
+basmati 	Jázmin rizs 	3.58
+érem 	edzőcipő 	0.42
+törvény 	úszómedence 	0.08
+forrás 	doboz 	0.0
+színház 	akkumulátor 	0.0
+növényvilág 	böngésző 	0.0
+ing 	kardigán 	3.25
+vers 	ritmus 	1.42
+próféta 	pap 	2.58
+Oscar 	stádium 	0.08
+backgammon 	Megy 	3.25
+pillangó 	rózsa 	1.25
+kerítés 	ugrálás 	1.58
+nihilizmus 	film 	0.17
+kisbolygó 	csillag 	2.25
+lázadás 	rajz 	0.08
+fehérnemű 	test 	1.25
+Boeing 	repülőgép 	2.83
+kámea 	teljesítmény 	2.42
+szemeszter 	kifejezés 	3.83
+narancssárga 	citrusfélék 	3.0
+gleccser 	globális felmelegedés 	1.58
+alagút 	pálya 	2.0

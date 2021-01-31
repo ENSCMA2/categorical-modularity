@@ -1,0 +1,500 @@
+Joule 	avaruusalus 	0.58
+Luvattu maa 	Baku 	0.42
+auto 	polkupyörä 	2.83
+polyhedron 	näyttelijä 	0.0
+multippeliskleroosi 	NEITI 	3.92
+vika 	järjestelmään 	0.58
+ase 	kypärä 	1.83
+käsikirjoittaja 	televisio 	1.67
+Yhdistyneet kansakunnat 	Ban Ki-moon 	2.5
+Si-o-seh pol 	Matemaattinen silta 	3.0
+basilika 	mosaiikki 	1.5
+vesiväri maalaus 	harjata 	2.0
+demokratia 	monarkia 	2.67
+Gauss 	tiedemies 	3.0
+tuberkuloosi 	LED 	0.0
+itse ajava auto 	autonominen auto 	4.0
+maailmanloppu 	antaa potkut 	1.25
+nopeus 	lähettää 	0.25
+Peli asema 	Wii 	3.25
+kannettava tietokone 	muistikirja 	4.0
+Harry Potter 	velho 	3.0
+lumilauta 	hiihto 	3.17
+osoitin 	dia 	1.33
+sensori 	jäähdytin 	1.25
+osuma 	runko 	0.42
+teoria 	hypoteesi 	3.83
+Wall Street 	rahoitusmarkkinoilla 	2.92
+Darwin 	evoluutio 	2.58
+näyttelijä 	näyttelijä 	3.42
+elokuva 	teatteri 	2.25
+kansallis hymni 	isänmaallisuus 	2.42
+-näyttö 	monitori 	3.92
+meijeri 	hunaja 	0.83
+Mount Everest 	Chomolungma 	3.92
+köydenveto 	Käärmeitä ja tikapuita 	2.33
+torjunta-aine 	tuholainen 	1.83
+poliisi 	poliitikko 	2.17
+neuropsykologia 	parapsykologia 	3.17
+akku 	energiaa 	2.83
+Legion of Honor 	Paperitavara 	0.0
+Hämähäkkimies 	katu 	0.5
+niemimaalla 	saari 	3.0
+päiväntasaaja 	Ecuador 	1.17
+kartoittaa 	kaavio 	3.83
+simulointi 	robotiikka 	1.42
+Nike 	Adidas 	3.17
+yhteiskunnassa 	kulttuuri 	2.67
+strategiapeli 	strategia 	2.0
+kirkko 	katedraali 	3.58
+kääntäjä 	ulkomaalainen 	1.42
+biotooppi 	biologia 	1.92
+magma 	tulivuori 	2.25
+aivoriihi 	teleskooppi 	0.0
+taso 	pisteet 	2.67
+penniäkään 	tinkiä 	1.42
+poliittinen puolue 	yhdistys 	2.08
+tsunami 	meri 	2.0
+strutsi 	hedelmätarha 	0.42
+kaneli 	karkkia 	1.75
+luuta 	pöly 	1.83
+galaksi 	tähtitieteilijä 	1.42
+mehu 	pirtelö 	3.17
+ikkuna sokea 	verho 	3.25
+rikollinen 	rikoksentekijä 	3.5
+haimasyöpä 	kemoterapia 	1.83
+menneisyydessä 	ennakkotapaus 	2.75
+Yhdistyneet kansakunnat 	Euroopan parlamentti 	2.75
+laulu 	esiintyjä 	1.83
+ase 	muistikirja 	0.0
+asetyylikoliini 	iiris 	0.58
+aakkoset 	kynä 	0.58
+kertosäe 	laulaja 	2.67
+puu 	viltti 	0.5
+sotilas 	rauhaa 	1.25
+Englanti 	amerikkalainen 	3.33
+lisko 	krokotiili 	3.25
+raha 	Käteinen raha 	3.42
+Paavali Mustekala 	mustekala 	3.5
+kalenteri 	loma- 	2.08
+pohja 	kemiallinen aine 	3.0
+hallitus 	lisko 	0.0
+JPY 	rahanpesu 	1.58
+DeepMind 	Google DeepMind 	3.92
+shakki 	tarkistaa 	1.67
+sonetti 	kauneus 	1.33
+työntekijä 	toimisto 	1.75
+valuutta 	vaihto 	1.67
+polyesteri 	puuvilla 	3.08
+tuomioistuin 	oikeudenmukaisuus 	2.5
+häntä 	takaosa 	3.25
+onnettomuus 	kirja 	0.0
+squall 	tuuli 	2.75
+piano 	harmonia 	1.58
+sulttaani 	ministeriö 	1.5
+autiomaa 	dyyni 	2.42
+kertolasku 	jako 	2.67
+virus 	verta 	1.58
+jääkausi 	perussääntö 	0.0
+miekka 	ympäristössä 	0.0
+peruskoulu 	kynä 	1.5
+kriketti 	tukija 	1.67
+veistos 	patsas 	3.83
+nettiselain 	Mozilla Firefox 	3.58
+Foxterrieri 	Canon 	0.0
+HSBC 	Iso-Britannia 	1.67
+raamattu 	Evankeliumi 	3.08
+pukeutua 	tanssi 	1.0
+taulukko 	lista 	3.92
+solu 	lukita 	3.5
+essee 	kotitehtävät 	2.5
+tietokone 	kone 	3.33
+panda 	jääkarhu 	3.25
+neuroosi 	mielessä 	1.75
+kampanja 	apina 	0.0
+Faradayn vakio 	reppu 	0.0
+palatsi 	pilvenpiirtäjä 	2.33
+helikopteri 	kone 	3.0
+Cambridgen yliopisto 	Oxfordin yliopisto 	3.25
+lippu 	napa 	1.42
+ikkuna 	katto 	2.33
+korttipeli 	frisbee 	2.5
+haittaohjelma 	mato 	3.42
+planeetalla 	tähti 	2.58
+juoksija 	urheilija 	3.42
+kaliiperi 	sateenvarjo 	0.0
+WiFi 	WikiLeaks 	0.5
+kuivuus 	vettä 	2.0
+lentokenttä 	pala 	0.08
+orkesteri 	yhtye 	3.42
+mojito 	mohito 	4.0
+opetussuunnitelma 	koe 	2.42
+lause 	teoria 	2.42
+yo-yo 	lelu 	3.0
+lumimyrsky 	sade 	2.58
+historioitsija 	historiografi 	3.58
+Siemens 	sähköjuna 	1.75
+vuosisadalla 	vuosi 	2.83
+metalliseos 	teräs 	3.5
+henkikirjoittaja 	tuomari 	3.58
+kaaos 	luokassa 	0.17
+etäopetus 	Internet 	1.75
+hiekka 	jalka 	0.42
+IMF 	Deutsche Bank 	2.83
+Huoltaja 	Ajat 	3.17
+silkkiäistoukkien 	Silkkitie 	0.58
+vapaus 	keidas 	0.58
+sytoplasma 	numero 	0.67
+protestantti 	kristillinen 	3.5
+Leonardo da Vinci 	Viimeinen ehtoollinen 	2.33
+kartta 	neliö- 	1.0
+parlamentti 	kongressi 	3.5
+varainhankinta 	kehitystä 	1.17
+patologia 	hematologia 	3.08
+laaksoon 	masennus 	2.0
+teleskooppi 	tuoli 	0.25
+hevimetalli 	vaiheessa 	1.42
+globalismi 	Visa 	1.5
+lepakko 	vampyyri 	2.33
+sijainen 	upseeri 	2.83
+sähköä 	tapauksessa 	0.42
+ulkomaalainen 	ulkomaalainen 	3.67
+-painiketta 	ompelukone 	1.42
+velho 	kaapeli 	0.0
+filosofi 	kilpa- 	0.0
+popcorn 	elokuva 	1.5
+maatalous 	tehdas 	2.25
+runoilija 	toimittaja 	2.33
+sää 	Aalto 	0.83
+sivilisaatio 	elämäntapa 	1.5
+lumi 	jäätä 	2.75
+Toinen maailmansota 	Beethoven 	0.08
+emolevy 	emolevy 	4.0
+klubi 	merkki 	0.33
+Aleksanteri Suuri 	valloittaja 	2.92
+sovellus 	galaksi 	0.42
+pilvilaskenta 	sade 	0.0
+televisio 	näyttelijä 	1.58
+delta 	meri 	2.42
+lanka 	lanka 	3.92
+suojatie 	henkilö 	1.42
+proteiinia 	kahva 	0.0
+U2 	Ronaldo 	0.42
+Omena 	iPhone 	2.58
+piparminttu 	kumia 	1.83
+juliste 	paperi 	2.83
+UNICEF 	juuri 	0.0
+muukalaisviha 	rasismi 	3.42
+Woody Allen 	linssi 	0.33
+lamppu 	genie 	2.08
+laivasto 	saari 	0.92
+seinä 	linna 	2.0
+dinosaurus 	norsu 	2.33
+kellotorni 	kivi 	0.67
+Lähi-itä 	Eufrat 	1.5
+niitty 	nurmi 	3.58
+kitara 	viulu 	3.17
+diplomatia 	neuvottelut 	2.67
+painovoima 	meteori 	0.75
+Älykkyysosamäärä 	Mensa 	1.83
+Union Jack 	lippu 	3.17
+maanjäristys 	vapina 	3.92
+omaisuus 	varastossa 	2.75
+heprealainen 	Jerusalem 	1.75
+pilvinen 	ennuste 	1.92
+sanakirja 	tietosanakirja 	2.83
+Minttu 	museo 	1.0
+tuoli 	jakkara 	3.08
+Espanja 	kosteutta 	0.0
+voi 	pullo 	3.5
+lentää 	muurahainen 	2.92
+myytti 	satiiri 	1.92
+kaupungin keskusta 	bussi 	0.75
+häntä 	Boeing 747-200 	1.92
+taidetta 	taiteilija 	2.33
+Nato 	liittouma 	3.0
+kuningas 	viivotin 	3.67
+rytmi 	kadenssi 	3.58
+Alexander Fleming 	Penisilliini 	2.5
+huilu 	musiikkia 	2.08
+harmaa haikara 	järvi 	1.33
+viskositeetti 	roiskua 	1.92
+laitteisto 	tapauksessa 	1.67
+rengas 	sitoumus 	1.25
+Latina 	Saksan kieli 	2.92
+työväenluokka 	tehdas 	1.75
+Shakespeare 	Dickens 	3.0
+paperiraha 	pappi 	0.0
+työkalu 	Job 	1.08
+kääpiösika 	suidae 	3.42
+äänioikeus 	poistua 	0.08
+tähti 	kirkkaus 	1.58
+taimen 	kitara 	0.0
+dollari 	miljonääri 	1.75
+numero 	määrä 	3.92
+myrsky 	viltti 	0.42
+Obama 	Clinton 	3.08
+sivuhahmo 	elokuva 	1.67
+Juventus 	Bayern München 	3.0
+ilmastonmuutos 	saostus 	1.58
+Tekoäly 	akku 	0.42
+mestariteos 	Mona Lisa 	2.67
+rikollisuus 	hyökkäys 	2.75
+kruunajaiset 	vettä 	0.0
+laulaja 	henkilökunta 	1.75
+Pudotuspeli 	koripallo 	1.67
+armeija 	puolustus 	2.33
+järvi 	pilvi 	0.83
+luostari 	suihku 	0.08
+äidinkieli 	Kieli 	3.17
+satama 	kääre 	0.08
+demoni 	enkeli 	2.67
+salaus 	symboli 	2.33
+kampus 	yliopisto 	2.92
+vapaus 	vapaus 	4.0
+taifuuni 	sykloni 	3.83
+käsikirja 	opaskirja 	3.92
+Ebola 	Ebola-virus 	4.0
+prinsessa 	keksi 	0.08
+kouluttaa 	raitiovaunu 	3.5
+ekosysteemi 	taloudessa 	0.92
+hallitseva kuningatar 	shakkikuningatar 	0.92
+kulta- 	sinkki 	3.0
+kohdistin 	pelimerkkejä 	0.25
+Amazon 	metsä 	3.08
+tennis 	tilastot 	0.58
+Bolzano 	lause 	2.25
+korkeus 	muuntaminen 	0.08
+vene 	puu 	0.25
+valtaistuin 	miekka 	1.0
+puuvilla 	villapaita 	1.83
+kirsikka 	mansikka 	3.0
+islam 	Koraani 	2.5
+Neandertalilainen 	Urheilu 	0.0
+nepotismi 	kuningas 	1.42
+merkki 	henkilö 	2.67
+säiliö 	auto 	2.33
+Elohopea 	Jupiter 	3.17
+keuhkoputkentulehdus 	asetaminofeeni 	1.67
+verta 	runko 	2.0
+islamofobia 	ISIS 	1.92
+virkkaa 	yhtenäinen 	1.17
+Hadoop 	kosketusnäyttö 	0.67
+fossiilinen polttoaine 	fossiilinen 	2.08
+mutantti 	sosiobiologia 	0.75
+sisko 	veli 	2.67
+lyijykynä 	tarina 	1.08
+ekseema 	ihotulehdus 	4.0
+keisari 	kuvernööri 	3.67
+kruunu 	avain 	0.25
+algebra 	operaatio 	1.67
+mäntä 	moottori 	2.33
+apuraha 	opetusta 	2.42
+kirja 	käsikirjoitus 	3.17
+lantana 	snapdragon 	3.0
+musta aukko 	tyhjiö 	2.33
+Persian valtakunta 	Cyrus 	1.83
+Pääkirjoitus 	uutiset 	2.42
+koriste 	kirjekuori 	0.08
+valashai 	hummeri 	2.25
+maissi 	maissi 	4.0
+kaksisuuntainen mielialahäiriö 	ongelma 	2.25
+happo 	pohja 	2.67
+absoluuttinen nolla 	höyry 	1.42
+Vihreä vallankumous 	maali- 	0.0
+käyttöjärjestelmä 	syvä oppiminen 	1.5
+Kansainvälinen matematiikan olympia 	teoria 	1.0
+El Niño 	päiväntasaaja 	0.83
+kunniamerkki 	lasi- 	0.0
+kartano 	kuvanveistäjä 	1.0
+ilmapiiri 	otsoni 	2.58
+kilpi 	kilpi 	3.67
+kolikko 	maksu 	1.75
+kaura 	ala 	1.17
+munkki 	ylittää 	0.33
+tykkivene 	rannikko 	1.42
+rock 	Kaivos 	1.75
+legenda 	moraalinen 	1.0
+mestari 	voittaja 	3.75
+noppaa 	kuutio 	3.0
+topologia 	rakenne 	1.83
+kappeli 	kaapeli 	0.25
+kassavirta 	joki 	0.0
+sarjamurhaaja 	murhaaja 	3.5
+matriisi 	molekyyli 	0.0
+muoti 	tyyli 	3.17
+veksillologia 	lippu 	2.33
+Maastrichtin sopimus 	Euroopassa 	2.17
+geysir 	kevät 	3.25
+sakkaroosi 	hiilihydraatti 	3.58
+ranta 	rannikko 	3.83
+pörssi 	pörssi 	3.25
+perinne 	käsityö 	1.58
+romaani 	kirjailija 	1.92
+voileipä 	Metro 	1.75
+akustiikka 	ääni 	2.67
+miekkailu 	voimistelu 	2.33
+kirjailija 	lahja 	0.0
+metsämaa 	Tiger Woods 	0.08
+pilvi 	ikkuna 	0.67
+JPEG 	PDF 	3.08
+johtaja 	pomo 	3.33
+verottaa 	Brexit 	1.17
+pölytys 	hede 	2.42
+videopeli 	PC-peli 	3.33
+hoitoon 	kirurginen toimenpide 	2.33
+riisuton 	peruna 	2.67
+muistiinpanojen tekemistä 	tehtävä 	1.83
+kettu 	verisolu 	0.33
+natriumkloridia 	suola 	3.92
+tulo 	elämänlaatu 	2.17
+tahtoa 	tarkoitus 	3.5
+kompassi 	norsu 	0.17
+jatko 	kamera 	1.0
+elokuva 	elokuva 	3.92
+kersantti 	ase 	1.75
+Mill 	siemenet 	0.75
+jäätelö 	aamiainen 	1.17
+avain 	Lukko 	2.33
+kännykkä 	puhelin 	3.92
+päiväkoti 	esikoulu- 	3.75
+Läntinen maailma 	Western Union 	0.42
+taimi 	puun lehti 	2.25
+sade 	raekuurot 	3.08
+onnea 	surullisuus 	2.33
+silkkiäistoukkien 	toukka 	3.33
+surffausta 	vesiurheilu 	3.0
+auto 	kuorma-auto 	3.17
+ruokaa 	ohjelmoida 	0.25
+graafinen novelli 	sarjakuvakirja 	3.42
+käärme 	lisko 	3.08
+ananas 	älypuhelin 	0.0
+taustakuva 	tausta 	3.42
+Celsius 	Microsoft 	0.08
+yhdistää 	sokeriruoko 	0.75
+farkut 	nainen 	0.75
+matriisi 	vektori 	2.83
+hiilidioksidi 	CO2 	4.0
+valmentaja 	pelaaja 	2.5
+kivi 	puu 	2.33
+laturi 	levy 	1.08
+käsikirjoitus 	artikla 	3.5
+Gmail 	Yahoo 	2.42
+kondensaattori 	diodi 	3.17
+korruptio 	petos 	3.17
+Coca-Cola 	Koksi 	3.92
+Platon 	Aristoteles 	3.17
+Kylmä sota 	Neuvostoliitto 	2.58
+suutin 	nestettä 	2.0
+fonologia 	-näyttö 	0.0
+Zara 	leggingsit 	1.67
+jalkapallo 	jalkapallo 	4.0
+alkio 	taudinaiheuttaja 	3.92
+tasavalta 	herttua 	1.17
+pallo 	pallo 	3.0
+Mozart 	Tähtien sota 	0.0
+naamio 	juhla 	1.33
+Grand Theft Auto 	GTA 	4.0
+valtatie 	tiellä 	3.42
+ketjureaktio 	termodynamiikka 	2.0
+kuva 	läpipainopakkaus 	0.0
+antropologia 	arkeologia 	2.92
+Dell 	Dingle 	0.0
+mehu 	lusikka 	0.25
+Pfizer 	huume 	2.5
+kuorma-auto 	paketti 	0.67
+reseptori 	proteiinimolekyyli 	2.75
+Google asema 	kuljettaja 	0.0
+miljardööri 	kodittomia 	1.67
+jakso 	luku 	2.83
+ääretön 	nolla 	2.33
+palvelija 	orja 	3.42
+pääte 	kiinnittää 	3.33
+ilmaston lämpeneminen 	lämpöä 	2.42
+kasvuhormoni 	somatotropiini 	3.92
+taivas 	unelma 	0.83
+Tarjoushinta 	Lontoo 	0.42
+lannoite 	kasvu 	1.67
+Hashtag 	aihe 	2.5
+Orion 	tähdistö 	3.17
+Nietzsche 	Chelsea 	0.17
+molemminpuolinen kunnioitus 	kilpailu 	1.5
+haara 	käsivarsi 	3.0
+uhri 	puhelin 	0.08
+keskihajonta 	kertyminen 	0.5
+lumivyöry 	lumi 	2.08
+opettaja 	opiskelija- 	2.0
+karjaa 	jogurtti 	1.5
+seksismi 	sukupuolisyrjintä 	3.92
+etelänapa 	tanssi 	0.0
+syyttäjä 	lakimies 	3.33
+maila 	pallo 	2.5
+pankkilaina 	velka 	3.25
+näkökulmasta 	etäisyys 	1.58
+Federer 	Dylan 	0.5
+lakimies 	galleria 	0.33
+elinajanodote 	tilastollinen mitta 	2.67
+solukalvo 	provirus 	1.83
+Euroopan unioni 	Moskova 	2.0
+maailman- 	Aasia 	2.17
+Maali 	Photoshop 	3.17
+senaatti 	perustuslaki 	1.83
+persilja 	muffinssi 	1.0
+mielessä 	aivot 	3.83
+Mercedes 	Opel 	3.17
+vasara 	hampaat 	0.0
+renessanssi 	Uudelleensyntyminen 	4.0
+hame 	katsella 	1.0
+ooppera 	elokuva 	2.75
+opettaja 	ohjaaja 	3.83
+Aurinko 	kaapeli 	0.08
+lama 	BKT 	2.0
+Caesar 	Julius Caesar 	3.92
+potilas 	istunto 	0.67
+käyttäytyminen 	hoito 	2.17
+keisari 	perustuslaki 	1.25
+matemaatikko 	näytä 	0.08
+haje 	tiedot 	1.75
+ruusuvesi 	ruusuöljy 	3.17
+sitrushedelmä 	greippi 	3.5
+Kuningatar Victoria 	Englanti 	1.75
+olympialaiset 	henki 	0.83
+piispa 	muslimi 	1.67
+mies 	epäilty 	1.0
+meteoriitti 	Maa 	1.83
+symboli 	merkki 	3.42
+antropologia 	New York 	0.08
+auringonlasku 	pöytä 	0.0
+kaupunki 	kaupunki 	3.75
+takki 	kivennäisvesi 	0.0
+luonto 	kasvisto 	3.0
+alirutiini 	kääntäjä 	2.67
+Hamadan 	Rooma 	2.58
+sateenvarjo 	lämmitin 	0.17
+kunnia 	arvostus 	3.25
+arvomerkki 	ihmisarvoa 	0.58
+KFC 	McDonald's 	3.17
+ohjaussauva 	tutka 	0.67
+basmati 	Jasmiini riisi 	3.58
+mitali 	kouluttajat 	0.42
+laki 	uima-allas 	0.08
+lähde 	laatikko 	0.0
+teatteri 	akku 	0.0
+kasvisto 	nettiselain 	0.0
+paita 	neuletakki 	3.25
+runo 	rytmi 	1.42
+profeetta 	pappi 	2.58
+Oscarit 	stadionilla 	0.08
+backgammon 	Mennä 	3.25
+perhonen 	ruusu- 	1.25
+aita 	hyppääminen 	1.58
+nihilismi 	elokuva 	0.17
+asteroidi 	tähti 	2.25
+mellakka 	piirustus 	0.08
+alusvaatteet 	runko 	1.25
+Boeing 	kone 	2.83
+cameo 	esitys 	2.42
+lukukausi 	termi 	3.83
+oranssi 	sitrushedelmät 	3.0
+jäätikkö 	ilmaston lämpeneminen 	1.58
+tunneli 	polku 	2.0

@@ -1,0 +1,500 @@
+Joule 	romfartøy 	0.58
+Lovet land 	Baku 	0.42
+bil 	sykkel 	2.83
+polyeder 	skuespiller 	0.0
+multippel sklerose 	MS 	3.92
+feil 	system 	0.58
+våpen 	hjelm 	1.83
+manusforfatter 	fjernsyn 	1.67
+forente nasjoner 	Ban Ki-moon 	2.5
+Si-o-seh pol 	Matematisk bro 	3.0
+basilikaen 	mosaikk 	1.5
+akvarellmaling 	børste 	2.0
+demokrati 	kongerike 	2.67
+Gauss 	forsker 	3.0
+tuberkulose 	LED 	0.0
+selvkjørende bil 	autonom bil 	4.0
+verdens undergang 	Brann 	1.25
+hastighet 	post 	0.25
+PlayStation 	Wii 	3.25
+laptop 	notisbok 	4.0
+Harry Potter 	veiviseren 	3.0
+snowboard 	stå på ski 	3.17
+pekeren 	lysbilde 	1.33
+sensor 	radiator 	1.25
+truffet 	ramme 	0.42
+teori 	hypotese 	3.83
+Wall Street 	finansmarkedet 	2.92
+Darwin 	utvikling 	2.58
+skuespiller 	skuespillerinne 	3.42
+film 	teater 	2.25
+nasjonalsang 	patriotisme 	2.42
+skjerm 	Observere 	3.92
+meieri 	honning 	0.83
+Mount Everest 	Chomolungma 	3.92
+tautrekking 	Slanger og stiger 	2.33
+plantevernmidler 	skadedyr 	1.83
+politimann 	politiker 	2.17
+nevropsykologi 	parapsykologi 	3.17
+batteri 	energi 	2.83
+Legion of Honor 	skrivesaker 	0.0
+Edderkopp mann 	gate 	0.5
+halvøy 	øy 	3.0
+ekvator 	Ecuador 	1.17
+diagram 	kurve 	3.83
+simulering 	robotikk 	1.42
+Nike 	Adidas 	3.17
+samfunn 	kultur 	2.67
+strategispill 	strategi 	2.0
+kirke 	katedral 	3.58
+oversetter 	utlending 	1.42
+biotop 	biologi 	1.92
+magma 	vulkan 	2.25
+idédugnad 	teleskop 	0.0
+nivå 	score 	2.67
+øre 	handel 	1.42
+politisk parti 	assosiasjon 	2.08
+flodbølge 	hav 	2.0
+struts 	frukthage 	0.42
+kanel 	sukkertøy 	1.75
+kost 	støv 	1.83
+galakse 	astronom 	1.42
+juice 	milkshake 	3.17
+vindusblind 	gardin 	3.25
+forbryter 	lovbryteren 	3.5
+bukspyttkjertelkreft 	cellegift 	1.83
+forbi 	forutgående 	2.75
+forente nasjoner 	Europaparlamentet 	2.75
+sang 	utøver 	1.83
+våpen 	notisbok 	0.0
+acetylkolin 	iris 	0.58
+alfabet 	penn 	0.58
+kor 	sanger 	2.67
+tre 	teppe 	0.5
+soldat 	fred 	1.25
+Engelsk 	amerikansk 	3.33
+øgle 	krokodille 	3.25
+penger 	penger 	3.42
+Paul blekkspruten 	blekksprut 	3.5
+kalender 	ferie 	2.08
+utgangspunkt 	kjemisk stoff 	3.0
+Myndighetene 	øgle 	0.0
+JPY 	hvitvasking 	1.58
+DeepMind 	Google DeepMind 	3.92
+sjakk 	kryss av 	1.67
+sonett 	skjønnhet 	1.33
+arbeider 	kontor 	1.75
+valuta 	Utveksling 	1.67
+polyester 	bomull 	3.08
+nemnda 	Rettferdighet 	2.5
+hale 	bak 	3.25
+ulykke 	bok 	0.0
+skvaller 	vind 	2.75
+piano 	harmoni 	1.58
+sultan 	departement 	1.5
+ørken 	sanddyne 	2.42
+multiplikasjon 	inndeling 	2.67
+virus 	blod 	1.58
+istid 	vedtekt 	0.0
+sverd 	miljø 	0.0
+barneskole 	penn 	1.5
+siriss 	tilhenger 	1.67
+skulptur 	statue 	3.83
+nettleser 	Mozilla Firefox 	3.58
+Fox Terrier 	Canon 	0.0
+HSBC 	Storbritannia 	1.67
+bibel 	Evangelium 	3.08
+kjole 	danse 	1.0
+array 	liste 	3.92
+celle 	låse 	3.5
+essay 	hjemmelekser 	2.5
+datamaskin 	maskin 	3.33
+panda 	isbjørn 	3.25
+nevrose 	tankene 	1.75
+kampanje 	ape 	0.0
+Faraday konstant 	ryggsekk 	0.0
+slott 	skyskraper 	2.33
+helikopter 	flyet 	3.0
+University of Cambridge 	Oxford University 	3.25
+flagg 	stang 	1.42
+vindu 	tak 	2.33
+kortspill 	frisbee 	2.5
+skadevare 	mark 	3.42
+planet 	stjerne 	2.58
+løper 	atlet 	3.42
+kaliber 	paraply 	0.0
+WiFi 	WikiLeaks 	0.5
+tørke 	vann 	2.0
+flyplassen 	stykke 	0.08
+orkester 	bånd 	3.42
+mojito 	mohito 	4.0
+pensum 	eksamen 	2.42
+setning 	teori 	2.42
+jojo 	leketøy 	3.0
+snøstorm 	regn 	2.58
+historiker 	historiograf 	3.58
+Siemens 	elektrisk tog 	1.75
+århundre 	år 	2.83
+legering 	stål 	3.5
+dommer 	dømme 	3.58
+kaos 	klasse 	0.17
+fjernundervisning 	internett 	1.75
+sand 	fot 	0.42
+IMF 	den tyske bank 	2.83
+Verge 	Tider 	3.17
+silkeorm 	Silkeveien 	0.58
+frihet 	oase 	0.58
+cytoplasma 	siffer 	0.67
+protestant 	Kristen 	3.5
+Leonardo da Vinci 	Det siste måltid 	2.33
+kart 	torget 	1.0
+Stortinget 	kongress 	3.5
+pengeinnsamling 	utvikling 	1.17
+patologi 	hematologi 	3.08
+dal 	depresjon 	2.0
+teleskop 	stol 	0.25
+tungt metall 	scene 	1.42
+globalisme 	visum 	1.5
+flaggermus 	vampyr 	2.33
+nestleder 	offiser 	2.83
+elektrisitet 	sak 	0.42
+romvesen 	outlander 	3.67
+knapp 	symaskin 	1.42
+veiviseren 	kabel 	0.0
+filosof 	Racing 	0.0
+popcorn 	kino 	1.5
+jordbruk 	anlegg 	2.25
+dikter 	journalist 	2.33
+vær 	bølge 	0.83
+sivilisasjon 	livsstil 	1.5
+snø 	is 	2.75
+Andre verdenskrig 	Beethoven 	0.08
+hovedkort 	hovedkort 	4.0
+klubb 	merke 	0.33
+Alexander den store 	erobrer 	2.92
+app 	galakse 	0.42
+cloud computing 	regn 	0.0
+fjernsyn 	skuespiller 	1.58
+delta 	hav 	2.42
+garn 	tråd 	3.92
+fotgjengerovergang 	person 	1.42
+protein 	håndtak 	0.0
+U2 	Ronaldo 	0.42
+eple 	iPhone 	2.58
+peppermynte 	tyggegummi 	1.83
+plakat 	papir 	2.83
+UNICEF 	rot 	0.0
+fremmedfrykt 	Rasisme 	3.42
+Woody Allen 	linse 	0.33
+lampe 	genie 	2.08
+marinen 	øy 	0.92
+vegg 	borg 	2.0
+dinosaur 	elefant 	2.33
+klokketårn 	stein 	0.67
+Midtøsten 	Eufrat 	1.5
+eng 	Sletteland 	3.58
+gitar 	fiolin 	3.17
+diplomati 	forhandling 	2.67
+tyngdekraften 	meteor 	0.75
+IQ 	Mensa 	1.83
+Union Jack 	flagg 	3.17
+jordskjelv 	skjelving 	3.92
+ressurs 	lager 	2.75
+Hebraisk 	Jerusalem 	1.75
+overskyet 	prognose 	1.92
+ordbok 	leksikon 	2.83
+mynte 	museum 	1.0
+stol 	krakk 	3.08
+Spansk 	fuktighet 	0.0
+kan 	flaske 	3.5
+fly 	maur 	2.92
+myte 	satire 	1.92
+sentrum 	buss 	0.75
+hale 	Boeing 747-200 	1.92
+kunstverk 	kunstner 	2.33
+NATO 	allianse 	3.0
+konge 	Hersker 	3.67
+rytme 	tråkkfrekvens 	3.58
+Alexander Fleming 	Penicillin 	2.5
+fløyte 	musikk 	2.08
+grå hegre 	innsjø 	1.33
+viskositet 	sprut 	1.92
+maskinvare 	sak 	1.67
+ringe 	engasjement 	1.25
+Latin 	tysk 	2.92
+arbeiderklassen 	anlegg 	1.75
+Shakespeare 	Dickens 	3.0
+papirpenger 	prest 	0.0
+verktøy 	jobb 	1.08
+pygmy hog 	suidae 	3.42
+stemmerett 	exit 	0.08
+stjerne 	lysstyrke 	1.58
+ørret 	gitar 	0.0
+dollar 	millionær 	1.75
+siffer 	Antall 	3.92
+kuling 	teppe 	0.42
+Obama 	Clinton 	3.08
+birolle 	film 	1.67
+Juventus 	Bayern München 	3.0
+Klima forandringer 	nedbør 	1.58
+AI 	batteri 	0.42
+mesterverk 	Mona Lisa 	2.67
+forbrytelse 	angrep 	2.75
+kroning 	vann 	0.0
+vokalist 	personale 	1.75
+sluttspill 	basketball 	1.67
+armerte styrker 	forsvar 	2.33
+innsjø 	Sky 	0.83
+kloster 	dusj 	0.08
+morsmål 	Språk 	3.17
+havn 	innpakning 	0.08
+demon 	engel 	2.67
+kryptogram 	symbol 	2.33
+campus 	universitet 	2.92
+frihet 	frihet 	4.0
+tyfon 	syklon 	3.83
+håndbok 	guidebok 	3.92
+Ebola 	Ebolavirus 	4.0
+prinsesse 	kjeks 	0.08
+tog 	trikk 	3.5
+økosystem 	økonomi 	0.92
+dronning regnant 	sjakkdronning 	0.92
+gull 	sink 	3.0
+markøren 	chips 	0.25
+Amazon 	skog 	3.08
+tennis 	statistikk 	0.58
+Bolzano 	setning 	2.25
+høyde 	omdannelse 	0.08
+båt 	tre 	0.25
+trone 	sverd 	1.0
+bomull 	genser 	1.83
+kirsebær 	jordbær 	3.0
+islam 	Koranen 	2.5
+Neandertaleren 	sport 	0.0
+nepotisme 	konge 	1.42
+karakter 	person 	2.67
+tank 	bil 	2.33
+Kvikksølv 	Jupiter 	3.17
+bronkitt 	paracetamol 	1.67
+blod 	kropp 	2.0
+islamofobi 	ISIS 	1.92
+hekle 	uniform 	1.17
+Hadoop 	touch-skjerm 	0.67
+fossilt brensel 	fossil 	2.08
+mutant 	sosiobiologi 	0.75
+søster 	bror 	2.67
+blyant 	historie 	1.08
+eksem 	dermatitt 	4.0
+keiser 	guvernør 	3.67
+krone 	nøkkel 	0.25
+algebra 	operasjon 	1.67
+stempel 	motor 	2.33
+stipend 	undervisning 	2.42
+bok 	manuskript 	3.17
+lantana 	snapdragon 	3.0
+svart hull 	vakuum 	2.33
+Persiske imperiet 	Cyrus 	1.83
+redaksjonell 	nyheter 	2.42
+dekorasjon 	konvolutt 	0.08
+hval hai 	hummer 	2.25
+korn 	mais 	4.0
+bipolar lidelse 	problem 	2.25
+syre 	utgangspunkt 	2.67
+absolutt null 	damp 	1.42
+Grønn revolusjon 	maling 	0.0
+operativsystem 	dyp læring 	1.5
+Internasjonal matematisk olympiade 	teori 	1.0
+El Niño 	ekvator 	0.83
+skilt 	glass 	0.0
+Herregård 	skulptør 	1.0
+atmosfære 	ozon 	2.58
+skjold 	buckler 	3.67
+mynt 	innbetaling 	1.75
+havre 	felt 	1.17
+munk 	kryss 	0.33
+kanonbåt 	kyst 	1.42
+stein 	min 	1.75
+legende 	moralsk 	1.0
+champion 	vinner 	3.75
+terning 	terning 	3.0
+topologi 	struktur 	1.83
+kapell 	kabel 	0.25
+kontantstrøm 	elv 	0.0
+seriemorder 	morder 	3.5
+matrise 	molekyl 	0.0
+mote 	stil 	3.17
+vexillologi 	flagg 	2.33
+Maastricht-traktaten 	Europa 	2.17
+geysir 	vår 	3.25
+sukrose 	karbohydrat 	3.58
+Strand 	kyst 	3.83
+aksjemarked 	Børs 	3.25
+tradisjon 	håndverk 	1.58
+roman 	forfatter 	1.92
+smørbrød 	T-bane 	1.75
+akustikk 	lyd 	2.67
+gjerder 	gymnastikk 	2.33
+forfatter 	gave 	0.0
+skog 	Tiger skog 	0.08
+Sky 	vindu 	0.67
+JPEG 	PDF 	3.08
+regissør 	sjef 	3.33
+avgift 	Brexit 	1.17
+pollinering 	stamen 	2.42
+video spill 	pc-spill 	3.33
+behandling 	kirurgisk operasjon 	2.33
+paddy 	potet 	2.67
+ta notater 	oppdrag 	1.83
+rev 	blodcelle 	0.33
+natriumklorid 	salt 	3.92
+inntekt 	livskvalitet 	2.17
+vil 	intensjon 	3.5
+kompass 	elefant 	0.17
+oppfølger 	kamera 	1.0
+film 	film 	3.92
+sersjant 	våpen 	1.75
+mølle 	frø 	0.75
+iskrem 	frokost 	1.17
+nøkkel 	låse 	2.33
+mobiltelefon 	telefon 	3.92
+barnehage 	barnehage 	3.75
+vestlige verden 	Western Union 	0.42
+frøplante 	blad 	2.25
+regn 	hagl 	3.08
+lykke 	tristhet 	2.33
+silkeorm 	larve 	3.33
+surfing 	vannsport 	3.0
+bil 	lastebil 	3.17
+mat 	program 	0.25
+grafisk roman 	tegneserie 	3.42
+slange 	øgle 	3.08
+ananas 	smarttelefon 	0.0
+bakgrunnsbilde 	bakgrunn 	3.42
+Celsius 	Microsoft 	0.08
+kombinere 	sukkerrør 	0.75
+jeans 	kvinne 	0.75
+matrise 	vektor 	2.83
+karbondioksid 	CO2 	4.0
+trener 	spiller 	2.5
+stein 	tre 	2.33
+lader 	disk 	1.08
+manuskript 	artikkel 	3.5
+Gmail 	Yahoo 	2.42
+kondensator 	diode 	3.17
+korrupsjon 	bedrageri 	3.17
+Coca-Cola 	Cola 	3.92
+Platon 	Aristoteles 	3.17
+Kald krig 	Sovjetunionen 	2.58
+dyse 	væske 	2.0
+fonologi 	skjerm 	0.0
+Zara 	leggings 	1.67
+Fotball 	fotball 	4.0
+bakterie 	patogen 	3.92
+republikk 	hertug 	1.17
+ball 	sfære 	3.0
+Mozart 	Stjerne krigen 	0.0
+maske 	parti 	1.33
+Grand Theft Auto 	GTA 	4.0
+hovedvei 	vei 	3.42
+kjedereaksjon 	termodynamikk 	2.0
+illustrasjon 	blemmer 	0.0
+antropologi 	arkeologi 	2.92
+Dell 	Dingle 	0.0
+juice 	skje 	0.25
+Pfizer 	legemiddel 	2.5
+lastebil 	pakke 	0.67
+reseptor 	proteinmolekyl 	2.75
+Google Disk 	sjåfør 	0.0
+milliardær 	hjemløs 	1.67
+episode 	kapittel 	2.83
+evighet 	null 	2.33
+tjener 	slave 	3.42
+suffiks 	feste 	3.33
+global oppvarming 	varme 	2.42
+veksthormon 	somatotropin 	3.92
+himmel 	drøm 	0.83
+budpris 	London 	0.42
+gjødsel 	vekst 	1.67
+emneknagg 	emne 	2.5
+Orion 	konstellasjon 	3.17
+Nietzsche 	Chelsea 	0.17
+gjensidig respekt 	konkurranse 	1.5
+gren 	væpne 	3.0
+offer 	telefonen 	0.08
+standardavvik 	akkumulering 	0.5
+snøskred 	snø 	2.08
+lærer 	student 	2.0
+kveg 	yoghurt 	1.5
+sexisme 	kjønnsdiskriminering 	3.92
+sydpol 	danse 	0.0
+aktor 	advokat 	3.33
+rekkert 	ball 	2.5
+banklån 	gjeld 	3.25
+perspektiv 	avstand 	1.58
+Federer 	Dylan 	0.5
+advokat 	galleri 	0.33
+forventet levealder 	statistisk mål 	2.67
+cellemembran 	provirus 	1.83
+Den Europeiske Union 	Moskva 	2.0
+verden 	Asia 	2.17
+Maling 	Photoshop 	3.17
+senat 	grunnlov 	1.83
+persille 	muffin 	1.0
+tankene 	hjerne 	3.83
+Mercedes 	Opel 	3.17
+hammer 	tenner 	0.0
+Renessanse 	Renascence 	4.0
+skjørt 	se 	1.0
+opera 	kino 	2.75
+lærer 	instruktør 	3.83
+Sol 	kabel 	0.08
+resesjon 	BNP 	2.0
+Caesar 	Julius Cæsar 	3.92
+pasient 	økt 	0.67
+atferd 	terapi 	2.17
+keiser 	grunnlov 	1.25
+matematiker 	vise fram 	0.08
+entropi 	informasjon 	1.75
+Rose vann 	roseolje 	3.17
+sitrusfrukt 	grapefrukt 	3.5
+Dronning Victoria 	England 	1.75
+olympiske leker 	ånd 	0.83
+biskop 	muslim 	1.67
+Mann 	mistenkt 	1.0
+meteoritt 	Jord 	1.83
+symbol 	skilt 	3.42
+antropologi 	New York 	0.08
+solnedgang 	bord 	0.0
+by 	by 	3.75
+jakke 	mineralvann 	0.0
+natur 	flora 	3.0
+subrutine 	kompilator 	2.67
+Hamadan 	Roma 	2.58
+paraply 	varmeapparat 	0.17
+ære 	aktelse 	3.25
+insignier 	verdighet 	0.58
+KFC 	McDonald's 	3.17
+styrespak 	radar 	0.67
+basmati 	Jasminris 	3.58
+medalje 	trenere 	0.42
+lov 	svømmebasseng 	0.08
+kilde 	eske 	0.0
+teater 	batteri 	0.0
+flora 	nettleser 	0.0
+skjorte 	kofte 	3.25
+dikt 	rytme 	1.42
+profet 	prest 	2.58
+Oscar 	stadion 	0.08
+backgammon 	Gå 	3.25
+sommerfugl 	rose 	1.25
+gjerde 	hopping 	1.58
+nihilisme 	film 	0.17
+asteroide 	stjerne 	2.25
+opptøyer 	tegning 	0.08
+undertøy 	kropp 	1.25
+Boeing 	flyet 	2.83
+rolle 	opptreden 	2.42
+semester 	begrep 	3.83
+oransje 	sitrus 	3.0
+breen 	global oppvarming 	1.58
+tunnel 	sti 	2.0

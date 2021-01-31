@@ -45,13 +45,13 @@ parser.add_argument("--test_from_file",
     + " no headers",
     default = "data/en-es.5000-6500.txt")
 parser.add_argument("--target_model_file",
-    help = "name of FastText-compatible model file to load for non-English"
+    help = "name of MUSE-compatible model file to load for non-English"
             + " language, should be a .bin file",
-    default = "models/wiki.es.bin")
+    default = "models/wiki.multi.es.bin")
 parser.add_argument("--english_model_file",
-    help = "name of FastText-compatible model file to load for English"
+    help = "name of MUSE-compatible model file to load for English"
             + " language, should be a .bin file",
-    default = "models/wiki.en.bin")
+    default = "models/wiki.multi.en.bin")
 parser.add_argument("--language",
     help = "name of language that the model/words correspond to, "
     + "will be used to name output files",
@@ -130,54 +130,6 @@ def get_emb(word, src_emb, src_id2word, tgt_emb, tgt_id2word, lang):
     else:
         word_emb = average(embs)
     return word_emb
-
-# get nearest neighbors of a word
-def get_nns(word, src_emb, src_id2word, tgt_emb, tgt_id2word, lang):
-    word2id = {v: k for k, v in src_id2word.items()}
-    tok = word.split()
-    embs = []
-    for i in tok:
-        try:
-            e = src_emb[word2id[i]]
-        except:
-            try:
-                e = src_emb[word2id[stemmer.stem(i)]]
-            except:
-                try:
-                    e = src_emb[word2id[lemmatizer.lemmatize(i)]]
-                except:
-                    try:
-                        e = src_emb[word2id[snowball.stem(i)]]
-                    except:
-                        try:
-                            e = src_emb[word2id[SnowballStemmer(lang).stem(i)]]
-                        except:
-                            e = []
-        if len(list(e)) > 0:
-          embs.append(e)
-    if len(embs) == 0:
-        word_emb = np.array([0] * 300)
-    else:
-        word_emb = average(embs)
-    scores = (tgt_emb / np.linalg.norm(tgt_emb, 2, 1)[:, None]).dot(word_emb / np.linalg.norm(word_emb))
-    k_best = scores.argsort()[-1 * len(scores):][::-1]
-    nns = []
-    for i, idx in enumerate(k_best):
-        nns.append((scores[idx], tgt_id2word[idx]))
-    nn_w = []
-    for s, w in nns:
-        nn_w.append(w)
-
-# get nearest neighbors for all 1 word across all words
-def get_nn_word(word, words, src_emb, src_id2word, tgt_emb, tgt_id2word, lang):
-  tr = []
-  n = get_nns(word, src_emb, src_id2word, tgt_emb, tgt_id2word, lang)
-  for w in words:
-    try:
-      tr.append(n.index(w))
-    except:
-      tr.append(-1)
-  return tr
 
 train_to_file = args.train_to_file
 train_from_file = args.train_from_file

@@ -1,0 +1,500 @@
+Joule 	navă spațială 	0.58
+Teren promis 	Baku 	0.42
+mașină 	bicicletă 	2.83
+poliedru 	actor 	0.0
+scleroză multiplă 	DOMNIȘOARĂ 	3.92
+vina 	sistem 	0.58
+armă 	cască 	1.83
+scenarist 	televiziune 	1.67
+Națiunile Unite 	Ban Ki-moon 	2.5
+Si-o-seh pol 	Podul matematic 	3.0
+bazilică 	mozaic 	1.5
+pictură în acuarelă 	perie 	2.0
+democraţie 	monarhie 	2.67
+Gauss 	om de stiinta 	3.0
+tuberculoză 	LED 	0.0
+autoturism 	mașină autonomă 	4.0
+apocalipsa 	foc 	1.25
+viteză 	post 	0.25
+Play Station 	Wii 	3.25
+laptop 	caiet 	4.0
+Harry Potter 	vrăjitor 	3.0
+snowboard 	schi 	3.17
+indicator 	alunecare 	1.33
+senzor 	radiator 	1.25
+lovit 	cadru 	0.42
+teorie 	ipoteză 	3.83
+Wall Street 	piata financiara 	2.92
+Darwin 	evoluţie 	2.58
+actor 	actriţă 	3.42
+film 	teatru 	2.25
+imn national 	patriotism 	2.42
+ecran 	monitor 	3.92
+lactat 	Miere 	0.83
+muntele Everest 	Chomolungma 	3.92
+remorcher de război 	Serpi si scari 	2.33
+pesticid 	dăunător 	1.83
+polițist 	politician 	2.17
+neuropsihologie 	parapsihologie 	3.17
+baterie 	energie 	2.83
+Legiunea de Onoare 	papetărie 	0.0
+Omul Paianjen 	stradă 	0.5
+peninsulă 	insulă 	3.0
+ecuator 	Ecuador 	1.17
+diagramă 	grafic 	3.83
+simulare 	robotică 	1.42
+Nike 	Adidas 	3.17
+societate 	cultură 	2.67
+joc de strategie 	strategie 	2.0
+biserică 	catedrală 	3.58
+traducător 	străin 	1.42
+biotop 	biologie 	1.92
+magmă 	vulcan 	2.25
+brainstorming 	telescop 	0.0
+nivel 	scor 	2.67
+penny 	afacere 	1.42
+partid politic 	asociere 	2.08
+tsunami 	mare 	2.0
+struț 	livadă 	0.42
+scorţişoară 	bomboane 	1.75
+mătură 	praf 	1.83
+galaxie 	astronom 	1.42
+suc 	milkshake 	3.17
+jaluzele 	perdea 	3.25
+penal 	contravenient 	3.5
+cancer pancreatic 	chimioterapie 	1.83
+trecut 	antecedente 	2.75
+Națiunile Unite 	Parlamentul European 	2.75
+cântec 	interpret 	1.83
+pistol 	caiet 	0.0
+acetilcolina 	iris 	0.58
+alfabet 	pix 	0.58
+cor 	cântăreaţă 	2.67
+lemn 	pătură 	0.5
+soldat 	pace 	1.25
+Engleză 	american 	3.33
+şopârlă 	crocodil 	3.25
+bani 	bani gheata 	3.42
+Pavel Caracatita 	caracatiță 	3.5
+calendar 	vacanţă 	2.08
+baza 	substanta chimica 	3.0
+guvern 	şopârlă 	0.0
+JPY 	spălare de bani 	1.58
+DeepMind 	Google DeepMind 	3.92
+şah 	Verifica 	1.67
+sonet 	frumuseţe 	1.33
+muncitor 	birou 	1.75
+valută 	schimb valutar 	1.67
+poliester 	bumbac 	3.08
+tribunal 	justiţie 	2.5
+coadă 	spate 	3.25
+accident 	carte 	0.0
+vijelie 	vânt 	2.75
+pian 	armonie 	1.58
+sultan 	minister 	1.5
+deşert 	dună 	2.42
+multiplicare 	Divizia 	2.67
+virus 	sânge 	1.58
+epoca de gheata 	statut 	0.0
+sabie 	mediu inconjurator 	0.0
+scoala elementara 	pix 	1.5
+greier 	suporter 	1.67
+sculptură 	statuie 	3.83
+browser web 	Mozilla Firefox 	3.58
+Fox Terrier 	Canon 	0.0
+HSBC 	Marea Britanie 	1.67
+Biblie 	Evanghelie 	3.08
+rochie 	dans 	1.0
+matrice 	listă 	3.92
+celulă 	incuia 	3.5
+eseu 	teme pentru acasă 	2.5
+calculator 	mașinărie 	3.33
+urs panda 	urs polar 	3.25
+nevroză 	minte 	1.75
+campanie 	maimuţă 	0.0
+Constanta Faraday 	rucsac 	0.0
+palat 	zgârie-nori 	2.33
+elicopter 	avion 	3.0
+Universitatea Cambridge 	Universitatea Oxford 	3.25
+steag 	stâlp 	1.42
+fereastră 	acoperiş 	2.33
+joc de cărți 	frisbee 	2.5
+malware 	vierme 	3.42
+planetă 	stea 	2.58
+alergător 	atlet 	3.42
+calibru 	umbrelă 	0.0
+Wifi 	WikiLeaks 	0.5
+secetă 	apă 	2.0
+aeroport 	bucată 	0.08
+orchestră 	grup 	3.42
+mojito 	mohito 	4.0
+silabă 	examen 	2.42
+teorema 	teorie 	2.42
+yo-yo 	jucărie 	3.0
+viscol 	ploaie 	2.58
+istoric 	istoriograf 	3.58
+Siemens 	tren electric 	1.75
+secol 	an 	2.83
+aliaj 	oţel 	3.5
+magistrat 	judecător 	3.58
+haos 	clasă 	0.17
+educație la distanță 	Internet 	1.75
+nisip 	picior 	0.42
+FMI 	Banca germana 	2.83
+paznic 	Times 	3.17
+vierme de mătase 	Drum de mătase 	0.58
+libertate 	oază 	0.58
+citoplasma 	cifră 	0.67
+protestant 	creştin 	3.5
+Leonardo da Vinci 	Ultima cina 	2.33
+Hartă 	pătrat 	1.0
+parlament 	congres 	3.5
+strângere de fonduri 	dezvoltare 	1.17
+patologie 	hematologie 	3.08
+vale 	depresie 	2.0
+telescop 	scaun 	0.25
+metal greu 	etapă 	1.42
+globalism 	Visa 	1.5
+băţ 	vampir 	2.33
+adjunct 	ofiţer 	2.83
+electricitate 	caz 	0.42
+străin 	outlander 	3.67
+buton 	mașină de cusut 	1.42
+vrăjitor 	cablu 	0.0
+filozof 	curse 	0.0
+floricele de porumb 	Cinema 	1.5
+agricultură 	plantă 	2.25
+poet 	jurnalist 	2.33
+vreme 	val 	0.83
+civilizaţie 	mod de viata 	1.5
+zăpadă 	gheaţă 	2.75
+Al doilea război mondial 	Beethoven 	0.08
+placa de baza 	placă principală 	4.0
+club 	marcă 	0.33
+Alexandru cel Mare 	cuceritor 	2.92
+aplicație 	galaxie 	0.42
+cloud computing 	ploaie 	0.0
+televiziune 	actor 	1.58
+delta 	mare 	2.42
+fire 	fir 	3.92
+trecere de pietoni 	persoană 	1.42
+proteină 	mâner 	0.0
+U2 	Ronaldo 	0.42
+măr 	iPhone 	2.58
+mentă 	gumă 	1.83
+poster 	hârtie 	2.83
+UNICEF 	rădăcină 	0.0
+xenofobie 	rasism 	3.42
+Woody Allen 	obiectiv 	0.33
+lampă 	genie 	2.08
+marină 	insulă 	0.92
+perete 	castel 	2.0
+dinozaur 	elefant 	2.33
+Turnul cu Ceas 	piatră 	0.67
+Orientul Mijlociu 	Eufrat 	1.5
+luncă 	pajiști 	3.58
+chitară 	vioară 	3.17
+diplomaţie 	negociere 	2.67
+gravitatie 	meteor 	0.75
+IQ 	Mensa 	1.83
+Union Jack 	steag 	3.17
+cutremur 	tremur 	3.92
+activ 	stoc 	2.75
+Ebraică 	Ierusalim 	1.75
+acoperit de nori 	prognoză 	1.92
+dicţionar 	enciclopedie 	2.83
+mentă 	muzeu 	1.0
+scaun 	scaun 	3.08
+Spaniolă 	umiditate 	0.0
+poate sa 	sticla 	3.5
+a zbura 	furnică 	2.92
+mit 	satiră 	1.92
+centrul orasului 	autobuz 	0.75
+coadă 	Boeing 747-200 	1.92
+opera de arta 	artist 	2.33
+NATO 	alianţă 	3.0
+rege 	rigla 	3.67
+ritm 	cadenţă 	3.58
+Alexander Fleming 	Penicilină 	2.5
+flaut 	muzică 	2.08
+stârc cenușiu 	lac 	1.33
+viscozitate 	stropi 	1.92
+hardware 	caz 	1.67
+inel 	logodnă 	1.25
+latin 	limba germana 	2.92
+clasa muncitoare 	plantă 	1.75
+Shakespeare 	Dickens 	3.0
+bani de hartie 	preot 	0.0
+instrument 	loc de munca 	1.08
+porc pigmeu 	suidae 	3.42
+vot 	Ieșire 	0.08
+stea 	strălucire 	1.58
+păstrăv 	chitară 	0.0
+dolar 	milionar 	1.75
+cifră 	număr 	3.92
+vânt puternic 	pătură 	0.42
+Obama 	Clinton 	3.08
+caracter secundar 	film 	1.67
+Juventus 	Bayern Munchen 	3.0
+schimbarea climei 	precipitare 	1.58
+AI 	baterie 	0.42
+capodopera 	Mona Lisa 	2.67
+crimă 	atac 	2.75
+încoronare 	apă 	0.0
+vocalist 	personal 	1.75
+simula 	baschet 	1.67
+forte armate 	apărare 	2.33
+lac 	nor 	0.83
+mănăstire 	duș 	0.08
+limba materna 	limba 	3.17
+port 	împachetare 	0.08
+demon 	înger 	2.67
+criptogramă 	simbol 	2.33
+campus 	universitate 	2.92
+libertate 	libertate 	4.0
+taifun 	ciclon 	3.83
+manual 	ghid 	3.92
+Ebola 	Virusul Ebola 	4.0
+prinţesă 	biscuit 	0.08
+tren 	tramvai 	3.5
+ecosistem 	economie 	0.92
+regina regantă 	regina sahului 	0.92
+aur 	zinc 	3.0
+cursor 	chipsuri 	0.25
+Amazon 	pădure 	3.08
+tenis 	statistici 	0.58
+Bolzano 	teorema 	2.25
+altitudine 	conversie 	0.08
+barcă 	copac 	0.25
+tron 	sabie 	1.0
+bumbac 	pulover 	1.83
+cireașă 	căpșună 	3.0
+islam 	Coranul 	2.5
+Neanderthal 	sport 	0.0
+nepotism 	rege 	1.42
+caracter 	persoană 	2.67
+rezervor 	mașină 	2.33
+Mercur 	Jupiter 	3.17
+bronşită 	acetaminofen 	1.67
+sânge 	corp 	2.0
+islamofobie 	ISIS 	1.92
+croșetat 	uniformă 	1.17
+Hadoop 	ecran tactil 	0.67
+combustibil fosil 	fosil 	2.08
+mutant 	sociobiologie 	0.75
+sora 	frate 	2.67
+creion 	poveste 	1.08
+eczemă 	dermatită 	4.0
+împărat 	guvernator 	3.67
+coroană 	cheie 	0.25
+algebră 	Operațiune 	1.67
+piston 	motor 	2.33
+Bursa de studiu 	scolarizare 	2.42
+carte 	manuscris 	3.17
+lantana 	snapdragon 	3.0
+gaură neagră 	vid 	2.33
+Imperiul persan 	Cyrus 	1.83
+editorial 	știri 	2.42
+decor 	plic 	0.08
+balena rechin 	homar 	2.25
+porumb 	porumb 	4.0
+tulburare bipolara 	problemă 	2.25
+acid 	baza 	2.67
+zero absolut 	vapori 	1.42
+Revolutia verde 	a picta 	0.0
+sistem de operare 	invatare profunda 	1.5
+Olimpiada Internațională de Matematică 	teorie 	1.0
+El Niño 	ecuator 	0.83
+insignă 	sticlă 	0.0
+conac 	sculptor 	1.0
+atmosfera 	ozon 	2.58
+scut 	scut 	3.67
+monedă 	plată 	1.75
+ovăz 	camp 	1.17
+călugăr 	cruce 	0.33
+canonă 	coasta 	1.42
+stâncă 	A mea 	1.75
+legendă 	morală 	1.0
+campion 	câştigător 	3.75
+zaruri 	cub 	3.0
+topologie 	structura 	1.83
+capelă 	cablu 	0.25
+fluxul de numerar 	râu 	0.0
+criminal în serie 	criminal 	3.5
+matrice 	moleculă 	0.0
+Modă 	stil 	3.17
+vexilologie 	steag 	2.33
+Tratatul de la Maastricht 	Europa 	2.17
+gheizer 	arc 	3.25
+zaharoză 	glucide 	3.58
+plajă 	coasta 	3.83
+bursa 	bursa de valori 	3.25
+tradiţie 	artizanat 	1.58
+roman 	scriitor 	1.92
+sandwich 	Metrou 	1.75
+acustică 	sunet 	2.67
+împrejmuire 	gimnastică 	2.33
+scriitor 	cadou 	0.0
+pădure 	Tiger Woods 	0.08
+nor 	fereastră 	0.67
+JPEG 	PDF 	3.08
+director 	șef 	3.33
+impozit 	Brexit 	1.17
+polenizare 	stamină 	2.42
+joc video 	joc pentru pc 	3.33
+tratament 	operatie chirurgicala 	2.33
+orez 	cartof 	2.67
+luarea de note 	misiune 	1.83
+vulpe 	celula sangvina 	0.33
+clorura de sodiu 	sare 	3.92
+sursa de venit 	calitatea vieții 	2.17
+voi 	intenție 	3.5
+busolă 	elefant 	0.17
+continuare 	aparat foto 	1.0
+film 	film 	3.92
+sergent 	pistol 	1.75
+moară 	sămânță 	0.75
+inghetata 	mic dejun 	1.17
+cheie 	Lacăt 	2.33
+telefon mobil 	telefon 	3.92
+grădiniţă 	preşcolar 	3.75
+Lumea occidentală 	Western Union 	0.42
+răsad 	frunze 	2.25
+ploaie 	grindină 	3.08
+fericire 	tristeţe 	2.33
+vierme de mătase 	omida 	3.33
+surfing 	sporturi de apa 	3.0
+mașină 	camion 	3.17
+alimente 	program 	0.25
+roman grafic 	banda desenata 	3.42
+şarpe 	şopârlă 	3.08
+ananas 	smartphone 	0.0
+tapet 	fundal 	3.42
+Celsius 	Microsoft 	0.08
+combina 	trestie de zahar 	0.75
+blugi 	femeie 	0.75
+matrice 	vector 	2.83
+dioxid de carbon 	CO2 	4.0
+antrenor 	jucător 	2.5
+piatră 	lemn 	2.33
+încărcător 	disc 	1.08
+manuscris 	articol 	3.5
+Gmail 	Yahoo 	2.42
+condensator 	diodă 	3.17
+corupţie 	fraudă 	3.17
+Coca Cola 	Coca-Cola 	3.92
+Platon 	Aristotel 	3.17
+Război rece 	Uniunea Sovietica 	2.58
+duză 	fluid 	2.0
+fonologie 	ecran 	0.0
+Zara 	jambiere 	1.67
+fotbal 	fotbal 	4.0
+germeni 	patogen 	3.92
+republică 	duce 	1.17
+minge 	sferă 	3.0
+Mozart 	Razboiul Stelelor 	0.0
+masca 	parte 	1.33
+Marele Furt Auto 	GTA 	4.0
+autostrada 	drum 	3.42
+reacție în lanț 	termodinamica 	2.0
+ilustrare 	blister 	0.0
+antropologie 	arheologie 	2.92
+Dell 	Dingle 	0.0
+suc 	linguriţă 	0.25
+Pfizer 	medicament 	2.5
+camion 	colet 	0.67
+receptor 	moleculă proteică 	2.75
+Google Drive 	conducător auto 	0.0
+miliardar 	fără adăpost 	1.67
+episod 	capitol 	2.83
+infinit 	zero 	2.33
+servitor 	sclav 	3.42
+sufix 	afix 	3.33
+încălzire globală 	căldură 	2.42
+hormon de creștere 	somatotropină 	3.92
+cer 	vis 	0.83
+prețul ofertei 	Londra 	0.42
+îngrăşământ 	creştere 	1.67
+hashtag 	subiect 	2.5
+Orion 	constelaţie 	3.17
+Nietzsche 	Chelsea 	0.17
+respect reciproc 	concurență 	1.5
+ramură 	braţ 	3.0
+victimă 	telefon 	0.08
+deviație standard 	acumulare 	0.5
+avalanşă 	zăpadă 	2.08
+profesor 	student 	2.0
+bovine 	iaurt 	1.5
+sexism 	discriminarea genurilor 	3.92
+polul Sud 	dans 	0.0
+procuror 	avocat 	3.33
+rachetă 	minge 	2.5
+împrumut bancar 	creanţă 	3.25
+perspectivă 	distanţă 	1.58
+Federer 	Dylan 	0.5
+avocat 	Galerie 	0.33
+speranța de viață 	măsură statistică 	2.67
+membrana celulara 	provirus 	1.83
+Uniunea Europeana 	Moscova 	2.0
+lume 	Asia 	2.17
+A picta 	Photoshop 	3.17
+senat 	constituţie 	1.83
+pătrunjel 	brioşă 	1.0
+minte 	creier 	3.83
+Mercedes 	Opel 	3.17
+ciocan 	dinții 	0.0
+Renaştere 	Renaştere 	4.0
+fusta 	ceas 	1.0
+operă 	Cinema 	2.75
+profesor 	instructor 	3.83
+Soare 	cablu 	0.08
+recesiune 	PIB 	2.0
+Cezar 	Iulius Cezar 	3.92
+rabdator 	sesiune 	0.67
+behaviorism 	terapie 	2.17
+împărat 	constituţie 	1.25
+matematician 	spectacol 	0.08
+entropie 	informație 	1.75
+apa de trandafiri 	ulei de trandafir 	3.17
+fruct citric 	grapefruit 	3.5
+Regina Victoria 	Anglia 	1.75
+jocuri Olimpice 	spirit 	0.83
+episcop 	musulman 	1.67
+om 	suspect 	1.0
+meteorit 	Pământ 	1.83
+simbol 	semn 	3.42
+antropologie 	New York 	0.08
+apus de soare 	masa 	0.0
+oraș 	oraș 	3.75
+sacou 	apă minerală 	0.0
+natură 	floră 	3.0
+subrutină 	compilator 	2.67
+Hamadan 	Roma 	2.58
+umbrelă 	încălzitor 	0.17
+onora 	stima 	3.25
+însemn 	demnitate 	0.58
+KFC 	McDonalds 	3.17
+joystick 	radar 	0.67
+basmati 	orez de iasomie 	3.58
+medalie 	formatori 	0.42
+lege 	piscina 	0.08
+sursă 	cutie 	0.0
+teatru 	baterie 	0.0
+floră 	browser web 	0.0
+cămaşă 	Bluza 	3.25
+poem 	ritm 	1.42
+profet 	preot 	2.58
+Oscaruri 	stadiu 	0.08
+table 	Merge 	3.25
+fluture 	Trandafir 	1.25
+gard 	jumping 	1.58
+nihilism 	film 	0.17
+asteroid 	stea 	2.25
+revolta 	desen 	0.08
+lenjerie de corp 	corp 	1.25
+Boeing 	avion 	2.83
+camee 	performanţă 	2.42
+semestru 	termen 	3.83
+portocale 	citrice 	3.0
+gheţar 	încălzire globală 	1.58
+tunel 	cale 	2.0

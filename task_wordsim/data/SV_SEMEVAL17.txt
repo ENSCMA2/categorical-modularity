@@ -1,0 +1,500 @@
+Joule 	rymdskepp 	0.58
+Utlovade landet 	Baku 	0.42
+bil 	cykel 	2.83
+polyeder 	skådespelare 	0.0
+multipel skleros 	FRÖKEN 	3.92
+fel 	systemet 	0.58
+vapen 	hjälm 	1.83
+manusförfattare 	tv 	1.67
+Förenta nationerna 	Ban Ki-moon 	2.5
+Si-o-seh pol 	Matematisk bro 	3.0
+basilika 	mosaik- 	1.5
+akvarellmålning 	borsta 	2.0
+demokrati 	monarki 	2.67
+Gauss 	forskare 	3.0
+tuberkulos 	LED 	0.0
+självkörande bil 	autonom bil 	4.0
+apokalyps 	brand 	1.25
+fart 	posta 	0.25
+PlayStation 	Wii 	3.25
+bärbar dator 	anteckningsbok 	4.0
+Harry Potter 	trollkarl 	3.0
+snowboard 	skidåkning 	3.17
+pekare 	glida 	1.33
+sensor 	radiator 	1.25
+träffa 	ram 	0.42
+teori 	hypotes 	3.83
+Wall Street 	finansmarknad 	2.92
+Darwin 	Evolution 	2.58
+skådespelare 	skådespelerska 	3.42
+filma 	teater 	2.25
+nationalsång 	patriotism 	2.42
+skärm 	övervaka 	3.92
+mejeri 	honung 	0.83
+Mount Everest 	Chomolungma 	3.92
+dragkamp 	Ormar och stegar 	2.33
+pesticid 	skadedjur 	1.83
+polis 	politiker 	2.17
+neuropsykologi 	parapsykologi 	3.17
+batteri 	energi 	2.83
+Legion of Honor 	brevpapper 	0.0
+Spindelmannen 	gata 	0.5
+halvö 	ö 	3.0
+ekvator 	Ecuador 	1.17
+Diagram 	Graf 	3.83
+simulering 	robotik 	1.42
+Nike 	Adidas 	3.17
+samhälle 	kultur 	2.67
+strategispel 	strategi 	2.0
+kyrka 	katedral 	3.58
+översättare 	utlänning 	1.42
+biotop 	biologi 	1.92
+magma 	vulkan 	2.25
+brainstorming 	teleskop 	0.0
+nivå 	Göra 	2.67
+penny 	förhandla 	1.42
+politiskt parti 	förening 	2.08
+tsunami 	hav 	2.0
+struts 	fruktträdgård 	0.42
+kanel 	godis 	1.75
+kvast 	damm 	1.83
+galax 	astronom 	1.42
+juice 	milkshake 	3.17
+fönsterblind 	ridå 	3.25
+kriminell 	lagbrytare 	3.5
+bukspottskörtelcancer 	kemoterapi 	1.83
+dåtid 	föregångare 	2.75
+Förenta nationerna 	Europaparlamentet 	2.75
+låt 	artist 	1.83
+pistol 	anteckningsbok 	0.0
+acetylkolin 	iris 	0.58
+alfabet 	penna 	0.58
+kör 	sångare 	2.67
+trä 	filt 	0.5
+soldat 	fred 	1.25
+engelsk 	Amerikansk 	3.33
+ödla 	krokodil 	3.25
+pengar 	kontanter 	3.42
+Paul bläckfisken 	bläckfisk 	3.5
+kalender 	Semester 	2.08
+bas 	kemisk substans 	3.0
+regering 	ödla 	0.0
+JPY 	pengatvätt 	1.58
+DeepMind 	Google DeepMind 	3.92
+schack 	kolla upp 	1.67
+sonett 	skönhet 	1.33
+arbetstagare 	kontor 	1.75
+valuta 	utbyta 	1.67
+polyester 	bomull 	3.08
+domstol 	rättvisa 	2.5
+svans 	bak- 	3.25
+olycka 	bok 	0.0
+skråla 	vind 	2.75
+piano 	harmoni 	1.58
+sultan 	departement 	1.5
+öken- 	dyn 	2.42
+multiplikation 	division 	2.67
+virus 	blod 	1.58
+istid 	stadga 	0.0
+svärd 	miljö 	0.0
+grundskola 	penna 	1.5
+cricket 	anhängare 	1.67
+skulptur 	staty 	3.83
+webbläsare 	Mozilla Firefox 	3.58
+Fox Terrier 	Kanon 	0.0
+HSBC 	Storbritannien 	1.67
+Bibeln 	Evangeliet 	3.08
+klänning 	dansa 	1.0
+array 	lista 	3.92
+cell 	Låsa in 	3.5
+uppsats 	läxa 	2.5
+dator 	maskin 	3.33
+panda 	isbjörn 	3.25
+neuros 	sinne 	1.75
+kampanj 	apa 	0.0
+Faraday konstant 	ryggsäck 	0.0
+palats 	skyskrapa 	2.33
+helikopter 	plan 	3.0
+Universitetet i Cambridge 	Oxford universitet 	3.25
+flagga 	Pol 	1.42
+fönster 	tak 	2.33
+kortspel 	frisbee 	2.5
+skadlig kod 	mask 	3.42
+planet 	stjärna 	2.58
+löpare 	idrottare 	3.42
+kaliber 	paraply 	0.0
+WiFi 	WikiLeaks 	0.5
+torka 	vatten 	2.0
+flygplats 	bit 	0.08
+orkester 	band 	3.42
+mojito 	mohito 	4.0
+kursplan 	examen 	2.42
+sats 	teori 	2.42
+jojo 	leksak 	3.0
+snöstorm 	regn 	2.58
+historiker 	historiograf 	3.58
+Siemens 	elektriskt tåg 	1.75
+århundrade 	år 	2.83
+legering 	stål 	3.5
+magistrat 	bedöma 	3.58
+kaos 	klass 	0.17
+Distans utbildning 	internet 	1.75
+sand 	fot 	0.42
+IMF 	Deutsche Bank 	2.83
+väktare 	Tider 	3.17
+silkesmask 	Silkesväg 	0.58
+frihet 	oas 	0.58
+cytoplasma 	siffra 	0.67
+protestant 	kristen 	3.5
+Leonardo Da Vinci 	Sista måltiden 	2.33
+Karta 	fyrkant 	1.0
+parlament 	kongress 	3.5
+insamling 	utveckling 	1.17
+patologi 	hematologi 	3.08
+dal 	depression 	2.0
+teleskop 	stol 	0.25
+tungmetall 	skede 	1.42
+globalism 	visum 	1.5
+fladdermus 	vampyr 	2.33
+vice 	officer 	2.83
+elektricitet 	fall 	0.42
+utomjording 	främling 	3.67
+knapp 	symaskin 	1.42
+trollkarl 	kabel- 	0.0
+filosof 	tävlings 	0.0
+popcorn 	bio 	1.5
+lantbruk 	växt 	2.25
+poet 	journalist 	2.33
+väder 	Vinka 	0.83
+civilisation 	livsstil 	1.5
+snö 	is 	2.75
+Andra världskriget 	Beethoven 	0.08
+moderkort 	moderkort 	4.0
+klubb 	märke 	0.33
+Alexander den store 	besegrare 	2.92
+app 	galax 	0.42
+molntjänster 	regn 	0.0
+tv 	skådespelare 	1.58
+delta 	hav 	2.42
+garn 	tråd 	3.92
+övergångsställe 	person 	1.42
+protein 	hantera 	0.0
+U2 	Ronaldo 	0.42
+Äpple 	iPhone 	2.58
+pepparmynta 	gummi 	1.83
+affisch 	papper 	2.83
+UNICEF 	rot 	0.0
+främlingshat 	rasism 	3.42
+Woody Allen 	lins 	0.33
+lampa 	ande 	2.08
+Marin 	ö 	0.92
+vägg 	slott 	2.0
+dinosaurie 	elefant 	2.33
+klocktorn 	sten 	0.67
+Mellanöstern 	Eufrat 	1.5
+äng 	gräsmark 	3.58
+gitarr 	fiol 	3.17
+diplomati 	förhandling 	2.67
+allvar 	meteor 	0.75
+IQ 	Mensa 	1.83
+Union Jack 	flagga 	3.17
+jordbävning 	darrning 	3.92
+tillgång 	stock 	2.75
+Hebreiska 	Jerusalem 	1.75
+mulen 	prognos 	1.92
+lexikon 	encyklopedi 	2.83
+mynta 	museum 	1.0
+stol 	pall 	3.08
+Spanska 	fukt 	0.0
+burk 	flaska 	3.5
+flyga 	myra 	2.92
+myt 	satir 	1.92
+stadskärna 	buss 	0.75
+svans 	Boeing 747-200 	1.92
+konstverk 	konstnär 	2.33
+Nato 	allians 	3.0
+kung 	linjal 	3.67
+rytm 	kadens 	3.58
+Alexander Fleming 	Penicillin 	2.5
+flöjt 	musik 	2.08
+grå häger 	sjö 	1.33
+viskositet 	stänk 	1.92
+hårdvara 	fall 	1.67
+ringa 	engagemang 	1.25
+Latinska 	tysk 	2.92
+arbetarklass 	växt 	1.75
+Shakespeare 	Dickens 	3.0
+papperspengar 	präst 	0.0
+verktyg 	jobb 	1.08
+pygmy hog 	suidae 	3.42
+rösträtt 	utgång 	0.08
+stjärna 	ljusstyrka 	1.58
+öring 	gitarr 	0.0
+dollar 	miljonär 	1.75
+siffra 	siffra 	3.92
+storm 	filt 	0.42
+Obama 	Clinton 	3.08
+stödjande karaktär 	film 	1.67
+Juventus 	Bayern München 	3.0
+klimatförändring 	nederbörd 	1.58
+AI 	batteri 	0.42
+mästerverk 	Mona Lisa 	2.67
+brottslighet 	ge sig på 	2.75
+kröning 	vatten 	0.0
+vokalist 	personal 	1.75
+slutspel 	basketboll 	1.67
+väpnade styrkor 	försvar 	2.33
+sjö 	moln 	0.83
+kloster 	dusch 	0.08
+modersmål 	språk 	3.17
+hamn 	omslag 	0.08
+demon 	ängel 	2.67
+kryptogram 	symbol 	2.33
+campus 	universitet 	2.92
+frihet 	frihet 	4.0
+tyfon 	cyklon 	3.83
+handbok 	guidebok 	3.92
+Ebola 	Ebolavirus 	4.0
+prinsessa 	kex 	0.08
+tåg 	spårvagn 	3.5
+ekosystem 	ekonomi 	0.92
+drottning regnant 	schackdrottning 	0.92
+guld- 	zink 	3.0
+markören 	pommes frites 	0.25
+Amazon 	skog 	3.08
+tennis 	statistik 	0.58
+Bolzano 	sats 	2.25
+höjd över havet 	omvandling 	0.08
+båt 	träd 	0.25
+tron 	svärd 	1.0
+bomull 	Tröja 	1.83
+körsbär 	jordgubbe 	3.0
+Islam 	Koranen 	2.5
+Neandertalare 	sport 	0.0
+nepotism 	kung 	1.42
+karaktär 	person 	2.67
+tank 	bil 	2.33
+Kvicksilver 	Jupiter 	3.17
+bronkit 	paracetamol 	1.67
+blod 	kropp 	2.0
+islamofobi 	ISIS 	1.92
+virka 	enhetlig 	1.17
+Hadoop 	pekskärm 	0.67
+fossilt bränsle 	fossil 	2.08
+mutant 	sociobiologi 	0.75
+syster 	bror 	2.67
+penna 	berättelse 	1.08
+eksem 	dermatit 	4.0
+kejsare 	guvernör 	3.67
+krona 	nyckel- 	0.25
+algebra 	drift 	1.67
+kolv 	motor 	2.33
+stipendium 	undervisning 	2.42
+bok 	manuskript 	3.17
+lantana 	lejongap 	3.0
+svart hål 	Vakuum 	2.33
+Persiska imperiet 	Cyrus 	1.83
+redaktionell 	Nyheter 	2.42
+dekoration 	kuvert 	0.08
+val haj 	hummer 	2.25
+majs 	majs 	4.0
+bipolär sjukdom 	problem 	2.25
+syra 	bas 	2.67
+absolut noll 	ånga 	1.42
+Grön revolution 	måla 	0.0
+operativ system 	Djup lärning 	1.5
+Internationell matematisk olympiad 	teori 	1.0
+El Niño 	ekvator 	0.83
+bricka 	glas 	0.0
+herrgård 	skulptör 	1.0
+atmosfär 	ozon 	2.58
+skydda 	spännare 	3.67
+mynt 	betalning 	1.75
+havre 	fält 	1.17
+munk 	korsa 	0.33
+kanonbåt 	kust 	1.42
+sten 	mina 	1.75
+legend 	moralisk 	1.0
+mästare 	vinnare 	3.75
+tärningar 	kub 	3.0
+topologi 	strukturera 	1.83
+kapell 	kabel- 	0.25
+pengaflöde 	flod 	0.0
+seriemördare 	mördare 	3.5
+matris 	molekyl 	0.0
+mode 	stil 	3.17
+vexillologi 	flagga 	2.33
+Maastrichtfördraget 	Europa 	2.17
+gejser 	vår 	3.25
+sackaros 	kolhydrat 	3.58
+strand 	kust 	3.83
+aktiemarknad 	börsen 	3.25
+tradition 	hantverk 	1.58
+roman 	författare 	1.92
+smörgås 	Tunnelbana 	1.75
+akustik 	ljud 	2.67
+fäktning 	gymnastik 	2.33
+författare 	gåva 	0.0
+skog 	Tiger Woods 	0.08
+moln 	fönster 	0.67
+JPEG 	PDF 	3.08
+direktör 	chef 	3.33
+beskatta 	Brexit 	1.17
+pollinering 	ståndare 	2.42
+TV-spel 	PC-spel 	3.33
+behandling 	kirurgisk operation 	2.33
+irländare 	potatis 	2.67
+anteckna 	uppdrag 	1.83
+räv 	blodcell 	0.33
+natriumklorid 	salt- 	3.92
+inkomst 	livskvalité 	2.17
+kommer 	avsikt 	3.5
+kompass 	elefant 	0.17
+fortsättning 	kamera 	1.0
+film 	filma 	3.92
+sergeant 	pistol 	1.75
+kvarn 	utsäde 	0.75
+glass 	frukost 	1.17
+nyckel- 	låsa 	2.33
+mobiltelefon 	telefon 	3.92
+dagis 	förskola 	3.75
+västvärlden 	Western Union 	0.42
+fröplanta 	blad 	2.25
+regn 	hagel 	3.08
+lycka 	sorg 	2.33
+silkesmask 	larv 	3.33
+surfing 	vattensport 	3.0
+bil 	lastbil 	3.17
+mat 	program 	0.25
+grafisk roman 	serietidning 	3.42
+orm 	ödla 	3.08
+ananas 	smartphone 	0.0
+tapet 	bakgrund 	3.42
+Celsius 	Microsoft 	0.08
+kombinera 	sockerrör 	0.75
+jeans 	kvinna 	0.75
+matris 	vektor 	2.83
+koldioxid 	CO2 	4.0
+tränare 	spelare 	2.5
+sten 	trä 	2.33
+laddare 	disk 	1.08
+manuskript 	artikel 	3.5
+Gmail 	Yahoo 	2.42
+kondensator 	diod 	3.17
+korruption 	bedrägeri 	3.17
+Coca Cola 	Koks 	3.92
+Platon 	Aristoteles 	3.17
+Kalla kriget 	Sovjetunionen 	2.58
+munstycke 	vätska 	2.0
+fonologi 	skärm 	0.0
+Zara 	damasker 	1.67
+fotboll 	fotboll 	4.0
+bakterie 	patogen 	3.92
+republik 	hertig 	1.17
+boll 	sfär 	3.0
+Mozart 	Stjärnornas krig 	0.0
+mask 	fest 	1.33
+Grand Theft Auto 	GTA 	4.0
+motorväg 	väg 	3.42
+kedjereaktion 	termodynamik 	2.0
+illustration 	blåsa 	0.0
+antropologi 	arkeologi 	2.92
+Dell 	Dingle 	0.0
+juice 	sked 	0.25
+Pfizer 	läkemedel 	2.5
+lastbil 	paket 	0.67
+receptorn 	proteinmolekyl 	2.75
+Google Drive 	förare 	0.0
+miljardär 	hemlös 	1.67
+episod 	kapitel 	2.83
+oändlighet 	noll- 	2.33
+tjänare 	slav 	3.42
+ändelse 	affix 	3.33
+Global uppvärmning 	värme 	2.42
+tillväxthormon 	somatotropin 	3.92
+himmel 	dröm 	0.83
+bud 	London 	0.42
+gödselmedel 	tillväxt 	1.67
+hashtag 	ämne 	2.5
+Orion 	konstellation 	3.17
+Nietzsche 	Chelsea 	0.17
+ömsesidig respekt 	konkurrens 	1.5
+gren 	ärm 	3.0
+offer 	telefon 	0.08
+standardavvikelse 	ackumulation 	0.5
+lavin 	snö 	2.08
+lärare 	studerande 	2.0
+nötkreatur 	yoghurt 	1.5
+sexism 	könsdiskriminering 	3.92
+Sydpolen 	dansa 	0.0
+åklagare 	advokat 	3.33
+racket 	boll 	2.5
+banklån 	skuld 	3.25
+perspektiv 	distans 	1.58
+Federer 	Dylan 	0.5
+advokat 	Galleri 	0.33
+förväntad livslängd 	statistiskt mått 	2.67
+cellmembranet 	provirus 	1.83
+europeiska unionen 	Moskva 	2.0
+värld 	Asien 	2.17
+Måla 	Photoshop 	3.17
+senat 	konstitution 	1.83
+persilja 	muffin 	1.0
+sinne 	hjärna 	3.83
+Mercedes 	Opel 	3.17
+hammare 	tänder 	0.0
+Renässans 	Renascence 	4.0
+kjol 	Kolla på 	1.0
+opera 	bio 	2.75
+lärare 	instruktör 	3.83
+Sol 	kabel- 	0.08
+lågkonjunktur 	BNP 	2.0
+Caesar 	Julius Caesar 	3.92
+patient 	session 	0.67
+behaviorism 	terapi 	2.17
+kejsare 	konstitution 	1.25
+matematiker 	visa 	0.08
+entropi 	information 	1.75
+rosvatten 	rosolja 	3.17
+citrusfrukt 	grapefrukt 	3.5
+Drottning Victoria 	England 	1.75
+olympiska spelen 	anda 	0.83
+biskop 	muslim 	1.67
+man 	misstänka 	1.0
+meteorit 	Jorden 	1.83
+symbol 	tecken 	3.42
+antropologi 	New York 	0.08
+solnedgång 	tabell 	0.0
+stad 	stad 	3.75
+jacka 	Mineral vatten 	0.0
+natur 	flora 	3.0
+subrutin 	kompilator 	2.67
+Hamadan 	Rom 	2.58
+paraply 	värmare 	0.17
+ära 	aktning 	3.25
+insignier 	värdighet 	0.58
+KFC 	McDonald's 	3.17
+joystick 	radar 	0.67
+basmati 	jasminris 	3.58
+medalj 	utbildare 	0.42
+lag 	simbassäng 	0.08
+källa 	låda 	0.0
+teater 	batteri 	0.0
+flora 	webbläsare 	0.0
+skjorta 	cardigan 	3.25
+dikt 	rytm 	1.42
+profet 	präst 	2.58
+Oscars 	stadion 	0.08
+backgammon 	Gå 	3.25
+fjäril 	reste sig 	1.25
+staket 	Hoppar 	1.58
+nihilism 	filma 	0.17
+asteroid 	stjärna 	2.25
+upplopp 	teckning 	0.08
+underkläder 	kropp 	1.25
+Boeing 	plan 	2.83
+komo 	prestanda 	2.42
+termin 	termin 	3.83
+orange 	citrus- 	3.0
+glaciär 	Global uppvärmning 	1.58
+tunnel 	väg 	2.0
