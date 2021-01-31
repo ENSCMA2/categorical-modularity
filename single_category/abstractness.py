@@ -18,7 +18,7 @@ parser.add_argument("--modularity_file",
 parser.add_argument("--metrics_file",
     help = "name of file with task performance metrics, 1 column, no headers,"
             + "assuming length aligns with modularity_file",
-    default = "../task_movies/movies_accuracy.csv")
+    default = "movies_accuracy.csv")
 parser.add_argument("--out_file",
     help = "name of file to write correlation to, if desired",
     default = "out.txt")
