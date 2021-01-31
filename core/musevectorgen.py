@@ -21,11 +21,11 @@ import argparse
 parser = argparse.ArgumentParser()
 parser.add_argument("--word_file",
     help = "name of file with word list, 1 column, no headers,"
-            + "1st row = column headers, no row headers",
+            + " 1st row = column headers, no row headers",
     default = "words/english.txt")
 parser.add_argument("--model_file",
     help = "name of MUSE-compatible model file to load,"
-            + "should be a .vec file",
+            + " should be a .vec file",
     default = "models/wiki.multi.en.vec")
 parser.add_argument("--out_file",
     help = "name of file to write vectors to",
