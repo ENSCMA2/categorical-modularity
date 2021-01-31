@@ -6,7 +6,6 @@ the 'data' directory.
 '''
 
 # imports
-import fasttext
 import argparse
 from google_trans_new import google_translator
 

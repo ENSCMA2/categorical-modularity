@@ -33,7 +33,7 @@ parser.add_argument("--model_file",
     default = "models/wiki.multi.en.bin")
 parser.add_argument("--model_name",
     help = "name of MUSE-compatible model, used to name output file",
-    default = "ft")
+    default = "muse")
 parser.add_argument("--language",
     help = "name of language your words/model correspond to",
     default = "english")

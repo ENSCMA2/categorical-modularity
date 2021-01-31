@@ -1,40 +1,40 @@
-import csv
-import numpy as np
-from sklearn.svm import LinearSVC, SVC, NuSVC
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
-from sklearn.preprocessing import LabelBinarizer
-from google_trans_new import google_translator
+'''
+Generate vectorized data from IMDB raw text reviews using FastText-compatible
+models. To use our defaults, download the English FastText bin file from
+https://fasttext.cc/docs/en/crawl-vectors.html and place it into a directory
+called 'models' within this directory, and make sure you have run
+moviedatagen.py first so you have the full translated datasets.
+'''
+
+# imports
 import random
 import fasttext
-import sys
+import argparse
 
-i = int(sys.argv[1])
+# processing command-line arguments
+parser = argparse.ArgumentParser()
+parser.add_argument("--data_file",
+    help = "name of file with word pairs and similarities, 3-column .txt",
+    default = "data/IMDB_english.txt")
+parser.add_argument("--model_file",
+    help = "name of FastText-compatible model file to load",
+    default = "models/wiki.en.bin")
+parser.add_argument("--model_name",
+    help = "name of FastText-compatible model, used to name output file",
+    default = "ft")
+parser.add_argument("--language",
+    help = "name of language your words/model correspond to",
+    default = "english")
+args = parser.parse_args()
 
-lang_codes = ['ar', 'bg', 'ca', 'hr', 'cs', 'da', 'nl', 'en', 'et', 'fi',
-                  'fr', 'el', 'he', 'hu', 'id', 'it', 'mk', 'no', 'pl',
-                  'pt', 'ro', 'ru', 'sk', 'sl', 'es', 'sv', 'tr', 'uk', 'vi']
+model = fasttext.load_model(args.model_file)
 
-langs = ['arabic', 'bulgarian', 'catalan', 'croatian', 'czech', 'danish',
-              'dutch', 'english', 'estonian', 'finnish', 'french',
-              'greek', 'hebrew', 'hungarian', 'indonesian', 'italian',
-              'macedonian', 'norwegian', 'polish', 'portuguese', 'romanian',
-              'russian', 'slovak', 'slovenian', 'spanish', 'swedish',
-              'turkish', 'ukrainian', 'vietnamese']
-
-lang_code = lang_codes[i]
-
-model = fasttext.load_model('wiki.' + lang_code + '.bin')
-
-with open("IMDB" + langs[i] + ".txt", "r+") as o:
-  print(langs[i])
-  text = [line.lower().strip("\n") for line in o]
-  with open(langs[i] + "_ftmovievecs.txt", "w") as n:
-    for j in range(len(text)):
-      print(j)
-      vec = list(model[text[j]])
-      print(len(vec))
-      n.write(str(vec) + "\n")
+with open(args.data_file, "r+") as o:
+    text = [line.lower().strip("\n") for line in o]
+    with open("data/" + args.language + "_" + args.model_name + "_movievecs.txt",
+              "w") as n:
+        for j in range(len(text)):
+            vec = list(model[text[j]])
+            n.write(str(vec) + "\n")
 
 

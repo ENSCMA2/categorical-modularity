@@ -48,7 +48,7 @@ loss_avg = 0
 # running trials
 for i in range(numtrials):
     test = random.sample(possibilities,
-                         dataset_size * (1 - float(args.train_proportion)))
+                         int(dataset_size * (1 - float(args.train_proportion))))
     traindata = []
     testdata = []
     trainlabels = []

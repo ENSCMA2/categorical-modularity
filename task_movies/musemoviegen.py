@@ -1,43 +1,48 @@
-import csv
+'''
+Generate vectorized data from IMDB raw text reviews using FastText-compatible
+models. To use our defaults, download the English and MUSE model from the table
+at https://github.com/facebookresearch/MUSE#download and place it into a
+directory called 'models' within this directory, and make sure you have run
+moviedatagen.py first so you have the full translated datasets.
+'''
+
+# imports
+import io
 import numpy as np
-from sklearn.svm import LinearSVC, SVC, NuSVC
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.model_selection import train_test_split
-from sklearn.metrics import accuracy_score, f1_score, precision_score, recall_score
-from sklearn.preprocessing import LabelBinarizer
-from google_trans_new import google_translator
-import random
-import fasttext
-import sys
 import nltk
 from nltk.stem.porter import *
 from nltk.stem.snowball import SnowballStemmer
 import string
 from nltk.stem import WordNetLemmatizer
-import math
 from nltk.corpus import stopwords
-import io
+import argparse
+import csv
 
-i = int(sys.argv[1])
+# processing command-line arguments
+parser = argparse.ArgumentParser()
+parser.add_argument("--data_file",
+    help = "name of file with word pairs and similarities, 3-column .txt",
+    default = "data/IMDB_english.txt")
+parser.add_argument("--model_file",
+    help = "name of MUSE-compatible model file to load",
+    default = "models/wiki.multi.en.bin")
+parser.add_argument("--model_name",
+    help = "name of MUSE-compatible model, used to name output file",
+    default = "muse")
+parser.add_argument("--language",
+    help = "name of language your words/model correspond to",
+    default = "english")
+args = parser.parse_args()
 
-lang_codes = ['ar', 'bg', 'ca', 'hr', 'cs', 'da', 'nl', 'en', 'et', 'fi',
-                  'fr', 'el', 'he', 'hu', 'id', 'it', 'mk', 'no', 'pl',
-                  'pt', 'ro', 'ru', 'sk', 'sl', 'es', 'sv', 'tr', 'uk', 'vi']
-
-langs = ['arabic', 'bulgarian', 'catalan', 'croatian', 'czech', 'danish',
-              'dutch', 'english', 'estonian', 'finnish', 'french',
-              'greek', 'hebrew', 'hungarian', 'indonesian', 'italian',
-              'macedonian', 'norwegian', 'polish', 'portuguese', 'romanian',
-              'russian', 'slovak', 'slovenian', 'spanish', 'swedish',
-              'turkish', 'ukrainian', 'vietnamese']
-
-lang_code = lang_codes[i]
-
+# initialize some preprocessors and constants
 lemmatizer = WordNetLemmatizer()
 stemmer = PorterStemmer()
-snowball = SnowballStemmer("porter")
-sl = ['arabic', 'english', 'dutch', 'portuguese', 'spanish']
-def load_vec(emb_path, nmax=50000):
+nmax = 200000  # maximum number of word embeddings to load
+txtfile = args.word_file
+
+# loads embedding model from model_file path
+# source: https://github.com/facebookresearch/MUSE/blob/master/demo.ipynb
+def load_vec(emb_path, nmax = 200000):
     vectors = []
     word2id = {}
     with io.open(emb_path, 'r', encoding='utf-8', newline='\n', errors='ignore') as f:
@@ -54,23 +59,10 @@ def load_vec(emb_path, nmax=50000):
     embeddings = np.vstack(vectors)
     return embeddings, id2word, word2id
 
-path_root = '/Users/karinahalevy/Code/MUSE/data/wiki.multi.'
-path_suffix = '.vec'
-languages = ['arabic', 'bulgarian', 'catalan', 'croatian', 'czech', 'danish',
-              'dutch', 'english', 'estonian', 'finnish', 'french',
-              'greek', 'hebrew', 'hungarian', 'indonesian', 'italian',
-              'macedonian', 'norwegian', 'polish', 'portuguese', 'romanian',
-              'russian', 'slovak', 'slovenian', 'spanish', 'swedish',
-              'turkish', 'ukrainian', 'vietnamese']
+# load the MUSE models
+loaded = load_vec(args.model_file, nmax)
 
-language_paths = ['ar', 'bg', 'ca', 'hr', 'cs', 'da', 'nl', 'en', 'et', 'fi',
-                  'fr', 'el', 'he', 'hu', 'id', 'it', 'mk', 'no', 'pl',
-                  'pt', 'ro', 'ru', 'sk', 'sl', 'es', 'sv', 'tr', 'uk', 'vi']
-
-vecs = path_root + language_paths[i] + path_suffix
-nmax = 50000  # maximum number of word embeddings to load
-loaded = (load_vec(vecs, nmax))
-
+# calculate sentence embedding by taking mean of component words
 def average(embeddings):
     num_embeddings = len(embeddings)
     new_embedding = []
@@ -81,7 +73,10 @@ def average(embeddings):
         new_embedding.append(rs / num_embeddings)
     return np.array(new_embedding)
 
-def get_emb(word, src_emb, src_id2word, tgt_emb, tgt_id2word, lang, K=30):
+# get embedding of a word given a source and target space and a language
+# source: code modified from
+    # https://github.com/facebookresearch/MUSE/blob/master/demo.ipynb
+def get_emb(word, src_emb, src_id2word, tgt_emb, tgt_id2word, lang):
     word2id = {v: k for k, v in src_id2word.items()}
     tok = word.split()
     embs = []
@@ -96,12 +91,9 @@ def get_emb(word, src_emb, src_id2word, tgt_emb, tgt_id2word, lang, K=30):
                     e = src_emb[word2id[lemmatizer.lemmatize(i)]]
                 except:
                     try:
-                        e = src_emb[word2id[snowball.stem(i)]]
+                        e = src_emb[word2id[SnowballStemmer(lang).stem(i)]]
                     except:
-                        try:
-                            e = src_emb[word2id[SnowballStemmer(lang).stem(i)]]
-                        except:
-                            e = []
+                        e = []
         if len(list(e)) > 0:
           embs.append(e)
     if len(embs) == 0:
@@ -110,14 +102,13 @@ def get_emb(word, src_emb, src_id2word, tgt_emb, tgt_id2word, lang, K=30):
         word_emb = average(embs)
     return word_emb
 
-with open("IMDB" + langs[i] + ".txt", "r+") as o:
-  print(langs[i])
-  text = [line.lower().strip("\n") for line in o]
-  with open(langs[i] + "_musemovievecs.txt", "w") as n:
-    for j in range(len(text)):
-      print(j)
-      vec = get_emb(text[j], loaded[0], loaded[1], loaded[0], loaded[1], languages[i])
-      print(len(vec))
-      n.write(str(list(vec)) + "\n")
+with open(args.data_file, "r+") as o:
+    text = [line.lower().strip("\n") for line in o]
+    with open("data/" + args.language + "_" + args.model_name
+              + "_movievecs.txt", "w") as n:
+        for j in range(len(text)):
+            vec = get_emb(text[j], loaded[0], loaded[1], loaded[0], loaded[1],
+                          args.language)
+            n.write(str(list(vec)) + "\n")
 
 
