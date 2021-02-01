@@ -14,7 +14,7 @@ import argparse
 # processing command-line arguments
 parser = argparse.ArgumentParser()
 parser.add_argument("--data_file",
-    help = "name of file with word pairs and similarities, 3-column .txt",
+    help = "name of file with raw movie reviews, 1-column .txt",
     default = "data/IMDB_english.txt")
 parser.add_argument("--model_file",
     help = "name of FastText-compatible model file to load",

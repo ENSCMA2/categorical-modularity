@@ -9,7 +9,6 @@ Output is printed to console.
 import argparse
 import numpy as np
 import random
-import matplotlib.pyplot as plt
 from sklearn.linear_model import LinearRegression
 
 # processing command-line arguments

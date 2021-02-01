@@ -51,7 +51,7 @@ def load_data(sheet, indices, size):
             lf = [float(i) for i in l]
             x.append(lf)
     x = np.array(x)
-    y = np.array(['positive'] * 5000 + ['negative'] * 5000)
+    y = np.array(['positive'] * int(size / 2) + ['negative'] * int(size / 2))
     X_TRAIN = np.array([x[j] for j in range(len(x)) if j not in indices])
     Y_TRAIN = np.array([y[j] for j in range(len(y)) if j not in indices])
     X_TEST = np.array([x[j] for j in range(len(x)) if j in indices])
@@ -66,11 +66,11 @@ numtrials = args.num_trials
 storage = {"accuracy": [], "precision": []}
 
 for i in range(numtrials):
-    indices =
-        random.sample([num for num in range(0, int(args.dataset_size))],
+    indices = random.sample([num for num in range(0, int(args.dataset_size))],
                       int(float(args.train_proportion) * int(args.dataset_size)))
-    train_data, test_data, train_labels, test_labels =
-        load_data(args.data_file, indices, int(args.dataset_size))
+    train_data, test_data, train_labels, test_labels = load_data(args.data_file,
+                                                                 indices,
+                                                                 int(args.dataset_size))
     classifier = LinearSVC()
     classifier.fit(train_data, train_labels)
     predictions = classifier.predict(test_data)
