@@ -45,7 +45,10 @@ Our paper also explores an extension of categorical modularity to single-categor
 ```
 python3 single_category/singlecatcorrelationcalc.py --modularity_file MODULARITY_FILE --metrics_file MODULARITY_FILE --out_file OUT_FILE
 ```
-- `single_category/singlecatmodularity.py`: given a list of category labels for words and a square matrix of nearest neighbor relationships among words, calculates single-category modularities for each category. Usage: SILVIA UPDATE THIS
+- `single_category/singlecatmodularity.py`: given a list of category labels for words and a square matrix of nearest neighbor relationships among words, calculates single-category modularities for each category. Usage:
+```
+python3 single_category/singlecatmodularity.py --word_file WORD_FILE --category_labels CATEGORY_LABELS --model_file MODEL_FILE --out_file OUTFILE
+```
 
 
 ## Running Downstream Tasks
