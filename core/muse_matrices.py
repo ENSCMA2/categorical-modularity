@@ -163,4 +163,3 @@ with open(args.out_file, "w") as o:
     for q in range(len(wds)):
         o.write(str(mat[q]).strip("[]") + "\n")
 
-

@@ -7,6 +7,7 @@ modularities against wordsim task results. Results printed to console.
 # imports
 import csv
 from scipy.stats import spearmanr as sr
+import argparse
 
 # processing command-line arguments
 parser = argparse.ArgumentParser()

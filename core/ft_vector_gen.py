@@ -34,6 +34,7 @@ with open(args.word_file, "r") as words:
     vectors = [model[wds[i]] for i in range(len(wds))]
 
 # write embeddings to output file
-with open(out_file, "w") as o:
+with open(args.out_file, "w") as o:
     for v in vectors:
         o.write(str(list(v)) + "\n")
+

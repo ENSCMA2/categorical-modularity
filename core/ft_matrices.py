@@ -28,7 +28,6 @@ parser.add_argument("--out_file",
     default = "english_ft_matrix.csv")
 args = parser.parse_args()
 
-
 # get nearest neighbors of a word given a model, using fasttext.cc API
 def get_nn_words(word, model):
   nns = []
