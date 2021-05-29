@@ -18,7 +18,7 @@ Categorical modularity is a low-resource intrinsic metric for evaluation of word
  - [networkx](https://networkx.org/)
  
  ## Calculating Modularity
-Given a list of words and a `.bin` or `.vec` embedding model, you can calculate several modularity metrics using the files in the `core` directory. Brief descriptions of files and functionalities (further formatting specifications for files and parameters can be found by running the `--help` command on each file):
+Given a list of words and a `.bin` or `.vec` embedding model, you can calculate several modularity metrics using the files in the `core` directory. Brief descriptions of files and functionalities (further formatting specifications for files and parameters can be found by running the `--help` command on each file or by consulting the docstring at the top of each code file):
 - `core/ft_vector_gen.py`: pass in a file containing a list of words and a file containing an embedding model binary and create a file with 300-dimensional embedding vectors of each of the input words. Use for FastText-compatible models (e.g. FastText, subs2vec). The lists of words and categories we used are labeled by language and level in `core/words`. Usage (with respect to topmost level directory of this repo): 
 ```
 python3 core/ft_vector_gen.py --word_file WORD_FILE --model_file MODEL_FILE --out_file OUT_FILE
