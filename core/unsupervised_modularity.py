@@ -22,11 +22,11 @@ parser.add_argument("--matrix_file",
 args = parser.parse_args()
 
 file = open(args.matrix_file)
-M = np.loadtxt(file, delimiter=",")
+M = np.loadtxt(file, delimiter = ",")
 
 values = [2, 3, 4]
 for k in values:
-    knn = kneighbors_graph(M, k, mode='connectivity', include_self=True) 
+    knn = kneighbors_graph(M, k, mode = 'connectivity', include_self = True) 
     knnmatrix = knn.toarray()
     G = nx.from_numpy_matrix(np.array(knnmatrix))
 
