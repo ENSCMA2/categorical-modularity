@@ -45,11 +45,11 @@ txtfile = args.word_file
 def load_vec(emb_path, nmax = 200000):
     vectors = []
     word2id = {}
-    with io.open(emb_path, 'r', encoding='utf-8', newline='\n', errors='ignore') as f:
+    with io.open(emb_path, 'r', encoding = 'utf-8', newline = '\n', errors = 'ignore') as f:
         next(f)
         for i, line in enumerate(f):
             word, vect = line.rstrip().split(' ', 1)
-            vect = np.fromstring(vect, sep=' ')
+            vect = np.fromstring(vect, sep = ' ')
             assert word not in word2id, 'word found twice'
             vectors.append(vect)
             word2id[word] = len(word2id)
@@ -105,7 +105,7 @@ def get_emb(word, src_emb, src_id2word, tgt_emb, tgt_id2word, lang):
 with open(args.data_file, "r+") as o:
     text = [line.lower().strip("\n") for line in o]
     with open("data/" + args.language + "_" + args.model_name
-              + "_movievecs.txt", "w") as n:
+               + "_movievecs.txt", "w") as n:
         for j in range(len(text)):
             vec = get_emb(text[j], loaded[0], loaded[1], loaded[0], loaded[1],
                           args.language)
