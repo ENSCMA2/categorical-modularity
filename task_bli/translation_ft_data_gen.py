@@ -19,23 +19,23 @@ import argparse
 parser = argparse.ArgumentParser()
 parser.add_argument("--train_to_file",
     help = "name of file with train word list for given language to English,"
-    + " 2-column space-separated txt file, 1st column is non-English,"
-    + " no headers",
+            + " 2-column space-separated txt file, 1st column is non-English,"
+            + " no headers",
     default = "data/es-en.0-5000.txt")
 parser.add_argument("--train_from_file",
     help = "name of file with train word list for given language from English,"
-    + " 2-column space-separated txt file, 2nd column is non-English,"
-    + " no headers",
+            + " 2-column space-separated txt file, 2nd column is non-English,"
+            + " no headers",
     default = "data/en-es.0-5000.txt")
 parser.add_argument("--test_to_file",
     help = "name of file with test word list for given language to English,"
-    + " 2-column space-separated txt file, 1st column is non-English,"
-    + " no headers",
+            + " 2-column space-separated txt file, 1st column is non-English,"
+            + " no headers",
     default = "data/es-en.5000-6500.txt")
 parser.add_argument("--test_from_file",
     help = "name of file with test word list for given language from English,"
-    + " 2-column space-separated txt file, 2nd column is non-English,"
-    + " no headers",
+            + " 2-column space-separated txt file, 2nd column is non-English,"
+            + " no headers",
     default = "data/en-es.5000-6500.txt")
 parser.add_argument("--target_model_file",
     help = "name of FastText-compatible model file to load for non-English"
@@ -47,11 +47,11 @@ parser.add_argument("--english_model_file",
     default = "models/wiki.en.bin")
 parser.add_argument("--language",
     help = "name of language that the model/words correspond to, "
-    + "will be used to name output files",
+           + "will be used to name output files",
     default = "spanish")
 parser.add_argument("--model_name",
     help = "name of embedding model, "
-    + "will be used to name output files",
+           + "will be used to name output files",
     default = "ft")
 args = parser.parse_args()
 
@@ -73,11 +73,11 @@ with open(train_to_file, "r") as words:
     tgt_vectors = [model[tgt_wds[i]] for i in range(len(tgt_wds))]
     eng_vectors = [englishmodel[eng_wds[i]] for i in range(len(eng_wds))]
     with open("data/" + lang + "_to_english_" + lang + "_translation_"
-              + model_name + "_vecs_train.txt", "w") as o:
+               + model_name + "_vecs_train.txt", "w") as o:
         for v in tgt_vectors:
             o.write(str(list(v)) + "\n")
     with open("data/" + lang + "_to_english_english_translation_" + model_name
-              + "_vecs_train.txt", "w") as o:
+               + "_vecs_train.txt", "w") as o:
         for v in eng_vectors:
             o.write(str(list(v)) + "\n")
 
@@ -88,11 +88,11 @@ with open(test_to_file, "r") as words:
     tgt_vectors = [model[tgt_wds[i]] for i in range(len(tgt_wds))]
     eng_vectors = [englishmodel[eng_wds[i]] for i in range(len(eng_wds))]
     with open("data/" + lang + "_to_english_" + lang + "_translation_"
-              + model_name + "_vecs_test.txt", "w") as o:
+               + model_name + "_vecs_test.txt", "w") as o:
         for v in tgt_vectors:
             o.write(str(list(v)) + "\n")
     with open("data/" + lang + "_to_english_english_translation_" + model_name
-              + "_vecs_test.txt", "w") as o:
+               + "_vecs_test.txt", "w") as o:
         for v in eng_vectors:
             o.write(str(list(v)) + "\n")
 
@@ -103,11 +103,11 @@ with open(train_from_file, "r") as words:
     tgt_vectors = [model[tgt_wds[i]] for i in range(len(tgt_wds))]
     eng_vectors = [englishmodel[eng_wds[i]] for i in range(len(eng_wds))]
     with open("data/" + lang + "_from_english_" + lang + "_translation_"
-              + model_name + "_vecs_train.txt", "w") as o:
+               + model_name + "_vecs_train.txt", "w") as o:
         for v in tgt_vectors:
             o.write(str(list(v)) + "\n")
     with open("data/" + lang + "_from_english_english_translation_" + model_name
-              + "_vecs_train.txt", "w") as o:
+               + "_vecs_train.txt", "w") as o:
         for v in eng_vectors:
             o.write(str(list(v)) + "\n")
 
@@ -118,11 +118,11 @@ with open(test_from_file, "r") as words:
     tgt_vectors = [model[tgt_wds[i]] for i in range(len(tgt_wds))]
     eng_vectors = [englishmodel[eng_wds[i]] for i in range(len(eng_wds))]
     with open("data/" + lang + "_from_english_" + lang + "_translation_"
-              + model_name + "_vecs_test.txt", "w") as o:
+               + model_name + "_vecs_test.txt", "w") as o:
         for v in tgt_vectors:
             o.write(str(list(v)) + "\n")
     with open("data/" + lang + "_from_english_english_translation_" + model_name
-              + "_vecs_test.txt", "w") as o:
+               + "_vecs_test.txt", "w") as o:
         for v in eng_vectors:
             o.write(str(list(v)) + "\n")
 
