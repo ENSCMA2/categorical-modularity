@@ -4,6 +4,7 @@ or musematrices.py depending on what model you want. Then, paste the output file
 contents into an Excel sheet, split the data to columns, get rid of the []
 characters, and re-download as a csv. Results are printed to console.
 '''
+
 # imports
 import numpy as np
 import csv 
@@ -63,12 +64,12 @@ for k in lst:
     m = 0 
     for i in range(len(knnmatrix[0])):
         for j in range(len(knnmatrix[0])):
-            if ((knnmatrix[i, j] == 1)):
+            if knnmatrix[i, j] == 1:
                 m += 1
 
   # now the true ac
     for i in range(len(ac)):
-        ac[i] = ac[i]/(m)
+        ac[i] = ac[i] / m
 
     # now we compute ell (modularity paper), called ecc here (fraction of edges within the same category)
     ecc = []
@@ -84,7 +85,7 @@ for k in lst:
 
     # actually divided by 2m
     for i in range(len(ecc)):
-        ecc[i] = ecc[i]/(m)
+        ecc[i] = ecc[i] / m
 
     # Given C total categories, we calculate the overall modularity Q
     Q = 0
