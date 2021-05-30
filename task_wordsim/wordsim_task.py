@@ -36,8 +36,7 @@ parser.add_argument("--language",
     default = "english")
 args = parser.parse_args()
 
-datafile = args.data_file
-labelfile = args.label_file
+datafile, labelfile = args.data_file, args.label_file
 
 dataset_size = int(args.dataset_size)
 numtrials = int(args.num_trials)
@@ -48,10 +47,7 @@ loss_avg = 0
 for i in range(numtrials):
     test = random.sample(possibilities,
                          int(dataset_size * (1 - float(args.train_proportion))))
-    traindata = []
-    testdata = []
-    trainlabels = []
-    testlabels = []
+    traindata, testdata, trainlabels, testlabels = [], [], [], []
     with open(datafile, "r+") as o:
         for k in range(dataset_size):
             l = [float(y) for y in str(o.readline()).strip("[] \n").split(",")]
