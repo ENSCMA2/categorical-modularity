@@ -59,7 +59,7 @@ def load_data(sheet, indices, size):
     return X_TRAIN, X_TEST, Y_TRAIN, Y_TEST
 
 def average(numbers):
-    return sum(numbers)/len(numbers)
+    return sum(numbers) / len(numbers)
 
 numtrials = args.num_trials
 
@@ -80,6 +80,6 @@ for i in range(numtrials):
     storage["precision"].append(precision)
 
 with open("data/" + args.language + "_movies_" + args.model_name + "_metrics"
-          + args.numtrials + ".txt", "w") as o:
+           + args.numtrials + ".txt", "w") as o:
     o.write("Accuracy: " + str(average(storage["accuracy"])) + "\n")
     o.write("Precision: " + str(average(storage["precision"])))
