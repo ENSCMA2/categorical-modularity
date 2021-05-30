@@ -38,16 +38,10 @@ model = fasttext.load_model(args.model_file)
 
 with open(txtfile, "r+") as o:
     words = [line.strip("\n").split("\t") for line in list(o)]
-    vecs = []
-    s = []
+    vecs, s = [], []
     for w in words:
-        w1 = model[w[0]]
-        w2 = model[w[1]]
-        euclidean = 0
-        manhattan = 0
-        cosd = 0
-        mag1 = 0
-        mag2 = 0
+        w1, w2 = model[w[0]], model[w[1]]
+        euclidean, manhattan, cosd, mag1, mag2 = 0, 0, 0, 0, 0
         for k in range(len(w1)):
             euclidean += (w1[k] - w2[k]) * (w1[k] - w2[k])
             manhattan += abs(w1[k] - w2[k])
@@ -59,10 +53,10 @@ with open(txtfile, "r+") as o:
         vecs.append([euclidean, manhattan, cosd])
         s.append(w[2])
     with open("data/" + args.language + "_wordsim_" + args.model_name
-              + "_vecs.txt", "w") as tw:
+               + "_vecs.txt", "w") as tw:
         for k in range(len(vecs)):
             tw.write(str(list(vecs[k])) + "\n")
     with open("data/" + args.language + "_wordsim_" + args.model_name
-              + "_scores.txt", "w") as tw:
+               + "_scores.txt", "w") as tw:
         for k in range(len(s)):
             tw.write(s[k] + "\n")
