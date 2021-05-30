@@ -28,9 +28,7 @@ txtfile = args.word_file
 
 with open(txtfile, "r+") as o:
     words = [line.strip("\n").split("\t") for line in list(o)]
-    p1 = []
-    p2 = []
-    s = []
+    p1, p2, s = [], [], []
     for w in words:
         w1 = translator.translate(w[0], lang_src = args.source_language,
           lang_tgt = args.target_language)
