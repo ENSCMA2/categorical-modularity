@@ -48,13 +48,12 @@ txtfile = args.word_file
 # loads embedding model from model_file path
 # source: https://github.com/facebookresearch/MUSE/blob/master/demo.ipynb
 def load_vec(emb_path, nmax = 200000):
-    vectors = []
-    word2id = {}
-    with io.open(emb_path, 'r', encoding='utf-8', newline='\n', errors='ignore') as f:
+    vectors, word2id = [], {}
+    with io.open(emb_path, 'r', encoding = 'utf-8', newline = '\n', errors = 'ignore') as f:
         next(f)
         for i, line in enumerate(f):
             word, vect = line.rstrip().split(' ', 1)
-            vect = np.fromstring(vect, sep=' ')
+            vect = np.fromstring(vect, sep = ' ')
             assert word not in word2id, 'word found twice'
             vectors.append(vect)
             word2id[word] = len(word2id)
@@ -116,11 +115,7 @@ with open(txtfile, "r+") as o:
                      loaded[0], loaded[1], args.language)
         w2 = get_emb(w[1], loaded[0], loaded[1],
                      loaded[0], loaded[1], args.language)
-        euclidean = 0
-        manhattan = 0
-        cosd = 0
-        mag1 = 0
-        mag2 = 0
+        euclidean, manhattan, cosd, mag1, mag2 = 0, 0, 0, 0, 0
         for k in range(len(w1)):
             euclidean += (w1[k] - w2[k]) * (w1[k] - w2[k])
             manhattan += abs(w1[k] - w2[k])
@@ -134,10 +129,10 @@ with open(txtfile, "r+") as o:
         vecs.append([euclidean, manhattan, cosd])
         s.append(w[2])
     with open("data/" + args.language + "_wordsim_" + args.model_name
-              + "_vecs.txt", "w") as tw:
+               + "_vecs.txt", "w") as tw:
         for k in range(len(vecs)):
             tw.write(str(list(vecs[k])) + "\n")
     with open("data/" + args.language + "_wordsim_" + args.model_name
-              + "_scores.txt", "w") as tw:
+               + "_scores.txt", "w") as tw:
         for k in range(len(s)):
             tw.write(s[k] + "\n")
