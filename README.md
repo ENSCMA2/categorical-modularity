@@ -6,7 +6,40 @@ Categorical modularity is a low-resource intrinsic metric for evaluation of word
   - General categorical modularity with respect to a fixed list of semantic categories
   - Single-category modularity with respect to a fixed list of semantic categories
   - Network modularity of emerging categories from the nearest-neighbor graph created by a community detection algorithm
+- Over several language/model pairs, calculate the correlation between any of the above three modularity scores and performance scores on the following downstream tasks:
+  - Sentiment analysis on IMDB movie reviews
+  - Word similarity based on SEMEVAL 2017 word pairs
+  - Bilingual lexicon induction (both English - target language and source language - English)
   
+ 
+ ## Summary of Usage
+This repository can be used to take a word embedding model and a list of words labeled with semantic categories, generate embeddings for those words, calculate the general, single-category, and network modularities of the model with respect to the words/categories, and calculate the correlations of those modularities with downstream tasks. Example workflow (for further instructions on how to use each file, refer to subsequent sections in this README as well as the `--help` messages and docstrings in each file described):
+ 1. Download and unzip a word embedding model binary. Examples include [these binaries](https://fasttext.cc/docs/en/pretrained-vectors.html) for FastText, [these binaries](https://github.com/facebookresearch/MUSE#download) for MUSE, and [these binaries](https://github.com/jvparidon/subs2vec#downloading-datasets) for subs2vec.
+ 2. Obtain a list of words in the language corresponding to the embedding model, formatted in a single-column headerless txt file. See `core/words/dutch.txt` for an example of such a file.
+ 3. Obtain a list of category labels corresponding to the word list (i.e. if label n = k in the category list, then word n in the word list belongs to category k), formatted in a single-column headerless csv file. See `core/words/categories_3.csv` for an example of such a file. 
+ 4. Run one of the `*vector_gen.py` files inside `core` to produce a txt file of vectors corresponding to each word in the word list. For FastText-compatible model binaries such as FastText and subs2vec, use `core/ft_vector_gen.py`. For MUSE-compatible binaries, use `core/muse_vector_gen.py`.
+ 5. Run a `*matrices.py` file from `core` to generate an n by n nearest-neighbor matrix for your list of n words. Use `core/ft_matrices.py` for FastText-compatible model binaries and `core/muse_matrices.py` for MUSE-compatible model binaries.
+ 6. To calculate the general categorical modularity for your given language/model, run `core/general_modularity.py` using your category labels and the matrix that was generated in your `*matrices.py` run.
+ 7. To calculate unsupervised network modularity, run `core/unsupervised_modularity.py`.
+ 8. To calculate single-category modularities, run `single_category/single_category_modularity.py` using your category file and generated matrix file.
+ 9. Run the sentiment analysis task:
+   a. Download the English IMDB movie reviews from [here](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews). 
+   b. Turn the csv into a tsv by renaming it in Terminal or in Finder.
+   c. Translate the data into your target language by running `task_movies/movie_data_gen.py`. This will produce a txt file with just the reviews.
+   d. Generate embeddings for each review by passing the aforementioned txt file into one of the `*movie_gen.py` files in `task_movies`. Use `task_movies/ft_movie_gen.py` for FastText-compatible embeddings and `task_movies/muse_movie_gen.py` for MUSE-compatible embeddings.
+   e. Run the analysis task by running `task_movies/movie_task.py`. This will output a txt file with the average accuracy and precision scores over your desired number of trials.
+ 10. Run the word similarity task: 
+   a. Several example data files are in `task_wordsim/data`. If you would like to freshly translate a data file, use `task_wordsim/wordsim_trans.py`. You can also download data from [here](https://alt.qcri.org/semeval2017/task2/index.php?id=data-and-tools).
+   b. Run one of the `wordsim*data_gen.py` files in `task_wordsim` to generate embeddings for your word pairs.
+   c. Run the similarity task with `task_wordsim/wordsim_task.py`. This will print your average MSE loss over your desired number of trials to the console.
+ 11. Run the bilingual lexicon induction task:
+   a. Obtain data. Several sample files are in `task_bli/data`. The naming convention is `[2-letter source language code]-[2-letter target language code].0-5000.txt` for training data and `[2-letter source language code]-[2-letter target language code].5000-6500.txt` for testing data. If you use custom files, make sure they conform to the formatting specifications listed under the `--help` messages in the `task_bli/translation*data_gen.py` files. Note as well that our runner runs both the to-English and from-English tasks in one go, so make sure to have both sets of files ready.
+   b. Generate word embeddings by running the appropriate `task_bli/translation*data_gen.py` file.
+   c. Run the induction task by running `task_bli/translation_task.py`. This will write a file with both the to-English and from-English average cosine similarities between predicted translations and true translations.
+ 12. Run steps 1-11 for several languages/models, recording downstream task scores along the way. For each task, compile the performance scores into a single-column csv.
+ 13. To calculate the correlation between a set of general or unsupervised modularity scores and a set of downstream performance scores, run `core/correlation.py`. 
+ 14. To calculate correlations with single-category modularities, run `single_category/single_category_correlation.py`.
+ 
  ## Dependencies
  - [Python 3.6+](https://www.python.org/downloads/)
  - [scipy](https://www.scipy.org/)
@@ -50,13 +83,13 @@ python3 core/correlation.py --modularity_file MODULARITY_FILE --downstream_file 
 
 ## Single-Category Modularity Correlations
 Our paper also explores an extension of categorical modularity to single-category modularity, which we test on each of the 59 categories listed in our paper. The `single_category` directory contains code that can be used to calculate these single-category modularities and their correlations with downstream task performance. Brief descriptions of files and functionalities:
+- `single_category/single_category_modularity.py`: given a list of category labels for words and a square matrix of nearest-neighbor relationships among words, calculates single-category modularities for each category. Usage: 
+```
+python3 single_category/single_category_modularity.py --categories_file CATEGORIES_FILE --matrix_file MATRIX_FILE
+```
 - `single_category/single_category_correlation.py`: given a file with modularity scores for a set of categories and a file with performance metrics for a particular tasks, writes an output file with correlations between performance metrics and modularities with respect to each category. See `single_category/data/3_2.csv` for how the `modularity_file` should be formatted, and see `single_categories/movies_accuracy.csv` for how the `metrics_file` should be formatted. Usage:
 ```
 python3 single_category/single_category_correlation.py --modularity_file MODULARITY_FILE --metrics_file METRICS_FILE --out_file OUT_FILE
-```
-- `single_category/single_category_modularity.py`: given a list of category labels for words and a square matrix of nearest neighbor relationships among words, calculates single-category modularities for each category. Examples for formatting purposes can be found in `single_category/data/categories_3.csv` (for `categories_file`) and `single_category/data/muse_finnish.csv` (for `matrix_file`). Usage: 
-```
-python3 single_category/single_category_modularity.py --categories_file CATEGORIES_FILE --matrix_file MATRIX_FILE
 ```
 
 
@@ -83,7 +116,7 @@ python3 task_movies/movie_task.py --data_file DATA_FILE --model_name MODEL_NAME 
 
 ### Word Similarity
 The second task we run is word similarity calculation on pairs of words given in [SEMEVAL 2017](https://alt.qcri.org/semeval2017/task2/index.php?id=data-and-tools). Files and functionalities (all within `task_wordsim` directory):
-- `task_wordsim/wordsim_trans.py`: translates English dataset into target language of choice. Usage:
+- `task_wordsim/wordsim_trans.py`: translates source language dataset into target language of choice. Usage:
 ```
 python3 task_wordsim/wordsim_trans.py --word_file WORD_FILE --source_language --SOURCE_LANGUAGE --target_language TARGET_LANGUAGE
 ```
@@ -115,4 +148,4 @@ python3 task_bli/translation_muse_data_gen.py --train_to_file TRAIN_TO_FILE --tr
 python3 task_bli/translation_task.py --target_train_to_file TARGET_TRAIN_TO_FILE --english_train_to_file ENGLISH_TRAIN_TO_FILE --target_train_from_file TARGET_TRAIN_FROM_FILE --english_train_from_file ENGLISH_TRAIN_FROM_FILE --target_test_to_file TARGET_TEST_TO_FILE --english_test_to_file ENGLISH_TEST_TO_FILE --target_test_from_file TARGET_TEST_FROM_FILE --english_test_from_file ENGLISH_TEST_FROM_FILE --train_size TRAIN_SIZE --test_size TEST_SIZE --language LANGUAGe --model_name MODEL_NAME
 ```
 
-We also provide some data files that can be used to run each of these code files with its default parameters. To run the files involving model binaries with our defaults, download FastText models from [here](https://fasttext.cc/docs/en/crawl-vectors.html) and MUSE models from [here](https://github.com/facebookresearch/MUSE#download). Additionally, our paper discusses experiments on subs2vec embeddings, which can be found [here](https://github.com/jvparidon/subs2vec). 
+We also provide some data files that can be used to run each of these code files with its default parameters. To run the files involving model binaries with our defaults, download FastText models from [here](https://fasttext.cc/docs/en/pretrained-vectors.html) and MUSE models from [here](https://github.com/facebookresearch/MUSE#download). Additionally, our paper discusses experiments on subs2vec embeddings, which can be found [here](https://github.com/jvparidon/subs2vec) - we used the model binaries under OpenSubtitles. 
