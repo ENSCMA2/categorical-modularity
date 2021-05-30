@@ -14,7 +14,7 @@ import argparse
 # processing command-line arguments
 parser = argparse.ArgumentParser()
 parser.add_argument("--data_file",
-    help = "name of file with word pairs and similarities, 3-column .txt",
+    help = "name of movie data file, 2-column tsv, 1st column is review, 2nd column is 0/1 label, no header",
     default = "data/IMDBselected.tsv")
 parser.add_argument("--target_language_name",
     help = "name of language you want to translate to",
@@ -27,6 +27,7 @@ args = parser.parse_args()
 # initializing translator
 translator = google_translator()
 
+# open English file, translate line by line, write to target file
 with open(args.data_file, encoding = "ISO-8859-1", mode='r+') as o:
     lines = csv.reader(o, delimiter = '\t')
     data = list(lines)
