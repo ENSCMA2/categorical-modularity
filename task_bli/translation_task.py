@@ -6,6 +6,8 @@ have run either translationftdatagen.py or translationmusedatagen.py first,
 depending on which model you'd like to use for your embeddings, so that you
 have input vector files that conform to our naming conventions.
 '''
+
+# imports
 import fasttext
 import io
 import numpy as np
@@ -31,9 +33,7 @@ def load(sheet, l):
 def csim(pred, true):
     total = 0
     for j in range(len(pred)):
-        dp = 0
-        mag1 = 0
-        mag2 = 0
+        dp, mag1, mag2 = 0, 0, 0
         for k in range(len(pred[j])):
             dp += pred[j][k] * true[j][k]
             mag1 += pred[j][k] * pred[j][k]
@@ -76,11 +76,11 @@ parser.add_argument("--test_size",
     default = "1500")
 parser.add_argument("--language",
     help = "name of language that the model/words correspond to, "
-    + "will be used to name output files",
+            + "will be used to name output files",
     default = "spanish")
 parser.add_argument("--model_name",
     help = "name of embedding model, "
-    + "will be used to name output files",
+            + "will be used to name output files",
     default = "ft")
 args = parser.parse_args()
 
