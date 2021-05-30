@@ -38,7 +38,6 @@ args = parser.parse_args()
 lemmatizer = WordNetLemmatizer()
 stemmer = PorterStemmer()
 nmax = 200000  # maximum number of word embeddings to load
-txtfile = args.word_file
 
 # loads embedding model from model_file path
 # source: https://github.com/facebookresearch/MUSE/blob/master/demo.ipynb

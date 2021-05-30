@@ -61,7 +61,7 @@ def load_data(sheet, indices, size):
 def average(numbers):
     return sum(numbers) / len(numbers)
 
-numtrials = args.num_trials
+numtrials = int(args.num_trials)
 
 storage = {"accuracy": [], "precision": []}
 

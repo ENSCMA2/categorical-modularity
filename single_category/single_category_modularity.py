@@ -1,5 +1,6 @@
 '''
-Compute single-category modularities. Results printed to console.
+Compute single-category modularities. Results printed to console in list format,
+order of list matches order of categories in categories_file.
 '''
 
 # imports

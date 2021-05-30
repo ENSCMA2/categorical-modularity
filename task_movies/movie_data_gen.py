@@ -1,7 +1,8 @@
 '''
-Generate translated IMDB movie data. Input is a 2-column tsv with reviews in
-first column and ratings in second column. Output is a txt with just reviews,
-placed into the 'data' directory and named IMDB_[target language].txt
+Generate translated IMDB movie data (source is English). Input is a 2-column tsv 
+with reviews in first column and ratings in second column. Output is a txt with 
+just reviews, placed into the 'data' directory and named IMDB_[target language].txt.
+Prints reviews in case API rate limit is exceeded.
 '''
 
 # imports
@@ -28,14 +29,15 @@ args = parser.parse_args()
 translator = google_translator()
 
 # open English file, translate line by line, write to target file
-with open(args.data_file, encoding = "ISO-8859-1", mode='r+') as o:
+with open(args.data_file, encoding = "ISO-8859-1", mode = 'r+') as o:
     lines = csv.reader(o, delimiter = '\t')
     data = list(lines)
     x = [point[0] for point in data]
     with open("data/IMDB_" + args.target_language_name + ".txt", "w") as n:
         for point in x:
-          t = translator.translate(point, lang_src = args.source_language,
+          t = translator.translate(point, lang_src = "en",
                                    lang_tgt = args.target_language_code)
           if type(t) != str:
               t = t[0]
+          print(t)
           n.write(t + "\n")

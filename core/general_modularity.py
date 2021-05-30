@@ -1,7 +1,7 @@
 '''
-Calculate general categorical modularity. To generate a matrix, run ftmatrices.py
-or musematrices.py depending on what model you want. Then, paste the output file
-contents into an Excel sheet, split the data to columns, get rid of the []
+Calculate general categorical modularity for k = 2, 3, and 4 neighbors. To generate a matrix, 
+run ftmatrices.py or musematrices.py depending on what model you want. Then, paste the 
+output file contents into an Excel sheet, split the data to columns, get rid of the []
 characters, and re-download as a csv. Results are printed to console.
 '''
 
@@ -43,6 +43,7 @@ counters.append(i)  # for the last category
 file = open(args.matrix_file)  # read in your matrix, no word labels
 M = np.loadtxt(file, delimiter = ",")
 
+# possible values of k for k-NN
 lst = [2, 3, 4]
 for k in lst:
     knn = kneighbors_graph(M, k, mode = 'connectivity', include_self = True) 
@@ -99,4 +100,4 @@ for k in lst:
     Qmax = 1 - Qmax
     Qnorm = Q/Qmax
 
-    print(Qnorm)
+    print("k = " + str(k) + ": " + str(Qnorm))

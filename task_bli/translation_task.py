@@ -21,7 +21,7 @@ import argparse
 # load a file "sheet" of input vectors
 def load(sheet, l):
     x = []
-    with open((sheet), "r+") as o:
+    with open(sheet, "r+") as o:
         for k in range(l):
             l = str(o.readline()).strip("[] \n").split(",")
             lf = [float(i) for i in l]
