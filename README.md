@@ -83,15 +83,14 @@ python3 core/correlation.py --modularity_file MODULARITY_FILE --downstream_file 
 
 ## Single-Category Modularity Correlations
 Our paper also explores an extension of categorical modularity to single-category modularity, which we test on each of the 59 categories listed in our paper. The `single_category` directory contains code that can be used to calculate these single-category modularities and their correlations with downstream task performance. Brief descriptions of files and functionalities:
-- `single_category/single_category_modularity.py`: given a list of category labels for words and a square matrix of nearest-neighbor relationships among words, calculates single-category modularities for each category. Usage: 
+- `single_category/single_category_modularity.py`: given a list of category labels for words and a square matrix of nearest-neighbor relationships among words, calculates single-category modularities for each category and prints results to console. Usage: 
 ```
 python3 single_category/single_category_modularity.py --categories_file CATEGORIES_FILE --matrix_file MATRIX_FILE
 ```
-- `single_category/single_category_correlation.py`: given a file with modularity scores for a set of categories and a file with performance metrics for a particular tasks, writes an output file with correlations between performance metrics and modularities with respect to each category. See `single_category/data/3_2.csv` for how the `modularity_file` should be formatted, and see `single_categories/movies_accuracy.csv` for how the `metrics_file` should be formatted. Usage:
+- `single_category/single_category_correlation.py`: given a file with modularity scores for a set of categories and a file with performance metrics for a particular tasks, writes an output file with correlations between performance metrics and modularities with respect to each category. See `single_category/data/3_2.csv` for how the `modularity_file` should be formatted (we recommend compiling modularities from `single_category_modularity.py` into a spreadsheet as we did), and see `single_categories/movies_accuracy.csv` for how the `metrics_file` should be formatted. Usage:
 ```
 python3 single_category/single_category_correlation.py --modularity_file MODULARITY_FILE --metrics_file METRICS_FILE --out_file OUT_FILE
 ```
-
 
 ## Running Downstream Tasks
 Our paper presents moderate to strong correlations of categorical modularity with four downstream tasks. We provide code to reproduce these tasks in the `task_bli`, `task_wordsim`, and `task_movies` directories.
