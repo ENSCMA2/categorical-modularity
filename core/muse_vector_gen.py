@@ -45,11 +45,11 @@ nmax = 200000  # maximum number of word embeddings to load
 def load_vec(emb_path, nmax = 200000):
     vectors = []
     word2id = {}
-    with io.open(emb_path, 'r', encoding='utf-8', newline='\n', errors='ignore') as f:
+    with io.open(emb_path, 'r', encoding = 'utf-8', newline = '\n', errors = 'ignore') as f:
         next(f)
         for i, line in enumerate(f):
             word, vect = line.rstrip().split(' ', 1)
-            vect = np.fromstring(vect, sep=' ')
+            vect = np.fromstring(vect, sep = ' ')
             assert word not in word2id, 'word found twice'
             vectors.append(vect)
             word2id[word] = len(word2id)
