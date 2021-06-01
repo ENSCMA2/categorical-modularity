@@ -19,23 +19,23 @@ This repository can be used to take a word embedding model and a list of words l
  3. Obtain a list of category labels corresponding to the word list (i.e. if label n = k in the category list, then word n in the word list belongs to category k), formatted in a single-column headerless csv file. See `core/words/categories_3.csv` for an example of such a file. 
  4. Run one of the `*vector_gen.py` files inside `core` to produce a txt file of vectors corresponding to each word in the word list. For FastText-compatible model binaries such as FastText and subs2vec, use `core/ft_vector_gen.py`. For MUSE-compatible binaries, use `core/muse_vector_gen.py`.
  5. Run a `*matrices.py` file from `core` to generate an n by n nearest-neighbor matrix for your list of n words. Use `core/ft_matrices.py` for FastText-compatible model binaries and `core/muse_matrices.py` for MUSE-compatible model binaries.
- 6. To calculate the general categorical modularity for your given language/model, run `core/general_modularity.py` using your category labels and the matrix that was generated in your `*matrices.py` run. The results we obtained are in `core/results_modularity`, and the labeling scheme is `[level]_[k].csv`, with levels and k values as specified in Sections 4 and 5 of our paper, respectively.
- 7. To calculate unsupervised network modularity, run `core/unsupervised_modularity.py`.
- 8. To calculate single-category modularities, run `single_category/single_category_modularity.py` using your category file and generated matrix file.
+ 6. To calculate the general categorical modularity for your given language/model, run `core/general_modularity.py` using your category labels and the matrix that was generated in your `*matrices.py` run. The results we obtained are in `core/results_general_modularity`, and the labeling scheme is `[level]_[k].csv`, with levels and k values as specified in Sections 4 and 5 of our paper, respectively.
+ 7. To calculate unsupervised network modularity, run `core/unsupervised_modularity.py`. The results we obtained are in `core/results_unsupervised_modularity`, labeled `[k].csv`, with k as specified in Section 5 of our paper.
+ 8. To calculate single-category modularities, run `single_category/single_category_modularity.py` using your category file and generated matrix file. The results we obtained are in `single_category/data`, labeled the same way the general modularity results are labeled.
  9. Run the sentiment analysis task:
    a. Download the English IMDB movie reviews from [here](https://www.kaggle.com/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews). 
    b. Turn the csv into a tsv by renaming it in Terminal or in Finder.
    c. Translate the data into your target language by running `task_movies/movie_data_gen.py`. This will produce a txt file with just the reviews.
    d. Generate embeddings for each review by passing the aforementioned txt file into one of the `*movie_gen.py` files in `task_movies`. Use `task_movies/ft_movie_gen.py` for FastText-compatible embeddings and `task_movies/muse_movie_gen.py` for MUSE-compatible embeddings.
-   e. Run the analysis task by running `task_movies/movie_task.py`. This will output a txt file with the average accuracy and precision scores over your desired number of trials.
+   e. Run the analysis task by running `task_movies/movie_task.py`. This will output a txt file with the average accuracy and precision scores over your desired number of trials. Our accuracy and precision results are in `task_movies/results`.
  10. Run the word similarity task: 
    a. Several example data files are in `task_wordsim/data`. If you would like to freshly translate a data file, use `task_wordsim/wordsim_trans.py`. You can also download data from [here](https://alt.qcri.org/semeval2017/task2/index.php?id=data-and-tools).
    b. Run one of the `wordsim*data_gen.py` files in `task_wordsim` to generate embeddings for your word pairs.
-   c. Run the similarity task with `task_wordsim/wordsim_task.py`. This will print your average MSE loss over your desired number of trials to the console.
+   c. Run the similarity task with `task_wordsim/wordsim_task.py`. This will print your average MSE loss over your desired number of trials to the console. Our results are in `task_wordsim/results`.
  11. Run the bilingual lexicon induction task:
    a. Obtain data. Several sample files are in `task_bli/data`. The naming convention is `[2-letter source language code]-[2-letter target language code].0-5000.txt` for training data and `[2-letter source language code]-[2-letter target language code].5000-6500.txt` for testing data. If you use custom files, make sure they conform to the formatting specifications listed under the `--help` messages in the `task_bli/translation*data_gen.py` files. Note as well that our runner runs both the to-English and from-English tasks in one go, so make sure to have both sets of files ready.
    b. Generate word embeddings by running the appropriate `task_bli/translation*data_gen.py` file.
-   c. Run the induction task by running `task_bli/translation_task.py`. This will write a file with both the to-English and from-English average cosine similarities between predicted translations and true translations.
+   c. Run the induction task by running `task_bli/translation_task.py`. This will write a file with both the to-English and from-English average cosine similarities between predicted translations and true translations. Our results are in `task_bli/results`.
  12. Run steps 1-11 for several languages/models, recording downstream task scores along the way. For each task, compile the performance scores into a single-column csv.
  13. To calculate the correlation between a set of general or unsupervised modularity scores and a set of downstream performance scores, run `core/correlation.py`. 
  14. To calculate correlations with single-category modularities, run `single_category/single_category_correlation.py`.
